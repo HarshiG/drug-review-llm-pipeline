@@ -1,0 +1,2001 @@
+drug,condition,rating,side_effects,helped,sentiment
+Phentermine,Weight Loss,10,"['jitteriness', 'tremors', 'excessive sweating']",True,positive
+Desvenlafaxine,Depression,10,"['weight gain', 'feeling awful', 'despair']",True,positive
+Leuprolide,Endometriosis,8,"['hot flashes', 'mood swings']",True,positive
+Zyclara,Keratosis,7,"['hives', 'severe diarrhea', 'cold/flu', 'headache', 'joint soreness']",False,negative
+Diphenhydramine,Allergic Reactions,10,[],True,positive
+Progesterone,Perimenopausal Symptoms,9,[],,neutral
+Ethinyl estradiol / norethindrone,Birth Control,10,['extreme sleepiness'],True,positive
+Lansoprazole,Erosive Esophagitis,10,[],True,positive
+Etanercept,Rheumatoid Arthritis,8,"['injection pain', 'local injection site reaction']",True,positive
+Silenor,Insomnia,10,"['insomnia', 'intolerance to Lunesta', 'intolerance to Ambien', 'exhaustion', 'emotional instability', 'crying', 'sleep deprivation']",True,positive
+Augmentin,4</span> users found this comment helpful.,2,"['nausea', 'diarrhea', 'exhaustion', 'heart palpitations', 'itching', 'malaise']",False,negative
+Pradaxa,Prevention of Thromboembolism in Atrial Fibrillation,9,"['acid reflux', 'yeast infections', 'fungal infections', 'joint aches', 'vein pain']",True,mixed
+Levonorgestrel,Emergency Contraception,1,"['severe cramps', 'delayed menstruation']",False,negative
+Implanon,Birth Control,9,"['weight gain', 'water retention', 'implant site pinching sensation']",True,positive
+BuSpar,Anxiety,9,"['brain zapping (from previous medications Paxil and Lexapro)', 'increased hunger', 'minor dizziness']",True,positive
+Formoterol / mometasone,moterol / mometasone),5,"['sinusitis', 'migraine']",True,mixed
+Lubiprostone,Irritable Bowel Syndrome,8,[],True,positive
+Atrovent,"COPD, Maintenance",4,[],,mixed
+Belviq,Weight Loss,1,['nervousness'],,positive
+Adalimumab,Psoriasis,8,[],True,positive
+Clorazepate,Anxiety,10,"['loss of effectiveness', 'anxiety', 'panic attacks']",True,positive
+Propofol,Anesthesia,10,['grogginess'],True,positive
+Esomeprazole,GERD,1,"['difficulty swallowing', 'stomach noises', 'dry cough', 'lack of energy', 'fatigue']",False,negative
+Adderall,Narcolepsy,10,"['ineffectiveness', 'exhaustion', 'frustration']",False,negative
+Adapalene / benzoyl peroxide,Acne,4,[],False,mixed
+Ziprasidone,Bipolar Disorde,10,"['memory loss', 'forgetfulness', 'difficulty recalling past events']",True,mixed
+Nortriptyline,Migraine Prevention,10,[],True,positive
+Efavirenz / emtricitabine / tenofovir,HIV Infection,10,"['hallucinations', 'insomnia']",True,positive
+Vyvanse,ADHD,9,['irritability'],True,positive
+Asenapine,Schizophrenia,8,['somnolence'],True,positive
+Belviq,Weight Loss,10,['dry mouth'],True,positive
+Lialda,Ulcerative Colitis,8,[],True,mixed
+Sertraline,Social Anxiety Disorde,8,"['increased alcohol sensitivity/sedation with alcohol', 'decreased appetite', 'weight loss', 'decreased libido', 'withdrawal symptoms: cold sweats', 'withdrawal symptoms: tremors', 'withdrawal symptoms: suicidal ideation', 'withdrawal symptoms: dizziness', 'withdrawal symptoms: increased anxiety']",True,positive
+Lo Loestrin Fe,Birth Control,9,[],True,positive
+Beyaz,Birth Control,8,"['weight gain', 'increased appetite']",True,mixed
+Clindamycin,Acne,9,[],True,positive
+Nortrel 1 / 35,0</span> users found this comment helpful.,2,"['acne worsening', 'dry eyes', 'blurred vision', 'vision problems']",False,negative
+Alprazolam,Anxiety,10,"['pruritus', 'paresthesia', 'agitation', 'insomnia', 'restlessness', 'poor concentration']",True,positive
+Implanon,Birth Control,3,"['heavy periods', 'prolonged menstruation', 'irregular menstrual cycle', 'weight gain']",False,negative
+Escitalopram,Generalized Anxiety Disorde,10,[],True,positive
+Azithromycin,Upper Respiratory Tract Infection,10,[],True,positive
+Alprazolam,Anxiety,9,"['tolerance buildup', 'short duration of effect']",True,positive
+Escitalopram,Anxiety,10,[],True,positive
+Synvisc-One,Osteoarthritis,10,[],True,positive
+Copper,Birth Control,8,"['heavy periods', 'strong cramps']",True,positive
+Neurontin,Trigeminal Neuralgia,8,[],True,positive
+Amitiza,"Constipation, Chronic",8,['constipation'],True,mixed
+Ethinyl estradiol / norelgestromin,Birth Control,10,[],True,positive
+Trazodone,ibromyalgia,9,[],True,positive
+Amitriptyline,Migraine Prevention,10,[],True,positive
+Nicotine,Smoking Cessation,2,"['sore throat', 'throat irritation']",,negative
+Adalimumab,Psoriatic Arthritis,8,[],True,positive
+Trulicity,"Diabetes, Type 2",1,"['nausea', 'headache', 'vomiting', 'loss of appetite', 'diarrhea', 'sulfur burps', 'dysgeusia (bad taste)', 'exhaustion']",False,negative
+Norethindrone,Birth Control,1,"['breast soreness', 'acne', 'increased appetite', 'severe cramps', 'heavy menstrual bleeding with clots', 'irregular menstrual cycle']",False,negative
+Morphine,Pain,10,[],True,positive
+Ethinyl estradiol / etonogestrel,Birth Control,10,[],True,positive
+Baclofen,Muscle Spasm,1,[],False,negative
+Methadone,Opiate Withdrawal,10,[],True,positive
+Levonorgestrel,Birth Control,7,"['light non-stop bleeding', 'hair loss', 'cramping', 'mood swings', 'loss of sex drive']",True,mixed
+Drospirenone / ethinyl estradiol,Premenstrual Dysphoric Disorde,1,"['acne', 'abdominal cramping', 'severe abdominal pain', 'prolonged menstrual bleeding']",False,negative
+Ethinyl estradiol / norethindrone,Birth Control,10,"['nausea', 'spotting']",True,positive
+Forteo,Osteoporosis,10,[],True,positive
+Oxycodone,Chronic Pain,8,['painful period during medication switch'],True,positive
+Etonogestrel,Birth Control,1,"['weight gain', 'depression', 'anxiety', 'anemia', 'acne', 'ovarian cysts', 'prolonged menstrual bleeding', 'fatigue', 'low energy', 'negative mood']",False,negative
+Levonorgestrel,Emergency Contraception,9,"['light cramping', 'breast soreness', 'spotting']",True,positive
+Tri-Previfem,Endometriosis,7,[],True,positive
+Klonopin,Anxiety,9,[],True,positive
+Ortho Tri-Cyclen,Birth Control,1,"['irritability', 'mood swings', 'depression', 'agitation', 'emotional instability']",False,negative
+Phentermine / topiramate,Weight Loss,10,['tingling in toes'],True,positive
+Acetaminophen / pamabrom,Back Pain,10,[],True,positive
+Plan B,Emergency Contraception,1,['delayed menstruation'],False,negative
+Montelukast,"Asthma, Maintenance",10,[],True,positive
+Levonorgestrel,Birth Control,3,"['severe pain', 'general malaise']",False,negative
+Amitriptyline,Pain,8,[],True,positive
+Amphetamine / dextroamphetamine,ADHD,10,[],True,positive
+Varenicline,Smoking Cessation,9,"['nausea', 'fatigue']",True,positive
+Cyclobenzaprine,Muscle Spasm,10,"['drowsiness', 'hangover-like feeling']",True,positive
+Nitrofurantoin,Urinary Tract Infection,10,[],True,positive
+Delsym,Cough,1,"['bad taste', 'chills', 'extreme nausea', 'diarrhea', 'dizziness']",False,negative
+Fentanyl,Pain,9,"['heavy sweating', 'vomiting', 'drowsiness', 'nodding off', 'itching at patch site']",True,positive
+Venlafaxine,Depression,1,"['withdrawal symptoms', 'worsening depression', 'increased anxiety', 'suicidal ideation']",False,negative
+Mupirocin,Secondary Cutaneous Bacterial Infections,10,[],True,positive
+Olanzapine,Major Depressive Disorde,2,"['weight gain', 'increased appetite', 'lethargy', 'fatigue', 'hypersomnia', 'hyperglycemia']",True,negative
+Lisdexamfetamine,ADHD,4,"['weight loss', 'emotional lability', 'eye tics']",True,mixed
+Trintellix,Depression,10,[],True,positive
+Diclofenac,Osteoarthritis,6,"['muscle aches', 'irritability', 'weakness', 'fatigue', 'stomach issues']",True,negative
+Ventolin HFA,"COPD, Maintenance",10,[],True,positive
+Nexplanon,Birth Control,1,"['emotional instability', 'loss of libido', 'acne', 'anger/irritability', 'bloating', 'mood changes']",False,negative
+Victoza,Weight Loss,10,"['difficulty urinating', 'delayed bladder emptying']",True,positive
+Omalizumab,"Asthma, Maintenance",10,[],True,positive
+Escitalopram,Depression,8,"['yawning', 'morning sleepiness']",True,positive
+Etonogestrel,Birth Control,3,"['prolonged bleeding', 'acne', 'recurrent breakouts']",False,negative
+Paxil,Panic Disorde,10,[],True,positive
+Microgestin Fe 1 / 20,Birth Control,10,['breakthrough bleeding'],True,positive
+Bupropion,Smoking Cessation,9,[],True,positive
+Klonopin,Anxiety,10,[],True,positive
+Atacand,High Blood Pressure,7,[],,neutral
+Docosanol,Herpes Simplex,1,[],True,positive
+Miconazole,Vaginal Yeast Infection,1,"['insomnia', 'crying', 'burning', 'itching']",False,negative
+Bupropion,Depression,10,"['irritability', 'mood instability', 'mental fog', 'sexual dysfunction']",True,positive
+Drysol,Hyperhidrosis,10,[],True,positive
+Chateal,Birth Control,10,['breast enlargement'],True,positive
+Acetaminophen / butalbital,Headache,9,"['sleepiness', 'relaxation']",True,positive
+Brimonidine,Rosacea,1,[],False,negative
+Contrave,Obesity,3,"['polyuria (frequent urination at night)', 'constipation', 'anxiety', 'nausea/feeling sick when hot', 'appetite suppression', 'nausea from not eating']",True,mixed
+Crisaborole,Atopic Dermatitis,5,"['intense stinging', 'burning', 'facial irritation']",False,negative
+Dovonex,Psoriasis,3,"['worsened psoriasis', 'pruritus']",False,negative
+Plan B,Emergency Contraception,10,[],True,positive
+Montelukast,"Asthma, Maintenance",10,[],True,positive
+Ortho Tri-Cyclen,Birth Control,5,"['continuous bleeding', 'prolonged bleeding after discontinuation']",False,negative
+Kariva,Birth Control,9,"['weight gain', 'nausea', 'breast enlargement']",True,positive
+Isotretinoin,Acne,10,[],True,positive
+Rogaine Men's Extra Strength,31</span> users found this comment helpful.,1,"['rash', 'chest pain']",False,negative
+Levonorgestrel,Birth Control,10,"['discomfort during insertion', 'cramping', 'back pain', 'spotting']",True,positive
+Meloxicam,Inflammatory Conditions,1,[],False,negative
+Erythromycin,Otitis Media,7,"['stomach cramps', 'stomach pain', 'fatigue', 'lethargy', 'brain fog', 'cognitive cloudiness']",True,mixed
+Desogestrel / ethinyl estradiol,Birth Control,1,"['headaches', 'fatigue', 'breast enlargement', 'decreased libido', 'mood swings', 'acne', 'increased appetite']",False,negative
+Propranolol,mance Anxiety,10,[],True,positive
+Dextromethorphan / guaifenesin / pseudoephedrine,Cough and Nasal Congestion,10,[],True,positive
+Hyaluronidase,Hypodermoclysis,10,[],True,positive
+Canagliflozin,"Diabetes, Type 2",1,"['severe dehydration', 'insomnia', 'leg cramps', 'foot cramps', 'dry eyes', 'polyuria']",False,negative
+Medroxyprogesterone,Abnormal Uterine Bleeding,1,"['slow bleeding', 'heavy bleeding', 'blood clots', 'severe blood loss', 'anemia requiring transfusions']",False,negative
+Depo-Provera,Birth Control,5,"['acne (initial worsening)', 'mood changes', 'decreased libido', 'irregular periods (prolonged bleeding)']",True,mixed
+MS Contin,Pain,10,[],True,positive
+Amitriptyline,Pain,10,[],True,positive
+Amlodipine / atorvastatin,High Blood Pressure,9,['edema in ankles and feet'],True,mixed
+Tretinoin,Acne,8,[],True,positive
+Quetiapine,Obsessive Compulsive Disorde,7,['weight gain'],True,mixed
+Acetaminophen / hydrocodone,Pain,10,"['delayed orgasm', 'anorgasmia']",True,positive
+Ethinyl estradiol / norgestimate,Birth Control,10,"['vaginal discharge', 'menstrual cramps worsened', 'leg cramps', 'mood changes', 'irritability', 'increased crying', 'decreased libido', 'weak orgasms', 'short orgasm duration']",True,mixed
+Fentora,Breakthrough Pain,10,[],True,positive
+Norco,Pain,10,[],True,positive
+Suprep Bowel Prep Kit,Bowel Preparation,7,"['nausea', 'unpleasant taste', 'frequent bowel movements', 'gag reflex/nearly vomited']",True,mixed
+Testosterone,"Hypogonadism, Male",9,"['nausea', 'cramping']",True,positive
+Medroxyprogesterone,Abnormal Uterine Bleeding,1,"['abnormal vaginal bleeding', 'spotting', 'prolonged menstrual bleeding', 'irregular bleeding pattern']",False,negative
+Toradol,Pain,7,"['constipation', 'upset stomach', 'bloating', 'heartburn', 'reduced urination', 'fear/anxiety about medication']",True,mixed
+Microgestin Fe 1 / 20,Birth Control,10,"['weight gain', 'breast tenderness', 'breast enlargement']",True,positive
+Safyral,Birth Control,3,"['breakthrough bleeding', 'nausea', 'dizziness', 'fainting', 'severe cramps']",False,negative
+Prednisone,Inflammatory Conditions,10,[],True,positive
+Etonogestrel,Birth Control,4,"['weight gain', 'arm pain']",False,negative
+Fetzima,Depression,1,['vomiting'],False,negative
+Linzess,"Constipation, Chronic",10,"['severe abdominal pain', 'stomach cramping', 'excessive sweating', 'diarrhea', 'severe urgency/frequency of bowel movements']",True,negative
+Belviq,Weight Loss,10,"['headaches', 'pounding in ears', 'forgetfulness', 'joint soreness']",True,positive
+Nexplanon,Birth Control,4,"['constant bleeding', 'heavy menstrual bleeding', 'loss of libido', 'depression', 'weight gain']",False,negative
+Levsin,Irritable Bowel Syndrome,1,"['lightheadedness', 'dizziness']",False,negative
+Latuda,Bipolar Disorde,2,"['insomnia', 'restlessness', 'irritability', 'argumentativeness', 'muscle aches', 'mobility impairment']",False,negative
+Etonogestrel,Birth Control,3,"['prolonged menstruation', 'continuous bleeding']",False,negative
+Linaclotide,Irritable Bowel Syndrome,10,[],True,positive
+Gardasil,Human Papillomavirus Prophylaxis,10,['arm soreness'],True,positive
+Dabigatran,Prevention of Thromboembolism in Atrial Fibrillation,9,"['dark reddish urine', 'increased gas']",True,positive
+Mirena,Birth Control,4,"['abnormal bleeding', 'prolonged menstruation', 'heavy menstrual bleeding', 'headaches', 'cramping', 'acne']",False,negative
+Quasense,Abnormal Uterine Bleeding,1,"['prolonged heavy period', 'excessive clotting']",False,negative
+Glatiramer,Multiple Sclerosis,9,['viral encephalitis'],,negative
+Liraglutide,Weight Loss,10,"['nausea', 'fatigue']",True,positive
+Implanon,Birth Control,9,"['spot bleeding', 'irregular periods']",True,positive
+Ortho Micronor,Birth Control,4,"['irregular menstrual bleeding', 'frequent periods']",False,negative
+Reglan,Nausea/Vomiting,10,['minor side effect (unspecified)'],True,positive
+Hydroxyzine,Anxiety,10,"['tiredness', 'fatigue']",True,positive
+Macrobid,Urinary Tract Infection,1,"['lung scarring', 'severe hypoxia', 'low oxygen saturation']",False,negative
+Sumatriptan,Cluster Headaches,9,[],True,positive
+Percocet,Chronic Pain,6,[],True,mixed
+Doxepin,Insomnia,9,"['tolerance', 'morning hangover', 'slow onset of action', 'withdrawal-related middle-of-the-night awakenings']",True,mixed
+Varenicline,Smoking Cessation,10,"['nausea', 'gas', 'tiredness', 'vivid dreams']",True,positive
+Implanon,Birth Control,9,"['prolonged menstrual period (2 weeks duration)', 'insertion site scar']",True,positive
+Ortho Tri-Cyclen,Ovarian Cysts,10,"['mood swings', 'sadness', 'crying', 'weight gain', 'inability to lose weight', 'abnormal hormonal level']",True,mixed
+Darifenacin,Overactive Bladde,8,['edema of feet and legs'],True,mixed
+Amitriptyline,Migraine Prevention,1,"['dizziness', 'lightheadedness', 'orthostatic hypotension', 'vivid dreams', 'nightmares', 'sleep avoidance', 'abdominal pain', 'near syncope']",False,negative
+Zarah,Birth Control,10,[],True,positive
+Lortab,Pain,6,[],True,positive
+Topiramate,Obesity,10,['altered taste perception'],True,positive
+Ziprasidone,Schizoaffective Disorde,10,[],True,positive
+"Multivitamin, prenatal",Vitamin/Mineral Supplementation during Pregnancy/Lactation,9,[],True,positive
+Oxycodone,Chronic Pain,10,"['grogginess', 'brain fog', 'cognitive dulling']",False,negative
+Methadone,Pain,10,[],True,positive
+Meloxicam,ibromyalgia,7,[],True,mixed
+Ethinyl estradiol / norethindrone,Birth Control,7,['decreased libido'],True,mixed
+Doxycycline,Acne,5,[],True,mixed
+Suprep Bowel Prep Kit,Bowel Preparation,9,['diarrhea'],True,positive
+NP Thyroid,Hashimoto's disease,5,"['stroke symptoms', 'elevated T4 levels']",False,negative
+Elavil,Pain,5,[],True,positive
+ParaGard,Birth Control,1,"['severe pain', 'copper toxicity', 'loss of quality of life', 'emotional distress', 'depression/loss of smile']",False,negative
+Dulcolax,Constipation,10,"['helplessness', 'extreme pain', 'nausea', 'fainting', 'vomiting', 'diarrhea', 'fatigue', 'weakness']",True,mixed
+Ropinirole,Restless Legs Syndrome,10,[],True,positive
+Zoloft,Depression,10,[],True,positive
+Methylprednisolone,Inflammatory Conditions,9,"['fatigue', 'back pain', 'headache', 'nausea', 'insomnia']",True,positive
+Linaclotide,Irritable Bowel Syndrome,10,[],True,positive
+Acetaminophen / diphenhydramine,Insomnia,1,"['restlessness', 'anxiety', 'nervousness', 'heart palpitations', 'difficult breathing']",True,mixed
+Topiramate,Seizure Prevention,5,"['drowsiness', 'excessive daytime sleepiness', 'afternoon fatigue']",True,mixed
+Suprep Bowel Prep Kit,Bowel Preparation,9,[],True,positive
+Amphetamine / dextroamphetamine,Narcolepsy,10,"['anxiety', 'jitteriness']",True,positive
+Ondansetron,Nausea/Vomiting,7,[],True,positive
+Brimonidine,Rosacea,1,"['rebound flushing', 'facial erythema', 'facial burning sensation']",True,negative
+Etonogestrel,Birth Control,5,"['vaginal bleeding', 'prolonged bleeding']",,positive
+Dextroamphetamine,ADHD,9,[],True,positive
+Lidocaine,Pain,8,['patches not adhering to skin'],True,positive
+Phentermine,Weight Loss,10,['increased hunger'],True,positive
+Mirena,Birth Control,4,"['insertion pain', 'emotional distress', 'prolonged bleeding', 'heavy bleeding']",,negative
+Naproxen,Osteoarthritis,5,[],True,positive
+Escitalopram,Generalized Anxiety Disorde,9,"['nausea/vomiting', 'syncope (passing out)', 'anxiety']",True,positive
+Cobicistat / elvitegravir / emtricitabine / tenofovir,HIV Infection,10,"['nausea', 'headaches']",True,positive
+Levonorgestrel,Birth Control,6,"['rash', 'itching', 'weight gain']",False,negative
+Oxycodone,Not Listed / Othe,10,[],True,positive
+ParaGard,Birth Control,10,"['cramping during insertion', 'cramping post-insertion', 'light discharge']",True,positive
+Boniva,Osteoporosis,1,"['severe chest pain', 'throat pain', 'jaw pain', 'high fevers', 'chills']",False,negative
+Blisovi 24 Fe,Birth Control,1,"['weight gain', 'acne', 'abnormal bleeding', 'headaches', 'jitters']",False,negative
+Vilazodone,Major Depressive Disorde,1,"['worsened depression', 'irritability', 'emotional lability', 'suicidal ideation', 'aggression']",False,negative
+Movantik,"Constipation, Drug Induced",6,"['decreased bowel movement frequency', 'gas', 'stomach cramps']",True,positive
+Levitra,Erectile Dysfunction,10,[],True,positive
+Magnesium sulfate / potassium sulfate / sodium sulfate,Bowel Preparation,4,"['disgusting taste', 'nausea', 'bloating']",True,negative
+Levomilnacipran,Depression,8,[],True,positive
+Phentermine,Weight Loss,10,"['severe dry mouth', 'hunger', 'mood changes']",True,positive
+Abilify,Schizophrenia,9,['excessive sedation/increased sleep'],True,positive
+Necon 1 / 35,Birth Control,9,"['spotting', 'frequent menstruation']",True,positive
+Temazepam,Insomnia,1,"['insomnia', 'sleep fragmentation', 'inability to stay asleep', 'sleep deprivation']",False,negative
+Topamax,Migraine Prevention,6,"['acne', 'excessive confidence', 'impulsivity', 'reduced filter/disinhibition', 'behavioral changes', 'personality changes']",True,mixed
+Polyethylene glycol 3350 with electrolytes,Bowel Preparation,8,"['unpleasant taste', 'nausea', 'difficulty tolerating medication']",True,mixed
+Viibryd,Depression,1,"['violent behavior', 'anger', 'mania', 'paranoia', 'aggression', 'physical violence']",False,negative
+Quillivant XR,ADHD,5,"['anxiety', 'paranoia', 'fear', 'hyperstartle response', 'nightmares']",False,negative
+Chantix,Smoking Cessation,4,"['behavioral changes', 'emotional instability', 'crying', 'mood disturbances', 'increased urge to drink']",True,mixed
+Venlafaxine,Depression,9,[],True,positive
+NuvaRing,Birth Control,9,"['weight gain', 'bloating']",True,positive
+Buprenorphine / naloxone,Opiate Dependence,9,"['withdrawal symptoms', 'chills', 'flu-like symptoms', 'anxiety', 'insomnia', 'headache', 'nausea', 'loss of appetite']",True,positive
+Concerta,ADHD,1,"['insomnia', 'restlessness', 'akathisia', 'involuntary mouth movements', 'jitteriness']",True,mixed
+Mirtazapine,Major Depressive Disorde,3,"['exhaustion', 'excessive sleep', 'hypersomnia', 'increased appetite', 'weight gain', 'drowsiness', 'dizziness', 'vertigo', 'unsteadiness', 'floating sensation']",True,negative
+Prozac,Depression,10,[],True,positive
+Diphenhydramine,Allergic Reactions,6,"['allergy', 'leg heat sensation', 'restless legs', 'hives']",,mixed
+Flagyl,Diverticulitis,9,['diarrhea'],True,mixed
+Dexmethylphenidate,ADHD,1,"['lack of focus', 'inattention', 'hyperactivity', 'distractibility', 'nail biting']",False,negative
+Valium,Anxiety,10,"['difficulty withdrawing', 'withdrawal symptoms']",True,mixed
+Phenelzine,Depression,9,"['difficult psychological disturbances', 'difficult physiological disturbances', 'withdrawal symptoms']",True,positive
+Emetrol,Nausea/Vomiting,10,[],True,positive
+Naproxen,Sciatica,9,"['difficulty swallowing', 'nausea']",True,positive
+Nora-Be,Endometriosis,9,"['weight gain', 'laziness', 'anxiety', 'depression']",True,mixed
+Montelukast,"Asthma, Maintenance",2,"['feet and ankles swelling', 'hand and feet numbness', 'elevated eosinophils']",True,mixed
+Reclipsen,Birth Control,5,"['weight gain', 'mood swings', 'emotional lability', 'excessive crying', 'acne']",True,negative
+Pegloticase,Gout,9,[],True,positive
+Lo Loestrin Fe,Birth Control,1,"['heavy bleeding', 'cramping', 'hot flashes', 'mood swings']",False,negative
+Brisdelle,Hot Flashes,1,"['achiness', 'dizziness', 'weakness', 'hypotension', 'bradycardia', 'vomiting', 'profuse sweating', 'severe knee pain']",False,negative
+Meloxicam,Inflammatory Conditions,9,[],True,positive
+Corticotropin,Multiple Sclerosis,10,[],True,positive
+Levonorgestrel,Emergency Contraception,10,"['fatigue', 'anxiety']",True,positive
+Implanon,Birth Control,4,"['social withdrawal', 'lack of motivation for classes', 'weight gain', 'acne', 'loss of libido', 'fatigue', 'personality changes']",True,negative
+Estradiol,Atrophic Vaginitis,9,[],True,positive
+Augmentin,Skin or Soft Tissue Infection,5,"['headache', 'gas', 'bloating', 'stomach upset', 'vomiting']",,negative
+Docosanol,Herpes Simplex,1,"['spreading of cold sores', 'increased number of cold sores']",False,negative
+Diflucan,Vaginal Yeast Infection,1,"['red patch on cheek', 'burning', 'itching']",False,negative
+Invokana,"Diabetes, Type 2",9,['yeast infection'],True,positive
+Etonogestrel,Birth Control,1,"['prolonged menstruation', 'breast pain', 'breast discharge', 'fatigue', 'acne', 'pain during removal']",False,negative
+Reclast,Osteoporosis,1,['bone pain'],,negative
+Vortioxetine,Depression,8,"['nausea', 'anorexia', 'fatigue', 'excessive tiredness']",True,positive
+Codeine,Pain,10,[],True,positive
+Gabapentin,Trigeminal Neuralgia,10,[],True,positive
+Zoloft,Panic Disorde,10,"['emotional blunting', 'emotionless feeling']",True,positive
+Remicade,Rheumatoid Arthritis,9,[],True,positive
+Testosterone,"Hypogonadism, Male",9,[],True,positive
+Homatropine / hydrocodone,Cough,1,"['wired/agitation', 'insomnia', 'dry mouth']",False,negative
+Cialis,Erectile Dysfunction,9,['unwanted erections'],True,positive
+Varenicline,Smoking Cessation,10,"['excessive sleepiness', 'sleep disturbance']",True,positive
+Clomipramine,Obsessive Compulsive Disorde,10,['dry mouth'],True,positive
+Tacrolimus,Atopic Dermatitis,9,"['burning sensation', 'facial flushing', 'eyelid swelling', 'periorbital edema', 'alcohol interaction reaction']",True,mixed
+Etonogestrel,Birth Control,3,"['arm numbness', 'fatigue', 'irritability', 'weight stability issues']",True,mixed
+Saxenda,Obesity,8,"['migraine', 'appetite suppression', 'dizziness', 'constipation', 'stinging at injection site']",True,positive
+Sunitinib,Renal Cell Carcinoma,10,[],True,positive
+Trintellix,Major Depressive Disorde,7,"['upset stomach', 'constipation']",True,positive
+Finacea,Rosacea,2,[],True,negative
+Jalyn,Benign Prostatic Hyperplasia,8,"['nocturia', 'retrograde ejaculation']",True,positive
+Acamprosate,Alcohol Dependence,10,[],True,positive
+Pegloticase,Gout,10,[],True,positive
+Varenicline,Smoking Cessation,9,"['nausea', 'vivid dreams', 'fatigue', 'racing thoughts at night']",True,positive
+Sertraline,Social Anxiety Disorde,6,[],True,mixed
+Venlafaxine,Anxiety and Stress,10,['strange dreams'],True,positive
+Carbamazepine,Trigeminal Neuralgia,8,"['fatigue', 'cognitive dulling', 'sedation']",True,positive
+Reclast,Osteoporosis,9,[],True,positive
+Tioconazole,Vaginal Yeast Infection,1,"['itching', 'burning', 'product leakage']",False,negative
+Isotretinoin,Acne,9,"['dry skin', 'chapped lips', 'bleeding lips']",True,positive
+Nexplanon,Birth Control,1,"['weight gain', 'bloating', 'severe acne', 'stretch marks', 'mood swings', 'heavy periods', 'severe menstrual symptoms', 'spotting', 'depression']",False,negative
+Doxepin,Insomnia,10,[],True,positive
+Paroxetine,Hot Flashes,10,"['fatigue', 'brain fog']",True,positive
+Ethinyl estradiol / levonorgestrel,Birth Control,10,"['pain', 'excessive sleeping', 'decreased appetite', 'breakthrough bleeding', 'prolonged bleeding']",True,positive
+Bupropion,Smoking Cessation,8,"['dry mouth', 'tinnitus']",,negative
+Paroxetine,Social Anxiety Disorde,8,"['drowsiness', 'increased sweating']",True,positive
+Sertraline,Major Depressive Disorde,10,['weight gain'],True,positive
+Vyvanse,ADHD,7,[],True,positive
+Leuprolide,Endometriosis,1,"['severe menopausal symptoms', 'mood swings', 'suicidal ideation', 'weight gain', 'early menopause', 'acute hypertension', 'stroke risk']",True,negative
+Ortho Evra,Birth Control,9,"['breast soreness', 'breast enlargement', 'skin itching']",True,positive
+Linzess,"Constipation, Chronic",10,['diarrhea'],True,positive
+Implanon,Birth Control,9,['arm pain'],True,positive
+Estradiol / levonorgestrel,Postmenopausal Symptoms,8,[],True,positive
+Depo-Provera,Abnormal Uterine Bleeding,8,"['irregular bleeding', 'heavy bleeding', 'anxiety']",True,mixed
+Levonorgestrel,Abnormal Uterine Bleeding,9,[],True,positive
+Escitalopram,Depression,8,[],True,positive
+Moxifloxacin,Bronchitis,6,"['Achilles tendon pain', 'Achilles tendon swelling', 'difficulty walking']",True,mixed
+Paroxetine,Panic Disorde,10,[],True,positive
+Nexplanon,Birth Control,3,"['severe mood swings', 'irregular menstruation', 'prolonged menstruation']",False,negative
+Levetiracetam,Seizures,5,"['sedation', 'excessive sleep', 'mood swings', 'depression', 'anger', 'suicidal ideation']",True,mixed
+Etonogestrel,Birth Control,5,"['spotting', 'hair loss', 'weight gain']",False,negative
+Caffeine,Hypersomnia,9,"['insomnia', 'sleep disturbance']",True,positive
+Levonorgestrel,Birth Control,8,"['mild cramping (insertion)', 'irregular periods', 'spotting', 'acne']",True,positive
+Salicylic acid / sulfur,Acne,10,[],True,positive
+Megace ES,Weight Loss,10,"['weight loss', 'anorexia']",True,positive
+Abreva,Herpes Simplex,5,"['worsening of sore', 'increased sore size']",False,negative
+Dulcolax,Constipation,1,"['severe nausea', 'vomiting', 'fear of death']",True,negative
+Aluminum chloride hexahydrate,Hyperhidrosis,8,"['skin burning', 'ineffective on hands', 'ineffective on feet']",True,positive
+Phenergan,Nausea/Vomiting,6,"['fatigue', 'excessive tiredness']",True,mixed
+Hydroxyzine,Anxiety,6,[],True,positive
+Paxil,Anxiety,9,[],True,positive
+Venlafaxine,Depression,10,[],True,positive
+Tessalon Perles,Cough,9,[],True,positive
+Pristiq,Depression,9,"['decreased libido', 'sexual dysfunction']",True,positive
+Wellbutrin,Depression,3,"['memory problems', 'concentration problems', 'false memories', 'hallucinations (with Paxil)']",True,mixed
+Phentermine,Weight Loss,10,"['dry mouth', 'insomnia', 'excessive energy']",True,positive
+Ortho Tri-Cyclen Lo,Birth Control,10,[],True,positive
+Sertraline,Obsessive Compulsive Disorde,10,[],True,mixed
+Bisacodyl,Constipation,1,['severe cramps'],False,negative
+Olanzapine,Tourette's Syndrome,9,"['weight gain', 'type II diabetes', 'pre-diabetes']",True,positive
+Adapalene / benzoyl peroxide,Acne,8,[],True,positive
+Acetaminophen / oxycodone,Pain,10,[],True,positive
+Cetirizine,Urticaria,9,['drowsiness'],True,positive
+Paxil,Postmenopausal Symptoms,4,[],True,positive
+Armodafinil,ibromyalgia,10,[],True,positive
+Victoza,"Diabetes, Type 2",10,[],True,positive
+Drixoral Cold and Allergy,Sinus Symptoms,10,[],True,positive
+Abilify,Schizoaffective Disorde,7,"['tardive dyskinesia', 'restlessness', 'parkinsonian symptoms', 'embarrassment', 'difficulty with fine motor tasks']",True,mixed
+Montelukast,Allergic Rhinitis,7,"['epistaxis (nosebleeds)', 'nasal congestion', 'itchy eyes', 'itchy mouth', 'ear pressure', 'ear cracking', 'morning stuffiness']",True,positive
+Vortioxetine,Depression,9,[],True,positive
+Advair Diskus,"Asthma, Maintenance",10,[],True,positive
+Modafinil,Obstructive Sleep Apnea/Hypopnea Syndrome,9,['headache'],True,positive
+Claritin-D 24 Hour,Nasal Congestion,8,"['insomnia', 'delayed sleep onset', 'brain fog', 'cognitive impairment', 'fatigue']",True,mixed
+Azithromycin,Chlamydia Infection,10,['stomach pain'],True,positive
+Quetiapine,,9,"['orthostatic hypotension', 'fainting', 'restless legs', 'overeating']",True,mixed
+Streptokinase,Heart Attack,10,[],True,positive
+Casodex,Prostate Cance,1,[],False,negative
+Metadate CD,ADHD,6,"['grouchiness', 'poor focus', 'arguing', 'vocal tics', 'motor tics', 'aggression', 'moodiness']",True,mixed
+Omnicef,Bronchitis,1,"['diarrhea', 'hemorrhoid flare-up']",False,negative
+Desvenlafaxine,Depression,10,[],True,positive
+Lunesta,Insomnia,7,"['headaches', 'restless legs', 'metallic taste']",True,mixed
+Forteo,Osteoporosis,4,[],False,negative
+Amethia,Birth Control,10,[],True,positive
+Levonorgestrel,Birth Control,9,"['pain during insertion', 'vaginal pressure', 'vaginal discomfort', 'sensation of needing to defecate']",True,positive
+Duloxetine,Depression,7,"['memory impairment', 'apathy', 'demotivation', 'brain fog', 'emotional blunting/robotic feeling', 'social withdrawal', 'creative thought impairment', 'memory problems at high dose']",True,mixed
+Metronidazole,Trichomoniasis,10,[],,positive
+Fluoxetine,Depression,10,[],True,positive
+Microgestin Fe 1 / 20,Acne,3,"['worsening acne', 'breakouts']",False,negative
+Valacyclovir,"Herpes Simplex, Suppression",10,[],True,positive
+Implanon,Birth Control,3,"['prolonged menstruation', 'hair thinning', 'depression', 'recurrent urinary tract infections', 'weight gain']",False,negative
+Omalizumab,Urticaria,2,[],False,negative
+Ethinyl estradiol / levonorgestrel,Birth Control,8,[],True,positive
+Subutex,Opiate Dependence,8,"['upset stomach', 'aching legs', 'insomnia']",True,positive
+Ethinyl estradiol / norgestimate,Birth Control,1,"['severe anxiety exacerbation', 'depression worsening', 'anhedonia', 'fatigue', 'difficulty getting out of bed']",False,negative
+Carisoprodol,Muscle Spasm,10,[],True,negative
+Plan B,Emergency Contraception,7,"['acne/breakout', 'cramping', 'bloating']",True,positive
+Magnesium sulfate / potassium sulfate / sodium sulfate,Bowel Preparation,8,"['frequent urination', 'diarrhea']",True,positive
+Levonorgestrel,Birth Control,4,"['cramps', 'headache', 'dizziness', 'bleeding', 'stomach pain']",False,negative
+OxyContin,Pain,9,[],True,positive
+Veramyst,Rhinitis,10,[],True,positive
+Loestrin 24 Fe,Acne,6,"['migraines', 'nausea', 'fatigue', 'acne', 'increased appetite', 'bloating']",,negative
+Wellbutrin XL,Major Depressive Disorde,10,['dry mouth'],True,positive
+Dilaudid,Pain,10,[],True,positive
+Sulfamethoxazole / trimethoprim,Urinary Tract Infection,8,"['severe insomnia', 'nausea', 'feeling out of it', 'lethargy', 'urinary hesitancy']",,negative
+X-Viate,Dry Skin,10,[],True,positive
+Lexapro,Depression,9,[],True,positive
+ella,Emergency Contraception,6,"['delayed period', 'light spotting', 'cramps', 'anxiety']",True,positive
+Zoloft,Depression,10,[],True,positive
+Ocella,Birth Control,9,[],True,positive
+Saphris,Bipolar Disorde,8,"['decreased libido', 'erectile dysfunction', 'decreased creativity', 'impaired long-term memory', 'memory loss']",True,mixed
+Ethinyl estradiol / norelgestromin,Birth Control,2,"['hallucinations/intrusive thoughts', 'anxiety', 'health anxiety', 'headaches', 'progressive worsening headaches', 'nausea', 'loss of balance', 'vertigo', 'nystagmus', 'weight gain', 'muscle pain', 'rash', 'itching', 'cough']",False,negative
+Linaclotide,"Constipation, Chronic",1,[],False,negative
+Chantix,Smoking Cessation,9,[],True,mixed
+Enbrel,Ankylosing Spondylitis,9,['fatigue'],True,mixed
+Oxymorphone,Pain,9,"['fatigue', 'tolerance buildup']",True,positive
+Hydromorphone,Chronic Pain,8,['tolerance'],True,positive
+Tapentadol,Pain,9,[],True,positive
+Magnesium hydroxide,Constipation,3,['constipation'],True,mixed
+Olanzapine,Bipolar Disorde,9,[],True,positive
+Tapentadol,Pain,4,"['nausea', 'headaches', 'feeling wired', 'palpitations', 'anxiety']",True,mixed
+Quetiapine,Bipolar Disorde,2,"['weight gain', 'fatigue', 'restless leg syndrome', 'hyperglycemia']",,negative
+Cyclosporine,Keratoconjunctivitis Sicca,1,[],,negative
+Fexofenadine,Allergic Rhinitis,1,"['insomnia', 'stimulant-like effects', 'excessive dryness of sinuses', 'epistaxis risk']",True,mixed
+Dicyclomine,Irritable Bowel Syndrome,8,"['loopiness', 'giddiness', 'drunkenness', 'throat swelling', 'blurred vision', 'dry mouth', 'sneezing', 'nasal congestion']",True,mixed
+Inderal,Benign Essential Trem,9,[],True,positive
+Citalopram,Depression,9,['mild side effects'],True,positive
+Epiduo,Acne,10,[],True,positive
+Triavil,Anxiety,9,['sedation'],True,positive
+Tioconazole,Vaginal Yeast Infection,1,"['difficulty walking', 'vaginal burning']",False,negative
+Clonazepam,Panic Disorde,9,[],True,positive
+Orsythia,Birth Control,1,"['nausea', 'weight gain', 'breakouts', 'mood swings']",False,negative
+Phentermine,Weight Loss,1,[],True,positive
+Varenicline,Smoking Cessation,9,[],True,positive
+Treximet,Migraine,10,[],True,positive
+Mirena,Birth Control,10,"['low sex drive', 'uterine contractions', 'amenorrhea', 'premenstrual syndrome']",True,positive
+Desogestrel / ethinyl estradiol,Birth Control,10,['decreased libido'],True,positive
+Kenalog-10,Psoriasis,10,[],True,negative
+Corgard,Supraventricular Tachycardia,9,[],True,positive
+Toradol,Pain,9,['injection site pain'],True,positive
+Bupropion,Depression,4,"['depression worsening', 'increased anxiety', 'constipation', 'upper GI slowness', 'abnormal vaginal odor']",False,negative
+Tramadol,Pain,9,['blurred vision'],True,mixed
+Tegretol XR,Epilepsy,9,"['tremors', 'drug tolerance']",True,mixed
+Ethinyl estradiol / norethindrone,,8,"['spotting', 'amenorrhea']",True,positive
+Biaxin,Sinusitis,10,[],True,positive
+Macrobid,Urinary Tract Infection,1,"['feeling weird', 'eye pain', 'neck pain', 'terror/fear']",False,negative
+Magnesium salicylate,Pain,10,[],True,positive
+Differin,Acne,6,"['skin peeling', 'redness', 'tenderness', 'increased breakouts']",,mixed
+Topamax,Migraine Prevention,10,"['diarrhea', 'weight loss', 'word recall difficulty', 'memory loss']",True,positive
+Ciprofloxacin,Bladder Infection,2,"['dizziness', 'nausea', 'pain', 'hematuria']",False,negative
+Viberzi,Irritable Bowel Syndrome,8,[],True,positive
+Zoloft,Social Anxiety Disorde,10,"['tremor', 'insomnia']",True,positive
+Ethinyl estradiol / norgestimate,Birth Control,2,"['emotional instability', 'crying', 'paranoia', 'depression', 'feeling unlike oneself']",True,mixed
+Gabapentin,Anxiety,1,[],False,negative
+Phentermine,Weight Loss,9,[],True,positive
+ParaGard,Birth Control,10,"['pain during insertion', 'spotting', 'light vaginal flow']",True,positive
+Avanafil,Erectile Dysfunction,1,[],False,negative
+Atarax,Anxiety,9,"['yawning', 'sleepiness', 'sedation', 'impaired driving ability']",True,positive
+Systane,Eye Redness,1,"['severe redness around eyes', 'swelling around eyes', 'itching around eyes']",False,negative
+Citalopram,Obsessive Compulsive Disorde,2,"['tics', 'constant yawning', 'restless leg syndrome', 'eye twitching', 'insomnia', 'exhaustion', 'severe sexual dysfunction', 'anhedonia', 'emotional blunting']",True,negative
+Ethinyl estradiol / norelgestromin,Birth Control,9,[],True,positive
+Isotretinoin,Acne,5,"['dry skin', 'dry lips', 'dry scalp', 'nausea', 'pain', 'anxiety', 'depression']",True,mixed
+Levothyroxine,Underactive Thyroid,2,"['fatigue', 'dry hair', 'weight gain', 'heat intolerance', 'hyperhidrosis', 'amenorrhea']",False,negative
+Implanon,Birth Control,8,"['irregular menstrual bleeding', 'spotting', 'heavy menstrual flow', 'implant site pain', 'implant site ache', 'implant site shock sensation']",True,mixed
+Uniphyl,"Asthma, acute",8,[],True,positive
+Soma,Muscle Spasm,10,[],True,negative
+Bupropion,Smoking Cessation,5,[],True,positive
+Humira,Psoriatic Arthritis,3,"['itchy eyes', 'sinus pain', 'rhinitis', 'allergic reaction', 'swelling', 'erythema', 'pain at injection site']",False,negative
+Ethinyl estradiol / levonorgestrel,Birth Control,1,"['blood clot', 'pain', 'swelling', 'aching', 'burning sensations']",False,negative
+Mirtazapine,Major Depressive Disorde,1,"['tiredness', 'excessive sedation', 'inability to wake up', 'hypersomnia', 'impaired functioning']",True,negative
+ParaGard,Birth Control,10,"['emotional instability', 'decreased libido', 'vaginal dryness', 'dyspareunia', 'menorrhagia', 'dysmenorrhea']",True,positive
+Cymbalta,Back Pain,1,"['muscle cramping', 'withdrawal symptoms', 'constant itching', 'debilitating cramps']",True,negative
+Mesalamine,"Crohn's Disease, Maintenance",10,['weight gain'],True,positive
+Voltaren Gel,Osteoarthritis,10,[],True,positive
+Scopolamine,Nausea/Vomiting,3,"['nausea', 'dry mouth', 'farsightedness', 'blurred vision']",False,negative
+Lisdexamfetamine,Asperger Syndrome,5,"['restlessness', 'decreased affection/lovability']",False,negative
+Escitalopram,Generalized Anxiety Disorde,9,"['yawning', 'sleepiness']",True,positive
+Ethinyl estradiol / norethindrone,Birth Control,8,"['premenstrual syndrome symptoms', 'weight gain']",True,positive
+Paxil,Depression,1,"['nausea', 'stomach problems', 'black and white thinking', 'worsening of symptoms', 'withdrawal symptoms']",False,negative
+Phentermine,Obesity,9,[],True,positive
+Aviane,Birth Control,8,"['nausea', 'headaches', 'fatigue', 'acne', 'stomach pain']",True,positive
+Concerta,ADHD,10,"['insomnia', 'emotional dysregulation', 'hyperactivity', 'impulsivity', 'concentration difficulties']",True,positive
+Miconazole,Vaginal Yeast Infection,9,['mild exterior itching'],True,positive
+Suprep Bowel Prep Kit,Bowel Preparation,10,[],True,positive
+Olanzapine,Schizoaffective Disorde,1,"['weight gain', 'nocturnal awakening', 'food cravings', 'insomnia', 'satiety dysfunction', 'emotional blunting', 'loss of empathy', 'addiction']",False,negative
+Beyaz,Acne,10,"['drowsiness', 'spotting', 'breast tenderness']",True,positive
+Rosuvastatin,High Cholesterol,3,"['chest pain', 'lung pain', 'insomnia', 'pain worsening when lying down']",False,negative
+Sovaldi,Hepatitis C,5,"['severe bone and joint pain', 'itchy rashy skin', 'weight gain', 'thyroid dysfunction', 'chronic fatigue', 'severe depression', 'difficulty dealing with people', 'explosive personality', 'difficulty concentrating', 'loss of interest in activities', 'excessive daytime sleepiness']",True,negative
+Skyla,Birth Control,7,"['heavy bleeding', 'acne']",True,mixed
+Ethinyl estradiol / norethindrone,,2,"['menorrhagia', 'weight gain', 'irritability', 'emotional lability', 'dysphoria', 'fatigue', 'depression']",True,mixed
+Xodol,Back Pain,10,[],True,positive
+Fluconazole,Vaginal Yeast Infection,10,[],True,positive
+Linaclotide,"Constipation, Chronic",10,[],True,positive
+Dulcolax Laxative,Constipation,10,['abdominal pain'],True,positive
+Tadalafil,,8,[],True,mixed
+Ethinyl estradiol / norgestimate,Birth Control,5,"['acne', 'weight gain', 'severe menstrual cramps']",True,mixed
+Xulane,Birth Control,8,"['rash', 'itching']",True,mixed
+Miconazole,Vaginal Yeast Infection,10,"['intense itching', 'burning sensation']",True,positive
+Lorazepam,Anxiety,2,"['addiction', 'tolerance', 'rebound anxiety', 'reflex anxiety']",True,negative
+Spiriva,"COPD, Maintenance",10,[],True,positive
+Dulcolax,Constipation,8,"['stomach pain', 'diarrhea', 'insomnia', 'constipation', 'gas', 'fatigue']",True,positive
+St. john's wort,Depression,3,"['tremors', 'dissociation', 'anxiety', 'brain zaps', 'nausea', 'brain fog', 'insomnia', 'tinnitus', 'photophobia']",False,negative
+Aripiprazole,Depression,5,"['emotional blunting', 'anhedonia', 'increased appetite for sweets', 'cravings']",True,mixed
+Desvenlafaxine,Depression,1,"['worsened depression', 'headaches', 'brain fog', 'nausea', 'tremors']",False,negative
+Methadone,Pain,10,[],True,positive
+Sertraline,Major Depressive Disorde,7,['decreased libido'],True,mixed
+NuvaRing,Birth Control,9,[],True,positive
+Gianvi,Birth Control,9,[],True,positive
+Cephalexin,Skin or Soft Tissue Infection,6,[],False,mixed
+Duloxetine,ibromyalgia,2,"['weight gain', 'constipation', 'odd dreams', 'hot flashes']",True,mixed
+Copaxone,Multiple Sclerosis,9,['injection failure (approximately 1 per week)'],True,positive
+Fetzima,Major Depressive Disorde,5,['sweating'],True,mixed
+Beclomethasone,"Asthma, Maintenance",3,"['cold tingling feeling in throat', 'chest pressure', 'increased need for inhaler use']",False,negative
+Levonorgestrel,Birth Control,9,[],True,positive
+Orsythia,Birth Control,3,"['severe mood changes', 'crying', 'sadness', 'contact lens intolerance', 'finger swelling', 'weight gain', 'water retention', 'headaches', 'decreased libido']",True,mixed
+Senna,Constipation,10,"['constipation', 'gastroparesis', 'nausea', 'bloating', 'cramping']",True,positive
+Effexor XR,Panic Disorde,7,['panic attacks'],True,positive
+Canasa,"Ulcerative Colitis, Active",6,"['headaches', 'acne', 'fatigue', 'susceptibility to infections']",True,mixed
+ParaGard,Birth Control,10,['internal pain'],True,positive
+Ethinyl estradiol / norgestimate,Birth Control,10,[],True,positive
+Estradiol,Hypoestrogenism,5,"['fatigue', 'muscle atrophy', 'clitoral atrophy', 'loss of libido']",True,mixed
+Naprelan,Sciatica,9,[],True,positive
+Sertraline,Obsessive Compulsive Disorde,10,['tough adjustment period'],True,positive
+Bupropion / naltrexone,Obesity,10,"['decreased appetite', 'early satiety', 'dry mouth', 'lower back pain']",True,positive
+Desogestrel / ethinyl estradiol,Birth Control,3,"['decreased libido', 'anxiety', 'nervousness', 'paranoia', ""obsessive thoughts about others' perceptions""]",True,mixed
+Topiramate,Obesity,5,"['memory degradation', 'recall degradation']",True,positive
+Botox,Overactive Bladde,1,"['urinary retention', 'straining to void', 'urinary urgency', 'sensation of incomplete bladder emptying', 'hand swelling', 'foot swelling', 'anaphylactic reaction']",False,negative
+Acetaminophen / hydrocodone,Pain,9,['itching'],True,positive
+Celexa,Depression,8,"['mood disruption', 'sleep disruption', 'memory problems']",True,mixed
+Boniva,Osteoporosis,2,"['joint pain', 'joint clicking']",False,negative
+Implanon,Birth Control,10,['spotting'],True,positive
+Tramadol,Pain,10,[],True,positive
+Ethinyl estradiol / levonorgestrel,Birth Control,4,"['acne', 'bleeding between periods', 'cramping', 'severe anxiety', 'headaches', 'moodiness', 'weight gain']",True,mixed
+Tri-Sprintec,Birth Control,9,"['prolonged menstrual bleeding', 'irregular periods']",True,positive
+Finasteride,Androgenetic Alopecia,10,"['reduced libido', 'reduced morning wood']",True,positive
+Exenatide,"Diabetes, Type 2",3,"['bleeding at injection site', 'bruising', 'heart palpitations', 'dizziness', 'lethargy', 'vomiting', 'nausea', 'loss of appetite', 'anxiety']",,negative
+Lamictal,Bipolar Disorde,10,[],True,positive
+Gardasil,Human Papillomavirus Prophylaxis,10,[],True,positive
+Viagra,Erectile Dysfunction,1,[],False,negative
+Fetzima,Major Depressive Disorde,10,[],True,positive
+Paroxetine,Panic Disorde,9,['anxiety worsening'],True,positive
+Tri-Sprintec,Acne,9,[],False,mixed
+Aleve,Pain,10,[],True,positive
+Dexlansoprazole,GERD,10,[],True,positive
+Abilify,Bipolar Disorde,4,"['low mood', 'mood instability', 'heavy sedation', 'excessive sleeping', 'dissociation', 'blurred vision']",True,negative
+Bupropion,,9,[],True,positive
+Mesalamine,"Ulcerative Colitis, Active",8,[],True,positive
+Implanon,Birth Control,9,"['prolonged menstrual bleeding', 'spotting', 'irregular menstrual cycles', 'weight gain']",True,positive
+Symbicort,"Asthma, Maintenance",5,"['hair loss', 'hoarseness']",True,mixed
+Tramadol,Pain,10,[],True,positive
+Norethindrone,Birth Control,6,"['Heavy bleeding', 'Blood clots', 'Increased hunger', 'Sore breasts', 'Acne', 'Continuous bleeding']",True,negative
+Klonopin,Anxiety,10,"['anxiety episodes', 'depression']",True,positive
+Lamotrigine,Bipolar Disorde,10,[],True,positive
+Citalopram,Anxiety and Stress,8,"['yawning', 'sexual dysfunction']",True,mixed
+Varenicline,Smoking Cessation,10,"['stomach pain', 'nausea', 'bloating']",True,positive
+Abreva,Herpes Simplex,1,[],False,negative
+Saxenda,Obesity,3,"['chest pain', 'blurred vision', 'headache', 'nausea', 'vomiting']",False,negative
+Lacosamide,Seizures,9,[],True,positive
+LoSeasonique,Endometriosis,7,"['headaches', 'lack of energy', 'decreased libido']",,mixed
+Levonorgestrel,Emergency Contraception,10,"['cervical mucous thickening', 'cramping', 'nausea', 'headaches', 'breast tenderness', 'anxiety']",True,positive
+Lutera,Birth Control,8,"['breast tenderness', 'increased appetite', 'mood swings', 'irritability']",True,mixed
+Leuprolide,Uterine Fibroids,9,"['night sweats', 'early onset menopause']",True,positive
+Skyla,Birth Control,10,"['pain during insertion', 'sharp pinch sensation', 'cramping']",True,positive
+Desogestrel / ethinyl estradiol,Birth Control,9,[],True,positive
+Viibryd,Depression,8,"['nausea', 'gastrointestinal issues', 'increased appetite for sweets', 'stomach bloat', 'restless legs', 'restlessness']",True,positive
+Nasacort,Allergic Rhinitis,1,['worsening of nasal symptoms'],False,negative
+Acyclovir,Herpes Simplex,8,[],True,positive
+Zolpidem,Insomnia,1,"['ineffective for sleep', 'inability to achieve deep sleep', 'frequent napping', 'excessive dreaming', 'prolonged REM sleep', 'exhaustion']",False,negative
+Celexa,Anxiety and Stress,10,"['severe TMJ', 'teeth grinding', 'teeth clenching']",True,positive
+Epiduo,Acne,8,[],True,positive
+Lisdexamfetamine,Binge Eating Disorde,7,[],True,mixed
+Gabapentin,Bipolar Disorde,10,"['deep depression', 'uncontrollable crying']",True,mixed
+Duloxetine,Generalized Anxiety Disorde,10,"['brain zaps', 'teeth clenching', 'nausea', 'lethargy']",True,positive
+Lunesta,Insomnia,2,['hangover'],True,mixed
+Enalapril,Left Ventricular Dysfunction,1,"['persistent cough', 'pancreatitis', 'inability to eat', 'inability to drink fluids']",False,negative
+Cyclobenzaprine,Muscle Spasm,6,[],True,positive
+Combivent Respimat,"COPD, Maintenance",10,[],True,positive
+Venlafaxine,Anxiety,9,[],True,positive
+Mirena,Birth Control,9,"['spotting', 'mood changes', 'increased appetite', 'insertion pain', 'cramps']",True,mixed
+Gabapentin,Anxiety,10,['foggy feeling'],True,positive
+Nitrofurantoin,Urinary Tract Infection,10,[],True,positive
+Synvisc-One,Osteoarthritis,5,[],True,mixed
+Micardis,High Blood Pressure,1,"['swelling of feet', 'swelling of ankles', 'swelling of legs', 'swelling of hands']",False,negative
+Interferon beta-1a,Multiple Sclerosis,5,"['chills', 'muscle aches', 'joint aches', 'headache', 'fatigue']",,mixed
+Tramadol,Pain,7,"['constipation', 'loss of appetite']",True,positive
+Tri-Previfem,Abnormal Uterine Bleeding,2,"['prolonged menstrual period', 'heavy menstrual bleeding', 'increased pad usage']",False,negative
+Tranexamic acid,Menstrual Disorders,3,"['heavy bleeding', 'clotting', 'severe cramps', 'increased menstrual flow on days 3-4']",False,negative
+Buspirone,Anxiety,10,['headaches'],True,positive
+Oxycodone,Pain,10,[],True,positive
+Ethinyl estradiol / levonorgestrel,Birth Control,1,"['continuous bleeding', 'abnormal menstrual bleeding']",False,negative
+Minoxidil,Alopecia,7,['headaches'],True,mixed
+Ethinyl estradiol / levonorgestrel,Birth Control,5,"['irritability', 'decreased libido', 'vaginal dryness', 'depression', 'cramping']",True,mixed
+Levonorgestrel,Birth Control,1,"['pain', 'irregular periods', 'polycystic ovaries', 'device perforation', 'uterine perforation']",False,negative
+Cyclobenzaprine,Muscle Spasm,4,"['leg pain', 'nocturnal leg aching']",,negative
+Levora,Birth Control,1,"['panic attacks', 'fatigue', 'nausea', 'mood swings', 'emotional instability', 'anxiety', 'hostility', 'depression']",False,negative
+Soma,Muscle Spasm,9,"['dizziness', 'intoxication-like feeling']",True,positive
+Cipro,Urinary Tract Infection,9,[],True,positive
+Naproxen,Muscle Pain,8,[],True,positive
+Etonogestrel,Birth Control,3,"['pain at insertion site', 'bleeding', 'weight gain', 'weight loss resistance', 'loss of libido', 'pain at implant site', 'acne', 'pain during removal', 'discomfort during removal', 'bruising']",False,negative
+Ortho Evra,Birth Control,9,[],True,positive
+Fluoxetine,Anxiety and Stress,6,"['lack of energy', 'tiredness', 'fatigue', 'decreased sense of humor', 'decreased libido', 'decreased appetite', 'apathy', 'hangover-like symptoms']",True,mixed
+Celexa,Anxiety and Stress,9,"['insomnia', 'sleep disturbance', 'drowsiness', 'irritability', 'impatience']",True,positive
+Vivelle-Dot,Primary Ovarian Failure,3,['muscle aches'],False,negative
+Escitalopram,Generalized Anxiety Disorde,3,"['hives', 'lethargy', 'fatigue']",,negative
+Linzess,"Constipation, Chronic",10,[],True,positive
+Climara,Postmenopausal Symptoms,10,"['insomnia', 'night sweats', 'mood changes', 'uncontrollable crying']",True,positive
+Levonorgestrel,Emergency Contraception,1,[],False,negative
+Magnesium citrate,Constipation,9,[],True,positive
+Metoprolol,Atrial Fibrillation,8,[],True,mixed
+Victoza,Weight Loss,10,[],True,positive
+Drospirenone / ethinyl estradiol / levomefolate calcium,Birth Control,10,[],True,positive
+Apomorphine,Parkinson's Disease,9,['nausea'],True,mixed
+Skelaxin,Muscle Spasm,8,['headache'],True,positive
+Implanon,Birth Control,2,"['irregular menstrual cycle', 'spotting', 'heavy menstrual bleeding', 'menstrual cramping', 'bloating', 'weight gain', 'mood swings']",False,negative
+Nitrofurantoin,Bladder Infection,7,"['shortness of breath', 'chest heaviness', 'dyspnea on exertion', 'dry cough', 'lung discomfort']",True,mixed
+Escitalopram,Anxiety,4,"['vivid dreams', 'bizarre dreams', 'insomnia', 'poor sleep quality']",True,mixed
+Budesonide / formoterol,moterol),10,[],,neutral
+Concerta,ADHD,8,['upset stomach'],True,positive
+Effexor,Depression,1,"['sedation', 'bizarre dreams', 'feeling stoned', 'headache', 'stomachache', 'tremors', 'jitters', 'mydriasis']",False,negative
+Doxycycline,Acne,9,"['stomach pain', 'yeast infection']",True,positive
+Prozac,Anxiety and Stress,10,"['anxiety heightened', 'feeling like losing control of mind']",True,positive
+Alli,Obesity,1,['diarrhea'],False,negative
+Naloxegol,Opioid-Induced Constipation,1,"['diarrhea', 'severe abdominal cramps', 'severe pain', 'nausea/vomiting']",False,negative
+Levonorgestrel,Emergency Contraception,10,"['fatigue', 'headaches', 'cramping', 'light bleeding', 'menstrual cycle disruption', 'prolonged menstrual bleeding']",True,mixed
+Inulin,Dietary Fiber Supplementation,5,"['bloating', 'indigestion', 'heartburn', 'diarrhea', 'abdominal pain']",,negative
+BuSpar,Anxiety,1,[],False,negative
+Epiduo,Acne,9,"['dry skin', 'dry eyes']",True,positive
+Ethinyl estradiol / levonorgestrel,Birth Control,10,"['mood changes', 'menorrhagia', 'dysmenorrhea']",True,positive
+ParaGard,Birth Control,1,[],False,negative
+Liraglutide,Weight Loss,10,[],True,positive
+Ethinyl estradiol / norgestimate,Birth Control,8,"['breast enlargement', 'mood swings', 'leg pain']",,positive
+Ethinyl estradiol / norgestimate,Birth Control,10,"['nausea', 'mood changes']",True,positive
+Medroxyprogesterone,Birth Control,1,"['nausea', 'vomiting', 'headaches', 'blood clots', 'menstrual cramps', 'irregular periods', 'spotting', 'acne', 'depression', 'anxiety', 'mood swings', 'panic attacks', 'sexual dysfunction']",False,negative
+Vilazodone,Depression,1,"['brain zaps', 'withdrawal symptoms', 'sleep paralysis', 'memory loss', 'vivid nightmares', 'headaches', 'blurred vision', 'inability to function']",True,negative
+Lorcaserin,Obesity,7,"['feeling stoned', 'dizziness', 'brain fog', 'chest tightness', 'fatigue', 'mild cough', 'ear pain', 'jaw pain', 'sneezing fits']",True,positive
+Methadone,Opiate Withdrawal,10,[],True,positive
+Glucovance,"Diabetes, Type 2",8,[],True,positive
+Levonorgestrel,Abnormal Uterine Bleeding,10,[],,positive
+Amitriptyline,Pain,10,[],True,positive
+Suboxone,Opiate Dependence,9,"['sedation', 'annoying effects']",True,positive
+Copper,Birth Control,10,"['nausea', 'near syncope', 'decreased libido']",True,positive
+Sprintec,Abnormal Uterine Bleeding,1,"['severe migraines', 'loss of vision', 'anxiety attacks', 'stomach problems', 'bowel problems', 'debilitating pain', 'significant weight loss']",False,negative
+Implanon,Birth Control,1,"['irregular bleeding', 'lower back pain', 'depression', 'increased appetite', 'weight gain', 'bloating']",False,negative
+Harvoni,Hepatitis C,10,['slight rash on back of hands'],True,positive
+Doxycycline,Acne,9,['oily skin'],True,positive
+Efudex,Keratosis,9,"['blotchy skin', 'swollen', 'pain', 'unsightly appearance']",True,mixed
+Gildess Fe 1 / 20,Birth Control,8,['decreased libido'],True,mixed
+Varenicline,Smoking Cessation,10,"['decreased appetite', 'altered taste perception']",True,positive
+Phentermine,Weight Loss,10,[],True,positive
+Drysol,Hyperhidrosis,10,"['skin soreness', 'skin redness']",True,positive
+Mirena,Birth Control,1,"['insertion pain', 'weight gain', 'depression', 'back pain', 'abdominal pain', 'skin issues', 'fatigue', 'bloating', 'mood swings']",False,negative
+Methocarbamol,Muscle Spasm,7,['nausea'],True,positive
+Contrave,Obesity,10,['increased protein in urine'],True,positive
+Ethinyl estradiol / norethindrone,Birth Control,2,"['cramps', 'abdominal pain', 'loss of sex drive', 'diarrhea', 'depression', 'spotting']",False,negative
+Dapsone,Acne,10,[],True,positive
+Microgestin Fe 1 / 20,Birth Control,1,"['fatigue', 'acne', 'mood changes']",False,negative
+Citalopram,Depression,10,[],True,positive
+Levonorgestrel,Emergency Contraception,9,[],True,positive
+Benzoyl peroxide / clindamycin,Acne,2,"['skin dryness', 'skin irritation', 'erythema', 'peeling', 'acne worsening']",False,negative
+Generess Fe,Birth Control,10,"['light spotting', 'cramps']",True,positive
+Ethinyl estradiol / norethindrone,Birth Control,7,['spotting'],True,positive
+Naproxen,Period Pain,10,[],True,positive
+Citalopram,Generalized Anxiety Disorde,1,"['severe anxiety', 'panic attacks', 'chest pain sensation', 'confusion', 'feeling lost', 'adverse reaction to Prozac 40mg requiring ER visit']",False,negative
+Contrave,Obesity,9,"['feeling out of it', 'nausea']",True,positive
+Qsymia,Weight Loss,1,['altered taste perception'],False,negative
+Librium,Alcohol Withdrawal,10,['fatigue'],True,positive
+Acetaminophen / hydrocodone,Back Pain,10,[],True,positive
+Mirena,Abnormal Uterine Bleeding,3,"['prolonged bleeding', 'abnormal spotting', 'expulsion of device', 'blood clots', 'excessive bleeding']",False,negative
+Vyvanse,ADHD,9,"['weight loss concern', 'appetite suppression']",True,mixed
+Conjugated estrogens,Oophorectomy,10,"['breakthrough hot flashes', 'PMS']",True,positive
+Valsartan,High Blood Pressure,1,"['persistent cough', 'worsening cough']",False,negative
+Tizanidine,Muscle Spasm,9,['tiredness'],True,positive
+Venlafaxine,Generalized Anxiety Disorde,10,"['sexual dysfunction', 'irritable bowel syndrome', 'weight gain', 'emotional blunting', 'loss of efficacy']",True,positive
+Macrodantin,Prevention of Bladder infection,7,"['fever', 'chills', 'headaches', 'muscle cramps', 'flu-like symptoms']",False,negative
+Tizanidine,Muscle Spasm,9,[],True,positive
+Omalizumab,Urticaria,1,"['intense fatigue', 'herpes outbreak', 'arthralgia', 'neck pain', 'cough', 'sore throat', 'depression']",False,negative
+Topiramate,ibromyalgia,8,"['skin itching', 'delayed circadian rhythm disorder', 'early morning awakening', 'altered sleep schedule']",True,mixed
+Sertraline,Obsessive Compulsive Disorde,9,"['morning sickness', 'brain fog', 'restless legs', 'insomnia', 'decreased libido']",True,positive
+Citalopram,Anxiety and Stress,4,"['irritability', 'temper issues']",False,negative
+Ocella,Birth Control,8,"['breakthrough bleeding', 'bloating', 'nausea', 'weight gain']",True,mixed
+Azithromycin,Bronchitis,1,[],False,negative
+MS Contin,Chronic Pain,10,[],True,positive
+Methylphenidate,,10,[],True,positive
+Acetaminophen / tramadol,Pain,10,[],True,positive
+Estradiol,Postmenopausal Symptoms,1,"['chest pain', 'chest heaviness']",False,negative
+Carbamazepine,Trigeminal Neuralgia,6,['drowsiness'],True,positive
+Isotretinoin,Acne,10,['dry lips'],True,positive
+Paroxetine,Panic Disorde,1,"['hallucinations', 'headaches']",False,negative
+Golimumab,Rheumatoid Arthritis,2,"['CIDP (chronic inflammatory demyelinating polyneuropathy)', 'paralysis', 'myelin erosion', 'nerve damage', 'mobility impairment']",False,negative
+Levitra,Erectile Dysfunction,10,[],True,positive
+Chlorpheniramine / hydrocodone,Cough,9,['lethargy'],True,positive
+Propranolol,Benign Essential Trem,10,[],True,positive
+Ethinyl estradiol / norethindrone,Birth Control,1,[],True,mixed
+Norethindrone,Birth Control,4,"['heavy bleeding', 'breakthrough bleeding', 'severe cramping', 'irregular bleeding patterns', 'worsened depression']",False,negative
+Cefdinir,Otitis Media,1,"['headache', 'nausea', 'diarrhea', 'hives', 'rash']",False,negative
+Methadone Diskets,Pain,10,[],True,positive
+Nortriptyline,Pain,3,"['concentration problems', 'excessive daydreaming', 'intrusive daydreaming']",True,negative
+Zyrtec,Allergic Rhinitis,10,[],True,positive
+Adalimumab,Ulcerative Colitis,1,"['injection site pain/burning', 'injection site erythema', 'injection site induration', 'injection site warmth', 'injection site reaction progression', 'fatigue', 'low energy', 'fever', 'diaphoresis', 'chills']",False,negative
+Trintellix,Major Depressive Disorde,10,"['head zaps', 'anxiety', 'panic attacks', 'nausea']",True,positive
+Ciclesonide,Asthma,2,"['hoarseness', 'thrush', 'asthma reaction']",False,negative
+Phentermine,Weight Loss,7,[],True,positive
+Cialis,Erectile Dysfunction,10,['heartburn'],True,positive
+Remeron,Anxiety,9,[],True,positive
+Cymbalta,Depression,10,[],True,positive
+Topiramate,Bipolar Disorde,10,[],True,positive
+Miconazole,Vaginal Yeast Infection,1,"['severe vaginal pain/burning', 'vaginal irritation']",False,negative
+Neurontin,ibromyalgia,3,"['dizziness', 'extreme dizzy spells']",False,negative
+Bisacodyl,Constipation,3,"['nausea/vomiting', 'tremors', 'syncope/fainting', 'diarrhea', 'gastrointestinal bleeding', 'constipation']",False,negative
+Quetiapine,Insomnia,7,"['night terrors', 'nightmares']",True,positive
+Acetaminophen / oxycodone,Chronic Pain,1,[],False,negative
+Mirena,Birth Control,10,"['insertion pain', 'cramping', 'breakthrough bleeding', 'spotting']",True,positive
+Etanercept,Rheumatoid Arthritis,8,"['wrist swelling', 'injection pain']",True,positive
+Maxzide,Edema,10,[],True,positive
+Ethinyl estradiol / levonorgestrel,Birth Control,2,"['breakthrough bleeding', 'prolonged menstrual bleeding']",False,mixed
+Humira,Psoriasis,5,[],,mixed
+Plaquenil,Rheumatoid Arthritis,4,[],False,negative
+Quetiapine,Bipolar Disorde,8,"['daytime tiredness', 'daytime somnolence']",True,positive
+Tapentadol,Pain,1,"['serotonin syndrome', 'tremors', 'tachycardia', 'dizziness', 'nausea', 'potentially fatal interaction']",False,negative
+Adipex-P,Weight Loss,2,[],False,negative
+Mirtazapine,Insomnia,2,[],False,negative
+Olanzapine,Bipolar Disorde,2,"['muscle rigidity', 'muscle stiffness', 'dissociation', 'memory impairment', 'involuntary leg twitching', 'akathisia']",True,negative
+Mirena,Birth Control,1,"['pain with insertion', 'continuous bleeding', 'spotting', 'prolonged periods', 'acne', 'mood swings']",False,negative
+Stadol,Pain,8,"['dizziness', 'sedation', 'tolerance development']",True,positive
+Tylenol 8 Hour,Pain,10,[],True,positive
+Tri-Sprintec,Birth Control,10,"['increased appetite', 'weight gain']",True,positive
+Levonorgestrel,Abnormal Uterine Bleeding,5,"['weight gain', 'dyspareunia (painful intercourse)']",True,mixed
+Savella,ibromyalgia,3,"['heat flashes', 'headaches', 'nausea', 'dysuria/urinary tract infection symptoms']",False,negative
+Liothyronine,Underactive Thyroid,1,"['allergic reaction to lactose binder', 'agitation', 'headaches']",True,mixed
+Paroxetine,Social Anxiety Disorde,6,[],True,positive
+Tramadol,Rheumatoid Arthritis,9,['increased energy/hyperactivity'],True,positive
+Benicar,High Blood Pressure,9,"['lightheadedness', 'tachycardia', 'muscle aches']",True,positive
+Levocetirizine,Allergies,8,[],True,positive
+Ethinyl estradiol / norethindrone,Birth Control,5,"['bleeding', 'cramps', 'bloating', 'emotional lability', 'mood swings', 'depression']",False,negative
+Amlodipine,High Blood Pressure,10,['hypervigilance'],True,positive
+Trazodone,Depression,10,[],True,positive
+Adapalene,Acne,9,['skin peeling'],True,positive
+Bupropion,Depression,1,[],False,negative
+Bupropion / naltrexone,Weight Loss,8,"['nausea', 'insomnia', 'constipation', 'dysgeusia', 'appetite suppression']",True,mixed
+Etonogestrel,Birth Control,10,"['fatigue', 'migraines', 'prolonged menstruation']",True,positive
+Benzoyl peroxide / clindamycin,Acne,10,[],True,positive
+Plan B,Emergency Contraception,10,[],True,positive
+Paxil,Anxiety and Stress,9,"['grogginess', 'spaciness', 'anxiety (upon missed dose)', 'irritability (upon missed dose)']",True,positive
+Nexplanon,Birth Control,10,"['arm swelling', 'bruising', 'mood swings', 'crying', 'irritability']",True,positive
+Zolpidem,Insomnia,3,"['hallucinations', 'binge eating', 'impulsive shopping/poor decision-making', 'parasomnia/unusual nighttime behaviors', 'fitful sleep', 'insomnia', 'reduced sleep duration']",False,negative
+Nitrofurantoin,Urinary Tract Infection,9,"['asthma attack', 'rash on legs', 'allergic reaction', 'dyspnea']",True,mixed
+Crestor,High Cholesterol,4,"['muscle pain', 'joint pain', 'muscle spasms', 'insomnia']",True,mixed
+Niaspan,"Hyperlipoproteinemia Type IV, Elevated VLDL",8,"['Residual effects on waking', 'Symptoms worse with water alone']",,mixed
+Solodyn,Acne,10,['headache'],True,positive
+Ethinyl estradiol / levonorgestrel,Birth Control,7,"['breast tenderness', 'anxiety']",True,mixed
+Levetiracetam,Seizures,10,"['mood swings', 'anger issues', 'personality changes']",True,positive
+Sertraline,Premenstrual Dysphoric Disorde,10,"['mood instability', 'relationship conflict', 'irritability', 'emotional dysregulation', 'sexual dysfunction']",True,positive
+Vortioxetine,Major Depressive Disorde,8,[],True,positive
+Phenergan,Nausea/Vomiting,10,[],True,positive
+Gabapentin,Anxiety,10,[],True,positive
+Etonogestrel,Birth Control,10,['minor pinching sensation at implant site with pressure'],True,positive
+Sucralfate,Duodenal Ulce,10,"['constipation', 'difficulty swallowing large pill']",True,positive
+Hypotears,Eye Redness,10,[],True,positive
+Escitalopram,Bipolar Disorde,10,[],True,positive
+Lorcaserin,Obesity,6,"['headaches', 'tiredness', 'decreased appetite']",True,mixed
+Implanon,Birth Control,8,['weight gain'],True,mixed
+Ethinyl estradiol / norethindrone,Birth Control,1,"['continuous bleeding', 'decreased libido']",True,negative
+Risperidone,,8,"['increased appetite', 'weight gain']",True,positive
+Estradiol,Atrophic Vaginitis,3,[],,negative
+Minocycline,Acne,9,"['initial acne worsening', 'long treatment duration']",True,positive
+Levonorgestrel,Emergency Contraception,10,[],True,positive
+Bisacodyl,Constipation,1,"['diarrhea', 'abdominal discomfort', 'gastrointestinal distress', 'accelerated intestinal transit']",False,negative
+Diltiazem,Atrial Fibrillation,10,[],True,positive
+Aviane,Birth Control,9,"['vaginal dryness', 'hot flashes']",True,positive
+Biaxin,Bronchitis,3,"['diarrhea', 'dysgeusia', 'insomnia']",False,negative
+Voltaren Gel,Osteoarthritis,10,"['jaw cramps', 'jaw pain']",True,positive
+Zelapar,Parkinson's Disease,9,[],True,positive
+Tramadol,,3,"['buzz/lightheadedness', 'constant mild intoxication']",False,negative
+Venlafaxine,ibromyalgia,6,"['withdrawal symptoms', 'panic attack', 'inadequate pain relief']",False,negative
+Effexor,Anxiety and Stress,1,"['discontinuation syndrome', 'brain zaps', 'withdrawal symptoms']",False,negative
+Belviq,Weight Loss,10,['coughing'],True,positive
+Levomilnacipran,Major Depressive Disorde,9,"['GI issues', 'sweating', 'rage', 'increased blood pressure', 'increased talkativeness']",True,positive
+Escitalopram,Depression,7,"['sluggishness', 'fatigue', 'lethargy', 'emotional numbness', 'brain fog', 'reduced mental sharpness']",True,mixed
+Vyvanse,ADHD,10,[],True,positive
+Nuvigil,Narcolepsy,2,"['head bobbing', 'drowsiness', 'difficulty staying awake']",False,negative
+Implanon,Birth Control,1,"['acne', 'spotting', 'loss of libido', 'agitation', 'mood changes', 'relationship conflict']",False,negative
+Amoxicillin / clavulanate,Bronchitis,5,[],True,mixed
+Levonorgestrel,Emergency Contraception,9,"['breakthrough bleeding', 'anxiety', 'nervousness']",True,positive
+Methylphenidate,ADHD,9,"['decreased appetite', 'thirst', 'mood crash', 'depression on comedown']",True,positive
+Spironolactone,Acne,9,"['weight gain', 'breakthrough spotting']",True,positive
+Fexofenadine,Allergic Rhinitis,10,[],True,positive
+Talwin Nx,Pain,7,[],True,positive
+MoviPrep,Bowel Preparation,9,[],True,positive
+Clindamycin,Peritonitis,10,[],True,positive
+Rizatriptan,Migraine,9,[],True,positive
+Etonogestrel,Birth Control,4,"['prolonged bleeding', 'irregular menstrual bleeding', 'decreased libido']",True,mixed
+Clonidine,Perimenopausal Symptoms,5,"['drowsiness', 'excessive sleepiness', 'fatigue']",True,mixed
+Linaclotide,Irritable Bowel Syndrome,8,"['weight gain', 'bloating', 'abdominal distension']",False,negative
+OnabotulinumtoxinA,Urinary Incontinence,3,"['incontinence', 'pain in genital area', 'tingling sensation', 'paresthesia in shoulders and arms']",False,negative
+Nexplanon,Birth Control,1,"['prolonged menstrual bleeding', 'irregular bleeding patterns', 'mood changes', 'irritability', 'personality changes', 'blood clots', 'heavy bleeding', 'severe cramps', 'immobility due to pain']",False,negative
+Dilaudid,Pain,10,"['withdrawal', 'severe withdrawal']",True,positive
+Norethindrone,Birth Control,8,"['acne', 'amenorrhea', 'vertigo', 'falls', 'abdominal pain', 'bloating', 'increased appetite']",True,positive
+Sertraline,Post Traumatic Stress Disorde,8,[],True,positive
+Xarelto,"Deep Vein Thrombosis, Recurrent Event",1,[],False,negative
+Sertraline,Panic Disorde,9,"['zombie-like state', 'somnolence', 'teeth grinding', 'teeth clenching']",True,positive
+Buprenorphine / naloxone,Opiate Dependence,10,[],True,positive
+Fluoxetine,Depression,8,['vomiting'],True,positive
+Clarithromycin,Sinusitis,9,[],True,positive
+Latuda,Bipolar Disorde,8,"['fatigue', 'restlessness']",True,positive
+Minocycline,Acne,10,[],True,positive
+Medroxyprogesterone,Birth Control,10,[],True,positive
+Depo-Provera,Birth Control,7,"['acne', 'joint pain (hips and knees)', 'bone density loss', 'osteoporosis risk']",True,mixed
+Saphris,Bipolar Disorde,1,"['insomnia', 'auditory hallucinations', 'visual hallucinations', 'mania exacerbation', 'increased euphoria']",False,negative
+Ropinirole,Restless Legs Syndrome,10,[],True,positive
+Linaclotide,"Constipation, Chronic",10,[],True,positive
+Viibryd,Depression,10,"['grogginess', 'disorientation', 'volatility']",True,positive
+Lorcaserin,Obesity,5,"['fatigue', 'excessive sleepiness', 'drowsiness']",True,mixed
+Lisdexamfetamine,ADHD,9,"['loss of appetite', 'trouble going to sleep', 'occasional meltdowns']",True,positive
+Chlordiazepoxide / clidinium,Enterocolitis,10,[],True,positive
+Sominex,Insomnia,7,[],True,positive
+Levonorgestrel,Birth Control,5,"['cramping', 'bleeding', 'prolonged bleeding', 'post-coital bleeding', 'continuous menstrual bleeding']",False,negative
+Nexplanon,Birth Control,9,"['prolonged menstrual bleeding', 'frequent periods', 'vaginal dryness', 'vaginal infection']",True,positive
+Microgestin Fe 1 / 20,Birth Control,3,"['decreased libido', 'acne', 'irritability', 'emotional instability']",,negative
+NuvaRing,Birth Control,5,"['dyspareunia (painful intercourse)', 'decreased libido', 'breast enlargement', 'weight gain', 'depression']",True,mixed
+Nexium,GERD,10,[],True,negative
+Norvasc,High Blood Pressure,10,[],True,positive
+Remeron,Depression,9,"['extreme anxiety', 'anger', 'sleeplessness', 'worthlessness']",True,positive
+Hiprex,Bladder Infection,10,[],True,positive
+Levonorgestrel,Birth Control,7,"['pain during insertion', 'severe pain post-insertion', 'difficulty walking', 'chronic pelvic pain', 'ovarian pressure', 'abnormal vaginal discharge', 'anxiety about device perforation']",,negative
+Lyrica,Diabetic Peripheral Neuropathy,8,[],True,positive
+Entyvio,Crohn's Disease,5,"['severe liver disease', 'fatty liver']",True,negative
+Acetaminophen / hydrocodone,Back Pain,2,[],False,negative
+Mirena,Birth Control,8,"['irregular periods', 'cramping (non-menstrual)', 'acne']",True,mixed
+Xarelto,Atrial Fibrillation,7,"['muscle pain', 'blurry vision', 'bruising', 'nosebleeds', 'shortness of breath', 'heavy feeling in legs', 'blood thinning']",True,mixed
+Pregabalin,Neuropathic Pain,7,['withdrawal symptoms'],True,positive
+Yaz,Birth Control,4,"['mood changes', 'mood swings', 'emotional lability', 'crying']",False,negative
+Capsaicin,Pain,9,"['burning sensation', 'increased burning with water exposure']",True,mixed
+Ethinyl estradiol / levonorgestrel,Birth Control,2,"['heavy period', 'painful cramps', 'back pain']",False,negative
+Ethinyl estradiol / levonorgestrel,Birth Control,9,"['emotional instability', 'mood changes', 'weight gain (after discontinuation)', 'relationship difficulties']",True,mixed
+Implanon,Birth Control,7,"['amenorrhea', 'loss of libido']",True,mixed
+Nitrofurantoin,Urinary Tract Infection,1,"['nausea', 'bloating', 'loss of appetite']",False,negative
+Levonorgestrel,Abnormal Uterine Bleeding,5,['IUD expulsion'],False,negative
+Magnesium sulfate / potassium sulfate / sodium sulfate,Bowel Preparation,8,"['difficulty tolerating large liquid volumes', 'nausea', 'vomiting (nearly)', 'insomnia', 'extended bowel movements']",True,positive
+Asacol,"Ulcerative Colitis, Maintenance",1,"['diarrhea', 'flare-up']",False,negative
+Clonazepam,Anxiety,10,"['stunted ability to do and act', 'reduced quality of life', 'inconsistent anxiety relief']",True,positive
+Ethinyl estradiol / levonorgestrel,Birth Control,4,"['spotting', 'bloating', 'weight gain']",False,mixed
+BuSpar,Anxiety,10,[],True,positive
+Geodon,Bipolar Disorde,9,['tachycardia'],True,mixed
+Magnesium sulfate / potassium sulfate / sodium sulfate,Bowel Preparation,9,"['bowel cleansing effect', 'dehydration risk']",True,positive
+Infliximab,Ulcerative Colitis,10,[],True,positive
+Levonorgestrel,Birth Control,7,"['insertion pain', 'weight gain', 'depression', 'crying episodes', 'bloating', 'cramps', 'back pain', 'spotting', 'migraine']",False,negative
+Gabapentin,Diabetic Peripheral Neuropathy,10,[],True,mixed
+Empagliflozin,"Diabetes, Type 2",8,"['yeast infection', 'vulvitis', 'discomfort']",True,mixed
+Lo Loestrin Fe,Birth Control,9,"['anxiety worsening', 'weight gain', 'irregular spotting']",True,positive
+Etonogestrel,Birth Control,2,"['nausea', 'irregular menstruation', 'prolonged menstruation', 'low sex drive', 'fatigue', 'lack of energy', 'irritability', 'anger']",False,negative
+Copper,Birth Control,9,"['cervical pain', 'cramping', 'inflammation']",True,mixed
+Polyethylene glycol 3350 with electrolytes,Bowel Preparation,1,"['vomiting', 'severe gag reflex', 'gagging', 'emotional distress', 'anxiety about continuation']",False,negative
+Perphenazine,Bipolar Disorde,5,[],True,positive
+Ketorolac,Postoperative Pain,10,[],True,positive
+Meloxicam,Inflammatory Conditions,8,[],True,positive
+Opium,Not Listed / Othe,1,[],False,negative
+Sertraline,Social Anxiety Disorde,10,[],True,positive
+Levonorgestrel,Emergency Contraception,10,['delayed menstruation'],True,negative
+Microgestin Fe 1.5 / 30,Birth Control,4,"['weight gain', 'breast sagging', 'acne', 'cystic acne']",False,negative
+Ethinyl estradiol / norethindrone,Acne,9,['migraines'],True,positive
+Etonogestrel,Birth Control,10,['light bleeding'],True,positive
+Crisaborole,Atopic Dermatitis,9,['stinging'],True,positive
+Vivitrol,Opiate Dependence,10,[],True,positive
+Valacyclovir,Cold Sores,10,[],True,positive
+Spironolactone,Acne,9,[],True,positive
+Stribild,HIV Infection,10,"['mild hangover sensation', 'headache', 'nausea']",True,positive
+Naloxegol,"Constipation, Drug Induced",7,[],True,positive
+Intuniv,ADHD,10,[],True,positive
+NuvaRing,Birth Control,7,"['decreased sex drive', 'uncontrollable vomiting']",True,mixed
+Acetaminophen / hydrocodone,Pain,9,[],True,positive
+Nitrofurantoin,Urinary Tract Infection,10,[],True,positive
+Divalproex sodium,Bipolar Disorde,1,"['mood swings', 'irritability', 'emotional instability']",False,negative
+Lorcaserin,Obesity,10,[],True,positive
+Etonogestrel,Birth Control,10,['amenorrhea'],True,positive
+Lexapro,Anxiety,9,"['polydipsia', 'sexual dysfunction', 'difficulty reaching orgasm']",True,positive
+Levonorgestrel,Emergency Contraception,6,"['severe acne', 'low self-esteem', 'emotional distress']",False,negative
+Etonogestrel,Birth Control,4,"['abnormal bleeding', 'headaches', 'cramps', 'hot flashes', 'embarrassment']",True,negative
+Ethinyl estradiol / norethindrone,Birth Control,4,"['breakthrough bleeding', 'weight gain', 'nausea', 'loss of appetite', 'stomach pain', 'diarrhea']",False,negative
+Tadalafil,Erectile Dysfunction,10,[],True,positive
+Valacyclovir,Cold Sores,10,[],True,positive
+Ethinyl estradiol / norethindrone,Birth Control,2,"['severe headaches', 'frequent headaches', 'irregular menstrual cycles', 'abnormal bleeding']",False,negative
+Ortho Tri-Cyclen,Acne,9,"['hyperpigmentation', 'heavy menstrual bleeding']",True,positive
+Quetiapine,Insomnia,8,[],True,positive
+Nitrofurantoin,Urinary Tract Infection,7,['nausea'],,negative
+Soma,Muscle Spasm,10,[],True,positive
+Methamphetamine,ADHD,10,"['side effects that interfered with daily life (from other medications: Strattera, Vyvanse, Adderall, Dexedrine)']",True,positive
+Ethinyl estradiol / levonorgestrel,Birth Control,9,['menstrual cramps'],True,positive
+Zyvox,Skin and Structure Infection,10,"['headache', 'fatigue', 'dizziness']",True,positive
+Zyloprim,Gout,9,"['excessive sweating', 'hot flashes']",True,positive
+Mesalamine,"Ulcerative Colitis, Active",9,"['urge to have bowel movement', 'abdominal gurgling', 'nausea']",True,positive
+"Insulin inhalation, rapid acting","Diabetes, Type 2",1,[],False,negative
+Cyclobenzaprine,Muscle Spasm,5,"['dry mouth', 'dizziness', 'insomnia']",True,mixed
+Omnicef,Strep Throat,5,"['pharyngitis (severe throat pain)', 'insomnia', 'symptom worsening']",True,mixed
+Ethinyl estradiol / norethindrone,Endometriosis,5,"['breast tenderness', 'acne', 'migraines']",True,mixed
+Adapalene / benzoyl peroxide,Acne,6,"['burning', 'redness', 'insomnia']",True,positive
+Atenolol,Anxiety,8,[],True,positive
+Campral,Alcohol Dependence,10,[],True,positive
+Buspirone,Anxiety,9,[],True,positive
+Miconazole,Vaginal Yeast Infection,8,"['vaginal burning', 'insomnia']",True,positive
+Alvesco,Asthma,2,"['hoarseness', 'thrush', 'asthma reaction']",False,negative
+Trintellix,Depression,10,['insomnia'],True,positive
+Etonogestrel,Birth Control,8,"['heavy periods', 'constant spotting', 'heavy discharge']",True,positive
+Hydralazine,High Blood Pressure,1,"['loss of appetite', 'dysgeusia (loss of taste)', 'insomnia']",False,negative
+Chateal,Birth Control,9,['spotting'],True,positive
+Buprenorphine / naloxone,Opiate Dependence,10,[],True,positive
+Ethinyl estradiol / levonorgestrel,Birth Control,8,"['breast tenderness', 'acne', 'vaginal dryness', 'decreased libido']",True,mixed
+Gabapentin,Trigeminal Neuralgia,10,[],True,positive
+Ethinyl estradiol / norgestimate,,3,"['nausea', 'vomiting', 'mood swings', 'crying', 'anxiety about vomiting']",False,negative
+Sodium hyaluronate,Osteoarthritis,1,"['increased pain', 'knee swelling', 'ankle swelling', 'ankle edema']",False,negative
+Isotretinoin,Acne,1,"['cystic acne flare-up', 'chapped lips', 'back pain']",,mixed
+Tamiflu,Influenza,10,"['nausea', 'dehydration', 'strange dreams']",True,positive
+Tenormin,Anxiety,9,[],True,positive
+Roxicodone,Chronic Pain,10,"['brain fog', 'grogginess', 'feeling thick']",False,negative
+Lo Loestrin Fe,Birth Control,2,"['heavy menstrual bleeding', 'severe menstrual cramps', 'dark brown spotting', 'continuous spotting', 'mood swings', 'crying', 'loss of libido', 'depression', 'anxiety worsening']",True,negative
+Escitalopram,Anxiety,9,"['nausea', 'gas']",True,positive
+Losartan,High Blood Pressure,2,['muscle pain'],False,negative
+Amlodipine / olmesartan,High Blood Pressure,10,[],True,positive
+Ethinyl estradiol / etonogestrel,Birth Control,4,"['fatigue', 'decreased libido', 'loss of sexual desire']",False,mixed
+Albuterol,"Asthma, Maintenance",7,"['tachycardia', 'tremors', 'difficulty with fine motor tasks']",True,mixed
+Apremilast,Psoriatic Arthritis,4,['sleep issues'],True,mixed
+Desogestrel / ethinyl estradiol,Birth Control,4,"['mood swings', 'anger', 'irritability']",True,positive
+Ethinyl estradiol / norethindrone,Menstrual Disorders,8,"['mood swings', 'crying', 'anger', 'decreased libido']",True,positive
+Ditropan,Urinary Incontinence,8,['dry mouth'],True,positive
+Sumatriptan,Migraine,10,[],True,positive
+Saxenda,Obesity,10,[],True,positive
+Magnesium hydroxide,Constipation,10,[],True,positive
+Clonazepam,Anxiety,9,[],True,positive
+Dexlansoprazole,GERD,1,"['muscle cramping in lower back', 'muscle cramping in legs', 'abdominal cramping', 'diarrhea']",False,negative
+Cordarone,Arrhythmia,8,"['general weakness', 'muscle fatigue', 'constipation', 'lapses in memory/concentration']",True,mixed
+Aripiprazole,Agitated State,7,[],True,positive
+Monistat 3-Day Combination Pack,Vaginal Yeast Infection,1,"['vaginal burning', 'vaginal pain']",False,negative
+OnabotulinumtoxinA,Overactive Bladde,10,"['dry mouth', 'bladder pain with voiding', 'headaches']",True,positive
+Mirena,Birth Control,10,"['pain with insertion', 'pain with removal']",True,positive
+Cialis,Erectile Dysfunction,10,[],True,positive
+Capsaicin,Pain,8,[],True,positive
+Dulcolax,Constipation,1,"['severe stomach cramps', 'intense abdominal pain', 'agony']",False,negative
+Amlodipine,High Blood Pressure,3,"['arm soreness', 'leg soreness', 'lower leg heaviness', 'facial flushing', 'profuse sweating', 'headaches', 'fatigue', 'sleepiness', 'nervousness']",False,negative
+Stavzor,Mania,10,[],True,positive
+Varenicline,Smoking Cessation,9,"['metallic taste', 'tiredness', 'anxiety', 'nausea', 'gagging', 'bradycardia (heart rate 53)']",True,mixed
+Primidone,Benign Essential Trem,10,['skin rash'],True,mixed
+Oracea,Ocular Rosacea,10,[],True,positive
+Intuniv,ADHD,9,"['fatigue', 'irritability']",True,positive
+Phenytoin,Anxiety,10,[],True,positive
+Tranylcypromine,Depression,2,[],True,mixed
+Imitrex,Migraine,10,['somnolence'],True,positive
+Depakote,Bipolar Disorde,6,"['hypo manic symptoms', 'hyper manic symptoms', 'zombie-like state', 'weight gain']",True,mixed
+Acetaminophen / hydrocodone,Back Pain,8,"['stomach pain', 'nausea']",True,mixed
+Climara,Atrophic Vaginitis,9,[],True,positive
+Tioconazole,Vaginal Yeast Infection,1,['yeast infection'],True,mixed
+Lisinopril,High Blood Pressure,1,"['stomach discomfort', 'sickness']",False,negative
+Xyzal,Allergic Rhinitis,10,[],True,positive
+Lenalidomide,Multiple Myeloma,6,['blood clot in left leg'],True,mixed
+Etonogestrel,Birth Control,10,"['spotting', 'lighter periods', 'less frequent periods']",True,positive
+Pristiq,Depression,10,[],True,positive
+Armour Thyroid,Underactive Thyroid,10,"['weight gain', 'mood swings', 'hair loss', 'cold intolerance', 'fatigue', 'dyspnea']",True,positive
+Avanafil,Erectile Dysfunction,2,['headache'],False,negative
+Loryna,Acne,1,"['emptiness', 'depersonalization', 'anxiety attacks', 'overthinking', 'irritability', 'mood worsening']",False,negative
+Tramadol,Restless Legs Syndrome,2,[],False,negative
+Dapsone,Acne,10,[],True,positive
+Lexapro,Anxiety,10,"['panic attacks', 'anxiety', 'obsessive thoughts', 'depression', 'anhedonia', 'dizziness', 'blurry vision', 'stomach discomfort', 'initial worsening of symptoms']",True,positive
+Ethinyl estradiol / norethindrone,Birth Control,1,['blood clot'],False,negative
+Phenytoin,Epilepsy,10,[],True,positive
+Sronyx,Birth Control,7,"['mood changes', 'tiredness', 'emotional lability', 'weight loss', 'appetite suppression', 'acne']",True,mixed
+Suprep Bowel Prep Kit,Bowel Preparation,10,[],True,positive
+Thorazine,Hiccups,1,"['tachycardia', 'anxiety']",False,negative
+Tramadol,Back Pain,10,[],True,positive
+Ortho Tri-Cyclen Lo,Endometriosis,1,"['sharp pains in legs and arms', 'stomach upset', 'ear pain']",False,negative
+Mirena,Birth Control,1,"['period cramping', 'stomach bloating', 'abdominal pain', 'severe pain']",False,negative
+Clarithromycin,Sinusitis,10,['fatigue'],True,mixed
+Fluvoxamine,Obsessive Compulsive Disorde,9,[],True,positive
+Etonogestrel,Birth Control,9,['weight gain'],True,positive
+Gleevec,Chronic Myelogenous Leukemia,9,"['nausea', 'vomiting', 'leg pain']",True,positive
+Cipro,Bladder Infection,2,"['body pain', 'joint pain', 'ankle pain']",False,negative
+Armodafinil,Narcolepsy,9,"['lack of motivation', 'fatigue', 'anhedonia', 'apathy']",True,mixed
+Lamictal,Bipolar Disorde,9,[],True,positive
+Venlafaxine,Depression,3,"['tachycardia', 'sweating', 'orthostatic hypotension', 'blurred vision', 'nausea', 'headaches', 'insomnia', 'weight gain', 'vertigo', 'spatial disorientation']",False,negative
+Buprenorphine / naloxone,Opiate Dependence,3,['precipitated withdrawal syndrome'],False,negative
+Omalizumab,"Asthma, Maintenance",10,[],True,positive
+Cymbalta,Generalized Anxiety Disorde,9,"['constipation', 'nausea', 'headaches']",True,positive
+Quetiapine,Depression,10,[],True,positive
+Paroxetine,Anxiety,9,[],True,positive
+Montelukast,Allergic Rhinitis,10,[],True,positive
+Miconazole,Vaginal Yeast Infection,5,"['discharge', 'burning', 'pain']",True,mixed
+Mirena,Birth Control,10,"['insertion discomfort', 'cramping', 'heavy bleeding', 'brownish spotting', 'breast tenderness', 'weight gain', 'IUD palpable during intercourse']",True,positive
+Furosemide,,5,['fatigue'],True,mixed
+"Insulin inhalation, rapid acting","Diabetes, Type 1",7,[],True,positive
+Adderall XR,ADHD,9,"['shortness of breath', 'increased PMS symptoms']",True,mixed
+Hypercare,Hyperhidrosis,10,[],True,positive
+Lisdexamfetamine,ADHD,9,"['appetite suppression', 'stomach rumbling']",True,positive
+Alprazolam,Anxiety,10,"['tolerance development', 'potential for abuse', 'potential for addiction', 'severe withdrawal']",True,positive
+Silodosin,Benign Prostatic Hyperplasia,5,"['dry ejaculation', 'lower sex drive']",True,negative
+Bydureon,"Diabetes, Type 2",10,[],True,positive
+Flexeril,Muscle Spasm,5,[],True,positive
+Mirena,Birth Control,3,"['heavy bleeding', 'severe cramping', 'pain', 'nocturnal pain episodes with moaning and crying']",False,negative
+Bisacodyl,Constipation,8,"['abdominal pain', 'nausea', 'diarrhea', 'fecal incontinence']",False,negative
+Ethinyl estradiol / levonorgestrel,Birth Control,2,"['acne', 'painful breakouts']",False,negative
+Carac,Actinic Keratosis,8,"['itching', 'pain']",True,mixed
+Vortioxetine,Depression,10,['nausea'],True,positive
+Benzoic acid / salicylic acid,Dermatological Disorders,10,[],True,positive
+Levemir,"Diabetes, Type 2",10,[],True,positive
+Equetro,Bipolar Disorde,7,"['loss of libido', 'depression']",True,mixed
+Buprenorphine,Chronic Pain,8,['rush/euphoria'],True,mixed
+Zithromax,Bronchitis,5,"['stomach cramps', 'diarrhea', 'gas pressure', 'dysgeusia (funny taste in mouth)']",True,negative
+Implanon,Birth Control,3,"['acne', 'weight gain', 'increased appetite', 'dandruff', 'reduced libido']",False,negative
+Phentermine,Obesity,10,['low energy when not taking the medication'],True,positive
+Aripiprazole,Schizophrenia,9,['weight gain'],True,positive
+Ultram,Chronic Pain,10,['dry mouth'],True,positive
+Clobetasol,Dermatitis,10,[],True,positive
+Desogestrel / ethinyl estradiol,Birth Control,2,"['mood swings', 'irrational thoughts', 'weight gain', 'depression', 'fatigue', 'decreased libido']",False,negative
+Octreotide,"Diabetes, Type 1",9,[],True,positive
+Effexor XR,Hot Flashes,9,"['withdrawal symptoms', 'severe withdrawal reaction']",True,positive
+Desvenlafaxine,Anxiety,7,"['jitteriness', 'diarrhea']",,mixed
+Etonogestrel,Birth Control,1,"['amenorrhea', 'weight gain', 'mood swings', 'anger', 'emotional lability', 'delayed return to menstruation', 'irregular menstruation', 'infertility']",False,negative
+Mirabegron,Overactive Bladde,7,[],False,negative
+Medroxyprogesterone,Abnormal Uterine Bleeding,1,"['extreme depression', 'rapid weight gain', 'irregular bleeding', 'acne', 'increased breast size', 'decreased sex drive', 'mood swings']",False,negative
+Allegra,Allergic Rhinitis,9,"['weight gain', 'bloating']",True,mixed
+Suprep Bowel Prep Kit,Bowel Preparation,10,"['nausea', 'abdominal distension', 'chills']",True,positive
+Flexeril,15</span> users found this comment helpful.,1,"['difficulty breathing', 'immobility', 'panic attack', 'serotonin syndrome']",False,negative
+Ziprasidone,Schizoaffective Disorde,2,"['weight gain', 'excessive tiredness', 'impaired coordination', 'drowsiness']",False,negative
+Neurontin,Migraine,9,"['mood changes', 'agitation', 'drowsiness']",,mixed
+Loestrin Fe 1 / 20,Birth Control,10,['breakthrough spotting'],True,positive
+Efavirenz / emtricitabine / tenofovir,HIV Infection,10,[],True,positive
+Skyla,Birth Control,10,"['cramping during insertion', 'severe cramping during cervical measurement', 'discomfort during insertion']",,mixed
+Hydroxyzine,Allergic Urticaria,7,"['drowsiness', 'excessive sleep']",True,mixed
+Clarithromycin,Tonsillitis/Pharyngitis,5,"['bitter taste', 'insomnia', 'fatigue', 'yellow tongue', 'furry tongue']",True,mixed
+Alprazolam,Panic Disorde,10,[],True,positive
+Ropinirole,Restless Legs Syndrome,5,[],False,negative
+Dexedrine,ADHD,10,[],True,positive
+Ethinyl estradiol / levonorgestrel,Birth Control,6,"['acne breakouts', 'bloating', 'weight gain']",,mixed
+Vortioxetine,Major Depressive Disorde,9,[],True,positive
+Medroxyprogesterone,Abnormal Uterine Bleeding,1,"['vaginal bleeding', 'stomach pain', 'emotional instability', 'continuous bleeding', 'chronic pain', 'sexual dysfunction', 'depression']",False,negative
+Desvenlafaxine,Depression,9,"['nocturnal awakening', 'sleep disturbance']",True,positive
+Flonase,Rhinitis,10,[],True,positive
+Erlotinib,Non-Small Cell Lung Cance,10,[],True,positive
+Topiramate,Obesity,1,"['tingling in hands', 'bitter taste', 'memory impairment', 'feeling like a zombie', 'tingling in feet', 'numbness in arms', 'finger swelling']",False,negative
+Citalopram,Depression,10,"['headaches', 'insomnia', 'increased startle response', 'hyperreactivity to stimuli']",True,positive
+Clindamycin / tretinoin,Acne,9,['oily skin upon waking'],True,positive
+Doxycycline,Acne,8,[],True,positive
+Yaz,Birth Control,10,[],True,positive
+Amlodipine,Migraine Prevention,9,[],True,positive
+Hydroxyzine,Allergic Urticaria,6,"['difficulty opening eyes', 'heaviness', 'fatigue', 'grogginess', 'irritability', 'anger']",True,mixed
+Phentermine,Obesity,10,"['insomnia', 'headaches']",True,positive
+MoviPrep,Bowel Preparation,1,"['bad taste', 'nausea/difficulty swallowing', 'delayed onset of action', 'nocturnal incontinence', 'sleep disruption']",False,negative
+Metronidazole,Trichomoniasis,10,['allergic reaction'],True,positive
+Ethinyl estradiol / norethindrone,Birth Control,10,[],True,positive
+Etonogestrel,Birth Control,2,"['chronic anxiety', 'exhaustion', 'intrusive thoughts', 'isolation', 'lack of motivation', 'mood changes', 'personality changes', 'loss of energy', 'loss of enthusiasm']",False,negative
+Etonogestrel,Birth Control,9,"['amenorrhea', 'daily headaches', 'sadness', 'low sex drive', 'bruising at insertion site']",True,positive
+Lorcaserin,Obesity,3,[],False,neutral
+Quetiapine,Bipolar Disorde,7,['weight gain'],True,positive
+Valtrex,"Herpes Simplex, Suppression",10,[],True,positive
+Differin,Acne,10,"['dry skin', 'flaky skin']",True,positive
+Topamax,Seizure Prevention,10,[],True,positive
+Multivitamin with minerals,Vitamin/Mineral Supplementation and Deficiency,2,['elevated iron levels'],False,negative
+Liraglutide,Obesity,9,"['fatigue', 'hunger (cyclical)', 'appetite fluctuation']",True,positive
+Valium,Anxiety,10,[],True,positive
+Minoxidil,Alopecia,10,[],True,positive
+Pantoprazole,GERD,9,"['coughing', 'asthma-like attacks', 'acid reflux']",True,positive
+Isotretinoin,Acne,1,[],False,negative
+Phentermine / topiramate,Weight Loss,9,"['toe numbness', 'finger numbness', 'dry mouth']",True,positive
+Bentyl,Irritable Bowel Syndrome,8,['drowsiness'],True,positive
+Etanercept,Rheumatoid Arthritis,10,['injection pain'],True,positive
+Trulicity,"Diabetes, Type 2",9,[],True,positive
+Adapalene / benzoyl peroxide,Acne,5,"['burning sensation', 'skin irritation']",,mixed
+Depo-Provera,Birth Control,3,"['migraines', 'nausea', 'diarrhea', 'neck stiffness', 'mood swings', 'depression', 'loss of libido', 'prolonged menstrual bleeding']",False,negative
+Mirena,Birth Control,9,"['cramps', 'tiredness', 'discomfort']",True,positive
+Cozaar,High Blood Pressure,6,"['cough', 'tiredness', 'dizziness', 'constipation']",True,mixed
+Contrave,Obesity,7,"['no weight loss', 'overwhelming appetite', 'hormonal imbalance']",False,mixed
+Lubiprostone,"Constipation, Chronic",9,"['headaches', 'nausea']",True,positive
+Invokana,"Diabetes, Type 2",8,['yeast infection'],True,mixed
+Copper,Birth Control,4,"['severe menorrhagia', 'prolonged periods', 'heavy bleeding', 'thread detachment']",True,negative
+Vyvanse,ADHD,10,[],True,positive
+Lyrica,Neuralgia,9,[],True,positive
+NuvaRing,Birth Control,9,"['acne', 'nausea']",True,positive
+Ethinyl estradiol / norgestimate,Birth Control,10,[],True,positive
+Flunisolide,Allergic Rhinitis,9,[],True,positive
+Klonopin,Panic Disorde,10,"['fatigue', 'excessive sleeping']",True,mixed
+Varenicline,Smoking Cessation,10,"['tiredness', 'nausea', 'body aches', 'nightmares', 'dry mouth', 'loss of taste']",True,mixed
+Cymbalta,ibromyalgia,1,[],True,positive
+Citalopram,Anxiety and Stress,8,[],True,positive
+Zoloft,Social Anxiety Disorde,1,"['migraines', 'insomnia', 'difficulty urinating', 'urinary retention']",False,negative
+Ropinirole,Periodic Limb Movement Disorde,1,['insomnia'],,negative
+Liraglutide,Obesity,10,[],True,positive
+Maxalt,Migraine,8,[],True,positive
+Keytruda,Head and Neck Cance,1,"['inability to walk', 'body deterioration', 'unresponsiveness']",False,negative
+Benzoyl peroxide / clindamycin,Acne,3,"['itchy skin', 'dry skin', 'erythema (redness)', 'facial erythema (red mask appearance)', 'red patches']",True,mixed
+Amitriptyline,ibromyalgia,6,"['tachycardia', 'blood sugar dysregulation']",True,mixed
+Verapamil,Cluster Headaches,10,['annoying side effects'],True,positive
+Fiorinal,Headache,10,[],True,positive
+Topiramate,Bipolar Disorde,9,[],True,positive
+Gabapentin,Anxiety,10,['sluggishness'],True,positive
+Lexapro,Anxiety,2,"['suicidal ideation', 'stomach problems', 'increased anxiety', 'depression']",False,negative
+Vyvanse,ADHD,1,"['insomnia', 'tic', 'depression']",False,negative
+Etonogestrel,Birth Control,7,"['bruising at insertion site', 'irregular bleeding (2-week period after insertion)', 'amenorrhea', 'appetite suppression']",True,positive
+Mefenamic acid,Period Pain,10,[],True,positive
+Lithium,Bipolar Disorde,10,"['increased thirst', 'acne']",True,positive
+Nexplanon,Birth Control,10,['breast tenderness'],True,positive
+Dextromethorphan,Cough,1,"['abdominal gurgling', 'abdominal cramps', 'diarrhea', 'dizziness', 'lightheadedness', 'syncope (near fainting)']",False,negative
+Ethinyl estradiol / norgestrel,Abnormal Uterine Bleeding,1,"['paresthesia (legs and arms falling asleep)', 'blurred vision', 'headaches', 'mood changes (irritability/emotional instability)']",False,negative
+Paxil,Depression,10,"['effects diminished with alcohol', 'rage on discontinuation', 'withdrawal effects']",True,positive
+Adalimumab,Rheumatoid Arthritis,10,[],True,positive
+Lexapro,Generalized Anxiety Disorde,5,"['teeth feel strange', 'tiredness', 'insomnia', 'restlessness']",True,positive
+Docosanol,Herpes Simplex,8,[],True,positive
+Hydrocodone / pseudoephedrine,Cough and Nasal Congestion,7,"['itchy skin', 'tingling sensation']",True,mixed
+Citalopram,Depression,9,"['night sweats', 'light headaches', 'insomnia']",True,positive
+Buprenorphine,Pain,1,"['insomnia', 'headache', 'paresthesia (skin crawling sensation)', 'nausea/vomiting', 'anorexia']",False,negative
+Seasonique,Birth Control,10,"['spotting', 'acne']",True,positive
+Vortioxetine,Major Depressive Disorde,10,[],True,positive
+Tamiflu,Influenza,9,['headache'],True,positive
+Magnesium hydroxide,Constipation,10,"['abdominal distension', 'constipation', 'pain', 'gas', 'diarrhea']",True,positive
+Nexplanon,Birth Control,5,"['acne (mild, cystic)', 'fatigue', 'hair thinning', 'breast soreness', 'light cramping']",True,mixed
+Amitriptyline,Migraine Prevention,7,"['sugar cravings', 'carb cravings', 'increased appetite', 'weight gain', 'tolerance development', 'addictive potential']",True,negative
+Ethinyl estradiol / norethindrone,Birth Control,10,[],,positive
+Risperdal,Schizophrenia,9,[],True,positive
+Milnacipran,ibromyalgia,10,['nausea'],True,positive
+Loestrin 24 Fe,Birth Control,1,"['acne', 'mood swings', 'decreased libido', 'anorgasmia', 'amenorrhea']",False,negative
+Depo-Medrol,Rheumatoid Arthritis,9,['occasional pain'],True,positive
+Bisacodyl,Constipation,7,"['abdominal pain', 'cramping', 'rapid onset of bowel movements']",True,mixed
+Wellbutrin,Depression,9,"['insomnia', 'irritability', 'numbness', 'sweet cravings', 'decreased libido']",True,positive
+Tramadol,Chronic Pain,8,[],True,positive
+Tramadol,ibromyalgia,9,"['nausea', 'constipation']",True,positive
+Ethinyl estradiol / norethindrone,Birth Control,5,"['weight gain', 'increased appetite']",True,mixed
+Bactrim,Urinary Tract Infection,1,"['fatigue', 'headache', 'nausea', 'depersonalization', 'emotional distress', 'crying']",False,negative
+Nexplanon,Birth Control,1,"['spotting', 'loss of libido', 'irritability', 'mood swings', 'weight gain']",False,negative
+Simvastatin,High Cholesterol,9,"['insomnia', 'edginess']",True,mixed
+OxyContin,Pain,10,['side effects (unspecified but acknowledged as present and manageable)'],True,positive
+Fetzima,Major Depressive Disorde,7,"['nausea', 'vomiting', 'constipation']",True,positive
+Venlafaxine,Depression,7,"['withdrawal symptoms (feeling like absolute trash)', 'paresthesias (limbs buzzing)', 'dizziness', 'nausea', 'concentration difficulties', 'anorgasmia (inability to orgasm)', 'decreased libido']",True,mixed
+Propofol,Anesthesia,10,"['dizziness', 'disinhibition', 'behavioral disinhibition']",True,positive
+Effexor XR,Depression,10,[],True,positive
+Ambien,Insomnia,9,[],True,positive
+Atenolol,Migraine Prevention,10,[],True,positive
+Copaxone,Multiple Sclerosis,10,[],True,positive
+Zithromax,Bronchitis,3,[],True,mixed
+Suprep Bowel Prep Kit,Bowel Preparation,10,['queasiness'],True,positive
+Bupropion / naltrexone,Obesity,8,"['multiple side effects from standard list', 'nausea', 'constipation', 'headache', 'dizziness', 'insomnia', 'anxiety']",True,mixed
+Ethinyl estradiol / norgestimate,Birth Control,1,"['depression', 'anxiety', 'emotional lability', 'anhedonia', 'relationship strain']",False,negative
+Amlodipine / valsartan,ge (amlodipine / valsartan),6,"['fatigue', 'somnolence']",True,mixed
+Skyla,Birth Control,10,"['irritability', 'sadness', 'crying', 'cramping', 'spotting', 'moodiness', 'anger']",False,negative
+Meloxicam,Osteoarthritis,9,['stomach irritation'],True,positive
+Deplin,Depression,8,[],True,mixed
+Depo-Provera,Birth Control,8,"['amenorrhea', 'weight loss', 'increased appetite', 'mood swings', 'spotting', 'hot flashes']",True,positive
+Zolpidem,Insomnia,7,[],True,positive
+Mirena,Birth Control,10,"['cramping', 'spotting']",True,positive
+Nexplanon,Birth Control,3,"['prolonged menstruation', 'menorrhagia', 'intermenstrual spotting', 'weight gain', 'acne', 'mood swings', 'anxiety', 'depression', 'functional impairment']",True,negative
+Coumadin,Deep Vein Thrombosis Prophylaxis after Knee Replacement Surgery,10,"['thrush', 'blood clots', 'embolism']",True,positive
+Lubiprostone,"Constipation, Chronic",9,"['constipation', 'bloating', 'abdominal pain', 'diarrhea', 'nausea']",True,positive
+Mirena,Birth Control,10,[],True,positive
+Skyla,Birth Control,4,"['amenorrhea', 'light spotting', 'IUD strings causing discomfort during intercourse', 'irregular menstrual cycles', 'prolonged menstrual bleeding', 'severe dysmenorrhea', 'incapacitating cramps']",False,negative
+Afrin,Nasal Congestion,3,[],True,mixed
+Lisinopril,High Blood Pressure,9,"['dizziness', 'lightheadedness', 'aches and pains', 'left arm pain', 'chest pain', 'numbness', 'tingling in extremities']",True,negative
+Ethinyl estradiol / norgestimate,Birth Control,5,"['mood changes', 'increased crying', 'depression']",False,negative
+Monistat 7,Vaginal Yeast Infection,10,"['itching', 'swelling']",True,positive
+Dulcolax,Constipation,5,"['nausea', 'dry heaving', 'diarrhea', 'explosive diarrhea', 'frequent bowel movements']",True,mixed
+Ethinyl estradiol / norgestimate,Birth Control,6,"['weight gain', 'increased appetite', 'fatigue', 'nausea']",True,mixed
+Junel Fe 1 / 20,Birth Control,8,[],True,positive
+Implanon,Birth Control,7,"['prolonged bleeding', 'heavy bleeding', 'headaches']",True,mixed
+Clonidine,ADHD,6,"['nocturnal awakening', 'hyperactivity', 'inability to focus', 'impaired concentration', 'restlessness', 'rebound hyperactivity']",False,negative
+Sertraline,Depression,10,"['nausea', 'insomnia']",True,positive
+Clomipramine,Depression,8,[],True,positive
+Dexedrine,ADHD,4,"['sluggishness', 'reduced hyperactivity']",True,mixed
+Implanon,Birth Control,1,"['consistent bleeding', 'bloating', 'prominent veins', 'hemorrhoid', 'severe OCD', 'severe generalized anxiety disorder', 'major depressive disorder', 'suicidal ideation']",False,negative
+Qsymia,Obesity,8,"['weight loss', 'irritability', 'dry mouth', 'tingling in feet']",True,mixed
+Loestrin 24 Fe,Birth Control,3,"['fatigue', 'low energy', 'bloating', 'breast tenderness', 'mood swings', 'anger', 'sadness', 'crying', 'argumentativeness']",True,mixed
+Trintellix,Depression,2,"['dizziness', 'light headedness']",False,negative
+Oseltamivir,Influenza,10,[],True,positive
+Flagyl,"Crohn's Disease, Acute",9,"['listlessness', 'tiredness', 'insomnia', 'constipation']",,negative
+Qsymia,Weight Loss,7,"['decreased appetite', 'dry mouth']",True,positive
+Buspirone,Anxiety,10,[],True,positive
+Copper,Birth Control,5,"['cramping', 'bleeding', 'vaginal discharge', 'heavy periods', 'prolonged menstruation']",False,negative
+Ethinyl estradiol / levonorgestrel,Birth Control,9,"['emotional instability', 'nausea', 'decreased libido']",True,positive
+Ethinyl estradiol / etonogestrel,Birth Control,1,"['nausea', 'vomiting', 'labial irritation', 'lacerations from insertion']",False,negative
+Sodium hyaluronate,Osteoarthritis,5,[],,negative
+Pregabalin,ibromyalgia,8,['feeling spacy'],True,positive
+Tioconazole,Vaginal Yeast Infection,1,"['severe burning', 'excruciating pain', 'insomnia', 'persistent burning sensation']",False,negative
+Depo-Provera,Birth Control,9,['weight gain'],True,positive
+Klonopin,Bipolar Disorde,8,"['constipation', 'dry mouth', 'lack of coordination', 'unsteadiness', 'vertigo']",True,positive
+Amphetamine,ADHD,9,[],True,positive
+Veramyst,Allergic Rhinitis,10,[],True,positive
+Flonase,Allergic Rhinitis,10,[],True,positive
+Atripla,HIV Infection,10,"['unrefreshed sleep', ""feeling as though just fallen asleep despite full night's sleep""]",True,positive
+Etonogestrel,Birth Control,6,"['spotting', 'breast pain', 'nipple soreness', 'nipple sensitivity', 'mood swings', 'irritability', 'weight gain']",True,mixed
+Buprenorphine / naloxone,Opiate Dependence,10,[],True,positive
+Clarithromycin,Strep Throat,1,"['metallic taste', 'nausea', 'fever', 'insomnia']",False,negative
+Silver sulfadiazine,"Burns, External",10,[],True,positive
+Albuterol,"Asthma, Maintenance",1,['clogging'],False,negative
+Diflorasone,Skin Rash,10,[],True,positive
+Esgic-Plus,Headache,2,['hangover feeling'],False,negative
+Lortab,Pain,9,[],True,positive
+Desogestrel / ethinyl estradiol,,6,"['emotional inconsistency', 'mood swings', 'emotional lability', 'emotional breakdowns', 'menorrhagia', 'dysmenorrhea']",True,negative
+Canagliflozin,"Diabetes, Type 2",6,"['chronic yeast infection', 'inflamed bumps under arms', 'nodular lesions', 'no weight loss']",True,mixed
+Sprintec,Abnormal Uterine Bleeding,8,"['brown discharge spotting', 'breast tenderness']",True,positive
+Saphris,Bipolar Disorde,10,[],True,positive
+Cyclobenzaprine,ibromyalgia,9,[],True,positive
+Effexor XR,Hot Flashes,9,['drowsiness'],True,positive
+Sprintec,Birth Control,7,"['nausea', 'breast tenderness', 'worsened PMS', 'mood swings']",True,mixed
+Meloxicam,Osteoarthritis,10,['stomach issues'],True,positive
+Norco,Pain,2,[],False,negative
+Bupropion,Depression,10,['dry mouth'],True,positive
+Adapalene / benzoyl peroxide,Acne,9,"['skin peeling', 'skin burning', 'purge']",True,positive
+Lomotil,Diarrhea,10,[],True,positive
+MoviPrep,Bowel Preparation,7,['bad taste'],True,positive
+Ciprofloxacin,Urinary Tract Infection,5,['foot neuropathy'],,negative
+Nexplanon,Birth Control,10,[],True,positive
+Liletta,Birth Control,6,"['severe insertion pain', 'syncope (near fainting)', 'cramps', 'weakness', 'mood swings', 'bloating', 'food cravings', 'acne', 'spotting', 'menorrhagia (prolonged menstrual bleeding)']",True,mixed
+Diclofenac,Osteoarthritis,8,[],True,mixed
+Propranolol,mance Anxiety,8,[],True,positive
+Reglan,Lactation Augmentation,9,[],True,positive
+Compazine,Nausea/Vomiting,1,"['panic attack', 'sense of doom', 'paresthesia (skin crawling)', 'extreme anxiety', 'fear of dying']",False,negative
+Cyproheptadine,Anorexia,10,"['insomnia', 'fatigue', 'rapid weight gain', 'body image disturbance', 'depersonalization']",True,mixed
+Etonogestrel,Birth Control,7,"['mood changes', 'depression', 'decreased libido', 'menorrhagia', 'prolonged menstruation', 'increased cycle length']",True,mixed
+Cymbalta,Back Pain,1,"['euphoria', 'hyperactivity', 'tachycardia', 'paresthesias', 'suicidal ideation', 'ineffective for pain']",False,negative
+Ethinyl estradiol / levonorgestrel,Birth Control,9,"['emotional lability during period', 'weight gain', 'decreased libido']",True,positive
+Chantix,Smoking Cessation,6,"['stomach pain', 'abdominal pain']",True,mixed
+Imiquimod,Human Papilloma Virus,8,"['burning', 'raw skin', 'severe pain', 'pain with water contact', 'pain with washing', 'pain with sitting', 'pain with walking', 'pain with sneezing', 'pain with urination']",True,mixed
+Strattera,ADHD,8,[],True,positive
+Skyla,Birth Control,10,[],,positive
+Lo Loestrin Fe,Birth Control,10,['low sex drive'],True,positive
+Emetrol,Nausea/Vomiting,1,"['rash on hands', 'rash on arms', 'rash on neck', 'rash on face', 'rash on back', 'allergic reaction']",False,negative
+Venlafaxine,Depression,10,"['dry mouth', 'frequent urination', 'insomnia', 'vivid dreams', 'night sweats', 'head zaps']",True,positive
+Buprenorphine,Opiate Dependence,10,[],True,positive
+Vortioxetine,Major Depressive Disorde,9,[],True,positive
+Uricalm,Dysuria,10,[],True,positive
+Nubain,Pain,1,"['withdrawal symptoms', 'headache', 'nausea']",False,negative
+Wellbutrin XL,Depression,8,"['anger', 'irritability', 'unhappiness', 'excessive sleep', 'weight gain', 'teeth grinding', 'headaches', 'metallic taste', 'premenstrual mood swings', 'severe irritability during premenstrual period']",True,positive
+Levonorgestrel,Abnormal Uterine Bleeding,3,"['pain during insertion', 'constant bleeding', 'heightened sex drive', 'mood swings', 'fatigue', 'unusual odor']",False,negative
+Tri-Sprintec,0</span> users found this comment helpful.,1,"['depression', 'mood swings', 'irritability', 'acne', 'cramps', 'weight gain', 'prolonged menstrual bleeding']",False,negative
+Harvoni,Hepatitis C,10,[],True,positive
+Aviane,Birth Control,5,"['mood swings', 'anxiety', 'cramping', 'increased appetite', 'bloating', 'breast enlargement', 'breast tenderness']",False,negative
+Bystolic,High Blood Pressure,9,"['fatigue', 'cognitive fog', 'decreased libido']",True,positive
+ParaGard,Birth Control,10,['cramping'],True,positive
+Ethinyl estradiol / norethindrone,Birth Control,6,"['mood swings', 'weight gain', 'breast enlargement']",,negative
+Depo-Provera,Birth Control,1,"['amenorrhea', 'prolonged menstrual bleeding', 'weight gain', 'acne']",False,negative
+Varenicline,Smoking Cessation,10,[],True,positive
+Levaquin,Sinusitis,10,[],True,positive
+Escitalopram,Generalized Anxiety Disorde,8,"['feeling unwell after missed dose', 'suicidal ideation after missed dose']",True,positive
+Fleet Enema,Constipation,10,"['constipation', 'cramping']",True,positive
+Ropinirole,Restless Legs Syndrome,8,"['weight gain', 'swelling', 'dyspnea', 'edema']",True,mixed
+Sertraline,Social Anxiety Disorde,1,"['depression', 'suicidal ideation', 'social anxiety', 'anxiety']",True,mixed
+Bydureon,"Diabetes, Type 2",5,"['increased appetite', 'weight gain', 'sugar cravings', 'anxiety about weight gain']",True,mixed
+Quetiapine,Bipolar Disorde,8,"['increased appetite', 'weight gain']",True,positive
+Levonorgestrel,Birth Control,10,"['severe cramping during insertion', 'nausea', 'dizziness', 'blurred vision', 'spotting']",True,positive
+Invega Sustenna,Schizophrenia,8,"['anxiety', 'weight gain']",True,positive
+Buprenorphine / naloxone,Opiate Dependence,9,[],True,positive
+Magnesium sulfate / potassium sulfate / sodium sulfate,Bowel Preparation,9,"['bowel movements', 'rectal pain']",True,positive
+Tramadol,Anxiety,9,['tolerance'],True,positive
+Uristat,Interstitial Cystitis,7,[],True,positive
+Levofloxacin,Bronchitis,10,['magnesium depletion'],True,positive
+Fluorouracil,Keratosis,10,"['burning sensation', 'peeling', 'erythema', 'blisters', 'bleeding', 'emotional distress']",True,mixed
+Contrave,Obesity,3,"['stuffed sick feeling', 'dizziness']",False,negative
+Propranolol,Pe,10,[],True,positive
+Phentermine,Weight Loss,9,"['jitteriness', 'headaches', 'dry mouth']",True,positive
+Tapentadol,Pain,3,"['dizziness', 'shallow breathing', 'hypotension']",True,mixed
+Levocetirizine,Allergic Rhinitis,9,[],True,positive
+Sulfamethoxazole / trimethoprim,Bacterial Skin Infection,4,"['dizziness', 'nausea', 'decreased appetite', 'excessive daytime sleepiness', 'photosensitivity']",False,negative
+Butrans,Pain,5,"['fatigue', 'sedation', 'lethargy', 'lack of motivation', 'decreased interest in activities']",True,mixed
+Flurazepam,Insomnia,10,"['insomnia', 'worsening insomnia']",True,positive
+Ambien,Insomnia,9,"['heat sensitivity', 'heat exhaustion', 'excessive sweating']",True,positive
+Clonazepam,Panic Disorde,9,[],True,positive
+Lactaid,Lactose Intolerance,1,['vomiting'],False,negative
+Xenical,Obesity,8,"['weight loss', 'unpleasant odor']",True,positive
+Citalopram,Generalized Anxiety Disorde,10,[],True,positive
+Trazodone,Insomnia,10,"['nocturnal awakening', 'nighttime eating', 'weight gain', 'exhaustion', 'insomnia', 'sleep fragmentation', 'restlessness', 'delayed sleep onset']",True,positive
+Azelastine / fluticasone,Allergic Rhinitis,9,[],True,positive
+Propofol,Anesthesia,10,[],True,positive
+Dextroamphetamine,ADHD,10,"['mental issues', 'decreased focus']",False,negative
+Medroxyprogesterone,,2,"['tender breasts', 'spotting', 'decreased libido']",False,negative
+Etonogestrel,Birth Control,9,"['mood swings', 'decreased libido', 'breakthrough bleeding', 'spotting', 'mild cramping', 'bruising at insertion site', 'arm tenderness', 'arm pain with pressure']",True,positive
+Nicotine,Smoking Cessation,10,"['burning sensation at patch site', 'itching at patch site', 'patch adhesion issues']",True,positive
+Humira,Ankylosing Spondylitis,10,[],True,positive
+Naltrexone,Alcohol Dependence,7,['mild nausea'],True,positive
+Zoladex,Endometriosis,9,"['weight gain', 'tiredness', 'hot flushes', 'insomnia', 'low energy levels', 'decreased libido']",True,mixed
+Levonorgestrel,Emergency Contraception,1,[],False,negative
+Advair Diskus,"COPD, Maintenance",9,[],True,positive
+Azithromycin,Pharyngitis,9,[],,neutral
+Inderal LA,High Blood Pressure,8,[],True,positive
+Metoprolol,Supraventricular Tachycardia,6,"['increased appetite', 'weight gain']",True,positive
+Tirosint,"Hypothyroidism, After Thyroid Removal",10,[],True,positive
+Somnote,Sedation,2,[],False,negative
+Spironolactone,Alopecia,10,['hair loss'],True,positive
+Acetaminophen / codeine,Pain,3,[],False,negative
+Loratadine / pseudoephedrine,,5,[],True,mixed
+Prolia,Osteoporosis,10,"['blisters between toes', 'foot peeling', 'rash', 'petechiae (pinpoint red dots on skin)', 'cough', 'stomach discomfort', 'bleeding sores on face', 'elevated cholesterol', 'weight gain']",True,mixed
+Saphris,Bipolar Disorde,2,"['muscle thrashing', 'spasms', 'pain', 'insomnia', 'frequent awakenings']",False,negative
+Metformin,min),2,[],,negative
+Klonopin,Anxiety,9,[],True,positive
+Bupropion,Depression,8,[],True,positive
+Ortho Tri-Cyclen Lo,Birth Control,9,['nausea'],True,positive
+Tioconazole,Vaginal Yeast Infection,2,['burning sensation'],True,negative
+NuvaRing,Birth Control,4,"['abdominal pain', 'loss of sex drive', 'decreased vaginal lubrication', 'mood swings', 'headaches', 'depression', 'heavy discharge']",False,negative
+Baclofen,Cervical Dystonia,7,[],True,positive
+Dicyclomine,Irritable Bowel Syndrome,8,[],True,positive
+Latuda,Bipolar Disorde,6,"['aggression', 'irritability', 'personality changes']",False,negative
+Mirapex,Restless Legs Syndrome,10,[],True,positive
+Drospirenone / ethinyl estradiol,Birth Control,7,"['breast tenderness', 'high blood pressure', 'hair loss', 'hair thinning']",True,mixed
+Flecainide,Atrial Fibrillation,10,['fatigue'],True,positive
+Movantik,"Constipation, Drug Induced",1,"['diarrhea', 'nocturia', 'stomach pain', 'nausea', 'abdominal pain', 'polyuria']",False,negative
+Plan B,Emergency Contraception,1,"['cramps', 'spotting', 'light bleeding']",False,negative
+Diclegis,Nausea/Vomiting of Pregnancy,1,"['anger', 'frustration', 'dizziness', 'grogginess', 'irritability', 'altered mental state', 'nausea', 'sickness']",False,negative
+Mesalamine,"Ulcerative Colitis, Maintenance",10,[],True,mixed
+Pantoprazole,GERD,5,"['flatulence', 'loose bowel movements', 'asthma symptoms', 'phlegm in throat', 'phlegm in lungs', 'coughing']",True,mixed
+Fluoxetine,Major Depressive Disorde,9,"['feeling weird/spaced out', 'clumsiness', 'insomnia', 'weight loss', 'feeling loopy', 'twitching', 'leg twitches', 'arm twitches', 'hip twitches']",True,positive
+Plan B,Emergency Contraception,6,"['depression', 'sadness', 'mood changes', 'lower abdominal pain', 'back cramping', 'nausea', 'vomiting', 'hot flashes', 'chills']",True,mixed
+Levonorgestrel,Emergency Contraception,10,[],True,positive
+Ethinyl estradiol / levonorgestrel,Birth Control,3,"['acne', 'cystic acne', 'facial breakouts', 'back acne', 'shoulder acne']",False,negative
+Aviane,Abnormal Uterine Bleeding,9,[],True,positive
+Atripla,HIV Infection,10,[],True,positive
+Ambien,Insomnia,1,['addiction'],False,negative
+Epiduo,Acne,5,"['redness', 'peeling']",False,mixed
+Hyaluronan,Osteoarthritis,1,"['increased pain', 'lack of pain relief']",False,negative
+Nexium,GERD,10,[],True,positive
+Sprintec,Birth Control,3,"['acne/breakouts around mouth and chin', 'hair loss', 'decreased libido', 'abdominal pain/cramps', 'breast enlargement']",False,negative
+Sprintec,Birth Control,6,"['weight gain', 'mood swings', 'crying', 'emotional instability']",True,mixed
+Ethinyl estradiol / norgestimate,Birth Control,9,"['stronger menstrual odor', 'white fogginess in urine', 'white discharge/particles in urine']",True,positive
+Vascepa,Hypertriglyceridemia,10,[],True,positive
+Phentermine,Weight Loss,5,[],,positive
+Propranolol,Not Listed / Othe,9,"['shortness of breath', 'erectile dysfunction', 'tachycardia', 'anxiety']",True,positive
+Stelazine,Anxiety,9,[],True,positive
+Efinaconazole,"Onychomycosis, Toenail",3,[],False,negative
+Zyprexa,Depression,9,[],True,positive
+Testim,"Hypogonadism, Male",6,['strong odor'],True,mixed
+Cialis,Erectile Dysfunction,10,['headache'],True,positive
+Flonase,Nasal Polyps,10,[],True,positive
+Divalproex sodium,Bipolar Disorde,3,"['fatigue', 'tremors', 'insomnia', 'rapid cycling', 'mania', 'depression', 'difficulty maintaining stable levels']",False,mixed
+Nexplanon,Birth Control,10,"['weight gain', 'leg pain', 'increased anger', 'anger outbursts', 'tremors', 'mood changes']",True,mixed
+Adalimumab,Psoriatic Arthritis,10,[],True,positive
+Montelukast,Allergic Rhinitis,10,[],True,positive
+Guaifenesin / pseudoephedrine,Cough and Nasal Congestion,10,[],True,positive
+Doxepin,Insomnia,3,"['hangover', 'vivid dreams', 'disturbing dreams']",False,negative
+Nucynta ER,Pain,8,[],True,mixed
+Sprintec,Birth Control,1,"['bloating/weight gain', 'depression', 'anxiety', 'emotional lability', 'nausea', 'dizziness', 'lightheadedness', 'vertigo', 'malaise']",False,negative
+Risperdal,Borderline Personality Disorde,9,[],True,positive
+Tapentadol,Pain,1,[],False,negative
+Liraglutide,"Diabetes, Type 2",3,['pancreatitis'],False,negative
+Etonogestrel,Birth Control,7,"['irregular periods', 'prolonged menstruation', 'abnormal menstrual bleeding', 'sexual dysfunction']",True,mixed
+Ethinyl estradiol / levonorgestrel,Birth Control,5,"['breast soreness', 'acne/breakouts']",False,negative
+Symbicort,"COPD, Maintenance",10,['hoarseness'],True,positive
+Levonorgestrel,Abnormal Uterine Bleeding,2,"['carpal tunnel syndrome', 'shoulder pain', 'insomnia', 'nerve pain']",False,negative
+Lexapro,Anxiety,9,"['digestive problems', 'yawning', 'loss of appetite', 'weight loss']",True,positive
+Vraylar,Bipolar Disorde,3,"['loss of efficacy', 'akathisia', 'mood cycling', 'dysphoria', 'euphoria followed by dysphoria']",False,negative
+Miconazole,Vaginal Yeast Infection,1,"['burning', 'itching', 'pain']",False,negative
+Enbrel,Rheumatoid Arthritis,10,[],True,positive
+Ziprasidone,Schizoaffective Disorde,8,['drowsiness'],True,positive
+Tramadol,Chronic Pain,6,[],True,positive
+Fluoxetine,Depression,7,"['insomnia', 'extreme anxiety']",True,positive
+Seroquel,Bipolar Disorde,8,"['excessive sedation', 'drowsiness']",True,positive
+Ethinyl estradiol / etonogestrel,Birth Control,3,"['cystic acne', 'jawline acne', 'moodiness', 'abdominal pain', 'vaginal irritation', 'emotional distress', 'contraceptive failure']",False,negative
+Copper,Birth Control,7,[],True,positive
+Methylprednisolone,"Gout, Acute",10,[],True,positive
+Etonogestrel,Birth Control,8,"['irregular bleeding', 'spotting', 'mood swings']",True,positive
+Fluticasone / vilanterol,Asthma,10,"['canker sores', 'mouth pimples']",True,positive
+Valproic acid,Seizures,8,"['weight gain', 'hand tremors', 'constipation', 'hair loss', 'skin issues', 'severe constipation']",True,mixed
+Bupropion / naltrexone,Obesity,10,[],True,positive
+Etonogestrel,Birth Control,2,"['prolonged menstruation (30 days)', 'weight gain (15 lbs in one month)', 'severe acne', 'loss of libido']",True,negative
+Escitalopram,Anxiety,10,"['feeling strange', 'fatigue', 'insomnia', 'dry mouth', 'emotional numbness']",True,positive
+Eletriptan,Migraine,9,[],True,positive
+Duloxetine,Depression,7,"['fatigue', 'yawning']",True,positive
+Ethinyl estradiol / etonogestrel,Birth Control,9,[],True,positive
+Olanzapine,Schizophrenia,8,"['nocturia', 'dysuria', 'anxiety', 'tachycardia', 'lightheadedness', 'syncope', 'insomnia', 'decreased libido', 'dizziness', 'weight gain', 'hypertriglyceridemia']",True,mixed
+Nexplanon,Birth Control,1,"['acne', 'loss of libido', 'mood swings', 'fatigue']",False,negative
+Apremilast,Plaque Psoriasis,1,"['mood swings', 'panic attacks', 'withdrawal symptoms', 'narcotic-like effects']",True,negative
+Adapalene,Acne,9,"['skin peeling', 'purging (increased breakouts)']",True,positive
+Nexplanon,Birth Control,8,"['acne/breakouts', 'decreased appetite', 'frequent headaches']",True,positive
+Chateal,Birth Control,7,"['nausea', 'general malaise', 'emotional lability', 'crying episodes', 'metabolic suppression', 'weight gain', 'fatigue', 'hypersomnia', 'decreased libido']",True,mixed
+Aczone,Acne,8,"['itchiness', 'dryness', 'peeling']",True,positive
+Quetiapine,Insomnia,7,"['hangover effect', 'ineffective if not taken at precise time', 'requires strict conditions to work']",True,positive
+Humira,Rheumatoid Arthritis,1,"['pneumonia', 'lung fluid accumulation', 'scar tissue', 'COPD', 'psoriasis', 'joint pain']",False,negative
+Suvorexant,Insomnia,1,"['insomnia', 'frequent nighttime awakening']",False,negative
+Saxenda,Obesity,9,"['migraine', 'nausea', 'headache', 'extreme fatigue']",True,mixed
+Clonidine,"Insomnia, Stimulant-Associated",10,[],True,positive
+Stalevo,Parkinson's Disease,1,"['vomiting', 'hallucinations', 'insomnia']",False,negative
+Abreva,Herpes Simplex,1,[],False,negative
+Methocarbamol,Muscle Spasm,9,['loss of appetite'],True,positive
+Effexor,Depression,9,[],True,positive
+Nexplanon,Birth Control,4,"['irregular bleeding', 'spotting', 'heavy bleeding', 'acne', 'mood changes', 'depression', 'fatigue', 'decreased libido']",False,negative
+Lessina,Birth Control,9,"['stress', 'breast tenderness', 'fatigue', 'early menstruation']",True,positive
+Dolophine,Chronic Pain,9,['nausea'],True,positive
+Chantix,Smoking Cessation,5,"['nausea', 'vivid dreams']",True,positive
+Lisdexamfetamine,ADHD,9,"['decreased appetite', 'growth slowing', 'mood changes']",True,mixed
+Pregabalin,Generalized Anxiety Disorde,10,[],True,positive
+Adipex-P,Weight Loss,9,"['dry mouth', 'constipation', 'insomnia', 'headaches']",True,positive
+Nebivolol,High Blood Pressure,10,[],True,positive
+Bupropion / naltrexone,Obesity,8,"['dizziness', 'tachycardia', 'insomnia']",True,positive
+Ethinyl estradiol / levonorgestrel,Birth Control,4,[],,negative
+Levonorgestrel,Birth Control,7,[],,positive
+Divalproex sodium,,8,[],,positive
+Diethylpropion,Obesity,8,['insomnia'],True,positive
+Ethinyl estradiol / etonogestrel,Birth Control,10,"['breast enlargement', 'vaginal discharge']",True,positive
+Cymbalta,Anxiety,10,['weight gain'],True,positive
+Leuprolide,Precocious Puberty,7,[],True,positive
+Phentermine,Not Listed / Othe,10,"['increased energy', 'restlessness', 'inability to sit still']",True,positive
+Cholestyramine,Post-Cholecystectomy Diarrhea,9,"['dehydration', 'disturbed sleep', 'nightmares']",True,positive
+Liraglutide,Obesity,5,[],False,negative
+Suprep Bowel Prep Kit,Bowel Preparation,5,"['horrible taste', 'severe chills', 'frequent urination/bowel movements']",True,mixed
+Milnacipran,ibromyalgia,7,"['flushed face', 'grogginess']",,positive
+Lisdexamfetamine,ADHD,10,['loss of appetite'],True,positive
+Chlorpromazine,Opiate Withdrawal,10,[],True,positive
+Montelukast,Asthma,1,"['anxiety', 'emotional distress', 'night terrors', 'suicidal ideation', 'homicidal ideation', 'paranoia', 'intrusive thoughts']",False,negative
+Cephalexin,Skin or Soft Tissue Infection,3,"['flatulence', 'diarrhea']",True,mixed
+Promethazine,Nausea/Vomiting,6,"['drug interactions with other medications', 'slow onset of action', 'inadequate nausea relief']",True,mixed
+Zoloft,Social Anxiety Disorde,10,['tiredness'],True,positive
+Humira,Psoriasis,8,[],True,positive
+Flomax,Benign Prostatic Hyperplasia,8,"['urinary retention', 'hypotension', 'bradycardia', 'urge incontinence']",True,mixed
+Imiquimod,Human Papilloma Virus,9,"['redness', 'scrotal soreness', 'blister']",True,mixed
+Implanon,Birth Control,8,"['irregular periods', 'frequent periods (two small periods per month)']",True,positive
+Delsym,Cough,1,['vomiting'],False,negative
+Exenatide,"Diabetes, Type 2",3,"['nausea', 'heartburn', 'ankle swelling']",True,mixed
+Apremilast,Plaque Psoriasis,2,[],False,negative
+Zoloft,Panic Disorde,10,['worsening anxiety'],True,positive
+Drysol,Hyperhidrosis,8,[],True,positive
+Testosterone,"Hypogonadism, Male",7,[],True,mixed
+Cyproheptadine,Anorexia,10,['drowsiness'],True,positive
+Symlin,"Diabetes, Type 1",10,['nausea'],True,positive
+Latuda,Bipolar Disorde,10,[],True,positive
+Armodafinil,Chronic Fatigue Syndrome,8,"['dizziness', 'heart palpitations', 'nausea', 'headache']",True,mixed
+Lorcaserin,Weight Loss,10,"['headache', 'appetite suppression']",True,positive
+Miconazole,Vaginal Yeast Infection,1,"['burning sensation', 'bleeding', 'pain', 'discomfort', 'anger']",False,negative
+Atenolol,High Blood Pressure,4,['masking of hypoglycemic warning signs'],,negative
+Topiramate,,9,"['facial numbness', 'lip numbness', 'facial twitch']",True,positive
+Cobicistat / elvitegravir / emtricitabine / tenofovir alafenamide,HIV Infection,10,[],True,positive
+Melatonin,Insomnia,9,[],True,positive
+Lupron,Prostate Cance,10,"['weakness', 'memory problems', 'hot flashes']",True,positive
+Suprep Bowel Prep Kit,Bowel Preparation,9,"['unpleasant taste', 'frequent urination', 'diarrhea', 'loose stools', 'hunger from fasting']",True,mixed
+Movantik,"Constipation, Drug Induced",9,[],True,positive
+Trileptal,Bipolar Disorde,9,[],True,positive
+Gianvi,Birth Control,9,[],True,positive
+Levofloxacin,Pneumonia,10,"['insomnia', 'fatigue']",True,positive
+Fentanyl,Pain,9,"['sweating', 'constipation']",True,positive
+Fluoxetine,Depression,10,"['reduced libido', 'acting out dreams', 'kicking legs while sleeping']",True,positive
+Adipex-P,Obesity,10,['dry mouth'],True,positive
+Ethinyl estradiol / norethindrone,Birth Control,10,['adjustment difficulties'],True,positive
+Stendra,Erectile Dysfunction,2,"['delayed onset of action', 'erectile dysfunction']",False,negative
+Nexplanon,Birth Control,2,"['prolonged bleeding', 'continuous menstrual bleeding', 'severe acne', 'depression', 'hormone imbalance']",False,negative
+Abilify,Agitated State,9,[],True,positive
+Lunesta,Insomnia,3,"['insomnia', 'drug dependence/tolerance']",True,negative
+Saxenda,Weight Loss,10,['nausea'],True,positive
+Adderall XR,ADHD,10,[],True,positive
+Buprenorphine,Pain,7,"['itching', 'erythema (red squares)', 'patch adhesion failure', 'stress-related symptom aggravation']",True,mixed
+Lithium,Bipolar Disorde,10,"['gastrointestinal distress', 'increased thirst']",True,positive
+Montelukast,"Asthma, Maintenance",1,"['excessive sweating', 'tremors', 'emotional lability', 'loss of emotional control', 'depression', 'suicidal ideation', 'anhedonia']",False,negative
+Elidel,Eczema,5,"['extreme itchiness', 'oozing', 'peeling skin', 'cracked skin', 'pain']",False,negative
+Valsartan,High Blood Pressure,7,"['unstable blood pressure', 'chest tightness', 'palpitations', 'lightheadedness', 'abdominal pain', 'flushing']",False,negative
+Magnesium sulfate / potassium sulfate / sodium sulfate,Bowel Preparation,9,"['chills', 'unpleasant taste']",True,positive
+Oxycodone,Chronic Pain,9,[],True,positive
+Nexplanon,Birth Control,5,"['scarring at insertion site', 'heavy menstrual bleeding', 'continuous menstruation', 'weight gain', 'acne', 'depression', 'anxiety']",True,mixed
+Effexor,Depression,7,"['muscle tension', 'tremors', 'insomnia', 'nightmares', 'nausea', 'stomach upset', 'gastrointestinal upset', 'diaphoresis', 'withdrawal symptoms']",True,mixed
+Lyrica,Diabetic Peripheral Neuropathy,9,"['tiredness', 'fatigue']",True,positive
+Ropinirole,Restless Legs Syndrome,8,"['violent nightmares', 'sleep-related violent behavior', 'nocturnal kicking', 'daytime somnolence', 'restless leg syndrome episodes']",True,positive
+Desogestrel / ethinyl estradiol,Birth Control,5,"['mood changes', 'sadness', 'heavy periods', 'prolonged periods', 'acne', 'low libido', 'hair loss', 'skin spots', 'skin sensitivity']",False,negative
+Bupropion,Depression,1,['tiredness'],,neutral
+Buprenorphine / naloxone,Opiate Dependence,9,[],True,positive
+Fetzima,Major Depressive Disorde,1,"['increased blood pressure', 'tachycardia', 'urinary hesitation', 'constipation', 'bloating', 'stomach pain', 'dry mouth', 'nausea', 'UTI']",True,negative
+Wellbutrin SR,Major Depressive Disorde,1,"['insomnia', 'agitation', 'fidgetiness', 'shuddering', 'tremors']",False,negative
+Etonogestrel,Birth Control,5,"['prolonged bleeding', 'continuous menstrual bleeding', 'reduced sexual activity']",False,negative
+Ethinyl estradiol / norgestimate,Acne,10,"['acne', 'nausea', 'hyperpigmentation/dark spots']",True,positive
+Lorazepam,Anxiety,10,[],True,positive
+Iron sucrose,Iron Deficiency Anemia,10,[],True,positive
+Ethinyl estradiol / norelgestromin,Birth Control,8,"['nausea', 'headache', 'patch slippage during exercise', 'patch slippage during hot showers']",True,positive
+Clonidine,Opiate Withdrawal,7,"['difficult withdrawal', 'severe withdrawal symptoms', 'rebound hypertension risk', 'potentially life-threatening withdrawal']",True,mixed
+Mirtazapine,Depression,3,"['weight gain', 'excessive sedation', 'dry eyes', 'eye soreness', 'stomach pain', 'bladder pain', 'urinary difficulty', 'coordination problems']",False,negative
+Nuvigil,Shift Work Sleep Disorde,8,"['hypomania/mania', 'yawning fits']",True,positive
+Xeljanz,Rheumatoid Arthritis,8,[],True,positive
+Pregabalin,,10,[],True,positive
+Ethinyl estradiol / norgestrel,Birth Control,2,"['severe fatigue', 'lack of energy', 'physical exhaustion', 'hair loss', 'water retention', 'headaches', 'irritability', 'mood changes', 'low libido']",False,negative
+Efavirenz / emtricitabine / tenofovir,HIV Infection,10,[],True,positive
+Losartan,High Blood Pressure,9,"['hip pain', 'knee pain', 'ankle pain', 'diarrhea', 'disturbed sleep', 'vivid dreams', 'feeling of losing mind', 'mental disturbance']",True,mixed
+Gabapentin,Hot Flashes,10,['dizziness upon waking'],True,positive
+Remicade,Ulcerative Colitis,1,"['severe hives', 'allergic reaction']",False,negative
+Flagyl,Bacterial Infection,9,"['dysgeusia (distorted taste)', 'anorexia (loss of appetite)', 'weight loss', 'difficulty eating', 'difficulty drinking']",False,negative
+Diclofenac,Osteoarthritis,8,[],True,positive
+Levonorgestrel,Emergency Contraception,1,[],False,negative
+Euflexxa,Osteoarthritis,9,"['injection site discomfort', 'minimal bleeding at injection site', 'swelling at injection site']",True,positive
+Hypercare,Hyperhidrosis,8,"['itching', 'burning']",True,positive
+Levaquin,Sinusitis,7,[],True,positive
+Estarylla,Birth Control,10,"['nausea', 'mood changes']",True,positive
+Chlordiazepoxide,Alcohol Withdrawal,8,[],True,mixed
+Amphetamine / dextroamphetamine,ADHD,5,"['confusion', 'speech difficulties', 'word-finding problems', 'self-doubt', 'appetite suppression', 'impulsivity', 'irritability', 'personality changes']",False,negative
+Solodyn,Acne,9,[],True,positive
+Bisacodyl,Constipation,1,"['cold sweats', 'horrible cramping', 'nausea', 'rectal bleeding', 'stomach cramping', 'presyncope/feeling of fainting', 'back pain', 'feeling sick']",True,negative
+Contrave,Weight Loss,2,"['somnolence', 'excessive sleepiness', 'increased appetite']",False,negative
+Celebrex,Pain,5,"['weight gain', 'rapid weight gain']",True,negative
+Levaquin,Pneumonia,1,"['numbness in skin', 'numbness in lips', 'numbness in hands', 'numbness in feet', 'temperature insensitivity', 'irregular heart rate', 'severe pain in lower extremities', 'leg heaviness']",False,negative
+Etonogestrel,Birth Control,7,"['hair thinning', 'alopecia', 'frontal baldness']",,negative
+Tapentadol,Pain,4,"['headache', 'itching', 'sweating', 'constipation', 'depression']",True,negative
+Cymbalta,Depression,10,['fatigue'],True,positive
+Suvorexant,Insomnia,1,[],False,negative
+Ethinyl estradiol / levonorgestrel,Birth Control,8,"['weight gain', 'difficulty losing weight']",True,positive
+Mirena,Birth Control,2,"['pain during insertion', 'trauma from insertion', 'acne', 'depression', 'anxiety', 'mood swings', 'bacterial vaginosis', 'vaginal odor']",True,negative
+BuSpar,Anxiety,1,"['weight gain', 'tremors', 'twitches', 'jaw locking', 'panic attacks']",False,negative
+Trolamine salicylate,Pain,10,[],True,positive
+Saxenda,Obesity,1,['thirst'],,positive
+Meridia,Obesity,7,"['elevated blood pressure', 'hypertension']",True,negative
+Librium,Alcohol Withdrawal,10,['rough feeling on day 1'],True,positive
+Contrave,Obesity,10,[],True,positive
+Pristiq,Depression,10,[],True,positive
+Synvisc-One,Osteoarthritis,8,"['injection pain', 'swelling']",True,positive
+Azelastine,Allergic Rhinitis,9,"['sneezing', 'drowsiness']",True,mixed
+Atralin,Acne,8,[],True,positive
+Acetaminophen / oxycodone,Chronic Pain,9,[],True,positive
+Lotronex,Irritable Bowel Syndrome,10,[],True,positive
+Levofloxacin,Skin or Soft Tissue Infection,1,"['severe allergic reaction', 'eye redness', 'eye swelling', 'temporary vision loss', 'severe joint pain', 'shoulder pain', 'severe calf pain', 'leg pain']",False,negative
+Lamotrigine,Post Traumatic Stress Disorde,9,['insomnia'],True,positive
+Fluoxetine,Anxiety and Stress,9,['headaches'],True,positive
+Amitriptyline,Pain,7,"['difficulty waking', 'sleep disturbance', 'relationship problems']",True,mixed
+Varenicline,Smoking Cessation,10,"['nausea', 'abdominal pain']",True,positive
+Axiron,"Hypogonadism, Male",9,[],True,positive
+Accutane,Acne,10,"['chapped lips', 'dry skin', 'itching']",True,positive
+Epiduo,Acne,8,[],,negative
+Cialis,Erectile Dysfunction,10,[],True,positive
+Victoza,Weight Loss,10,"['nausea', 'vomiting']",True,positive
+Uroxatral,Benign Prostatic Hyperplasia,8,[],True,positive
+Cialis,Erectile Dysfunction,10,[],True,positive
+Isotretinoin,Acne,10,['dry lips'],True,positive
+Levonorgestrel,Emergency Contraception,4,"['fatigue', 'depressed mood', 'lower abdominal pain', 'vaginal discharge', 'vaginal burning', 'ovarian cysts', 'emotional disturbance', 'mood alteration']",True,mixed
+Exenatide,"Diabetes, Type 2",7,"['injection site nodules/knots', 'injection site erythema', 'injection site pruritus', 'nausea', 'hypoglycemia', 'injection site pain/stinging', 'thyroid nodules']",True,mixed
+Varenicline,Smoking Cessation,10,[],True,positive
+Breo Ellipta,"COPD, Maintenance",8,[],True,positive
+Rotigotine,Restless Legs Syndrome,10,"['insomnia', 'headaches', 'excessive sedation']",True,mixed
+Zyprexa Zydis,Bipolar Disorde,9,['drowsiness'],True,positive
+Lastacaft,"Conjunctivitis, Allergic",10,[],True,positive
+Gianvi,Birth Control,3,"['weight gain', 'bloating', 'heavy bleeding', 'severe cramping', 'depression', 'anxiety', 'hypersensitivity to sound', 'excessive crying']",True,mixed
+Medroxyprogesterone,Abnormal Uterine Bleeding,1,"['weight gain', 'sexual dysfunction']",False,negative
+Ethinyl estradiol / norelgestromin,Birth Control,7,"['cramping', 'prolonged menstrual bleeding', 'weight gain', 'bloating', 'patch slippage']",True,positive
+Desvenlafaxine,Depression,8,['weight loss'],True,positive
+Miconazole,Vaginal Yeast Infection,1,"['pain', 'itching', 'burning sensation', 'severe discomfort']",False,negative
+Acetaminophen / phenyltoloxamine,Headache,10,[],True,positive
+Reglan,Migraine,7,"['burning at IV site', 'light-headedness', 'warmth']",True,positive
+Lortab,7</span> users found this comment helpful.,9,"['dry mouth', 'constipation']",True,positive
+Acetaminophen / butalbital / caffeine,Headache,10,[],True,positive
+ella,Emergency Contraception,7,"['stomach ache', 'minor cramps', 'late period', 'heavy bleeding', 'prolonged menstruation']",True,positive
+Victoza,"Diabetes, Type 2",1,[],,negative
+Doxycycline,Acne,9,[],True,positive
+Citalopram,Panic Disorde,2,"['emotional blunting', 'reduced emotional dynamics', 'apathy', 'worthlessness', 'personality changes']",True,negative
+Hydroxyzine,Anxiety,1,"['body aches', 'myalgia']",False,negative
+Lo Loestrin Fe,Birth Control,10,['breakthrough bleeding'],True,positive
+Levetiracetam,Seizures,10,[],True,mixed
+Augmentin,Bronchitis,10,[],True,positive
+Ortho Evra,Birth Control,10,"['nausea', 'mood swings', 'aggression', 'discomfort', 'depression', 'weight gain', 'breast enlargement']",True,positive
+Lorcaserin,Weight Loss,9,['loose bowels'],True,positive
+Ethinyl estradiol / norgestimate,Birth Control,6,"['mood swings', 'loss of libido', 'vaginal dryness', 'dyspareunia', 'yeast infections', 'irregular menstruation', 'acne worsening']",True,mixed
+Xiidra,Dry Eye Disease,4,"['eye burning', 'eye itching']",True,mixed
+Methadone,Chronic Pain,10,[],True,positive
+Dexmethylphenidate,ADHD,9,['decreased appetite'],True,positive
+Lo Loestrin Fe,Birth Control,9,"['acne', 'nausea']",True,positive
+Magnesium sulfate / potassium sulfate / sodium sulfate,Bowel Preparation,6,"['poor taste', 'nausea/vomiting', 'diarrhea', 'insomnia', 'gagging']",True,mixed
+OnabotulinumtoxinA,Migraine Prevention,10,[],True,positive
+Duloxetine,Pain,8,"['nausea', 'insomnia', 'night sweats', 'cold sweats']",True,positive
+Contrave,Obesity,8,"['nausea', 'vomiting']",True,mixed
+Plan B,Emergency Contraception,9,"['nausea', 'emotional changes', 'dizziness', 'irregular bleeding']",True,positive
+Strattera,ADHD,7,['mood swings'],True,positive
+Stelara,Psoriasis,3,[],True,mixed
+Gildess Fe 1 / 20,Birth Control,8,"['emotional instability', 'excessive crying', 'food intolerance (red sauce)', 'caffeine intolerance', 'mood swings']",True,mixed
+Abilify,Obsessive Compulsive Disorde,7,['weight gain'],True,mixed
+Carbamazepine,Trigeminal Neuralgia,5,[],True,positive
+Levonorgestrel,Emergency Contraception,10,"['breast enlargement', 'nausea/vomiting']",True,positive
+Amphetamine / dextroamphetamine,ADHD,7,[],True,positive
+Temazepam,Insomnia,8,[],True,positive
+Etonogestrel,Birth Control,10,"['mild discomfort', 'mood swings']",True,positive
+Adapalene / benzoyl peroxide,Acne,8,"['dry skin', 'skin irritation', 'burning sensation', 'skin flakiness']",True,positive
+Etonogestrel,Birth Control,7,"['weight gain', 'heavy periods', 'prolonged menstruation', 'menstrual clots', 'mood changes', 'anxiety', 'anger/irritability', 'migraines with aura']",True,negative
+Magnesium sulfate / potassium sulfate / sodium sulfate,Bowel Preparation,10,[],True,positive
+Wellbutrin,Major Depressive Disorde,7,[],True,positive
+Dronabinol,Anorexia,1,"['tremors', 'hallucinations', 'mental status changes']",False,negative
+Vilazodone,Depression,10,['minimal side effects'],True,positive
+Mirapex,Restless Legs Syndrome,1,"['compulsive gambling', 'compulsive behavior']",True,positive
+Dronabinol,Post Traumatic Stress Disorde,8,[],True,positive
+Amoxicillin / clavulanate,Skin or Soft Tissue Infection,7,[],True,positive
+Suboxone,Opiate Dependence,10,[],True,positive
+Olanzapine,Bipolar Disorde,10,['weight gain'],True,positive
+Adapalene,Acne,10,['skin dryness'],True,positive
+Phenazopyridine,Dysuria,3,"['vomiting', 'severe dizziness', 'nausea']",True,negative
+Desvenlafaxine,Depression,7,[],True,mixed
+Hydroxyzine,Anxiety,8,"['vivid dreams', 'drowsiness upon waking']",True,positive
+Venlafaxine,Depression,10,[],True,positive
+Gabapentin,ibromyalgia,10,['flu-like symptoms (when doses missed)'],True,positive
+Cetirizine,Urticaria,9,[],True,positive
+Bystolic,High Blood Pressure,10,[],True,positive
+Blisovi Fe 1 / 20,Birth Control,1,"['hives', 'allergic reaction']",False,negative
+Oxycodone,Pain,8,"['withdrawal symptoms', 'guilt', 'social stigma/judgment from others']",True,mixed
+femhrt,0</span> users found this comment helpful.,1,"['bacterial vaginosis', 'recurrent infections']",True,mixed
+Liraglutide,"Diabetes, Type 2",1,"['lethargy', 'metabolic slowdown', 'weight gain', 'dysfunctional body chemistry', 'blah mood']",False,negative
+Zolpidem,Insomnia,9,"['complex sleep behaviors', 'hallucinations', 'confusion']",True,positive
+Copper,Birth Control,10,['prolonged menstruation'],True,positive
+Etonogestrel,Birth Control,10,[],True,positive
+Skyla,Birth Control,1,"['weight gain', 'acne', 'depression', 'irregular periods']",False,negative
+Arava,Rheumatoid Arthritis,9,[],True,positive
+Suprep Bowel Prep Kit,Bowel Preparation,1,"['nausea', 'vomiting', 'diarrhea', 'prolonged bowel movements']",False,negative
+Avalide,High Blood Pressure,10,[],True,positive
+Contrave,Obesity,10,"['stomach rumbling', 'dry mouth']",True,positive
+Gabapentin,Bipolar Disorde,1,[],False,negative
+Campral,Alcohol Dependence,8,[],True,positive
+Meclizine,Vertig,1,[],False,negative
+Ethinyl estradiol / norgestimate,Birth Control,7,['acne'],True,positive
+Drospirenone / ethinyl estradiol,Birth Control,8,"['spotting', 'stomach discomfort']",True,positive
+Lo Loestrin Fe,Birth Control,10,['acne'],True,positive
+Octreotide,Carcinoid Tum,10,[],True,positive
+Ethinyl estradiol / norgestimate,Birth Control,1,"['fatigue', 'abnormal tiredness', 'dizziness', 'increased hunger', 'nausea', 'emotional lability/crying', 'drowsiness', 'cramping', 'polyuria/frequent urination', 'dysuria/painful urination', 'vaginal itching', 'vaginal burning', 'urinary incontinence']",False,negative
+Escitalopram,Anxiety,10,"['sleepiness', 'decreased appetite']",True,positive
+Makena,Premature Lab,10,[],True,positive
+Zantac,GERD,10,[],True,positive
+Hydrochlorothiazide / lisinopril,High Blood Pressure,8,['photosensitivity'],True,positive
+Viibryd,Major Depressive Disorde,5,"['insomnia', 'vivid dreams', 'nightmares', 'nausea', 'anxiety about sleep', 'emotional distress', 'hysterical crying']",False,negative
+Benicar HCT,High Blood Pressure,7,['weight gain'],True,mixed
+Metronidazole,Dental Abscess,5,"['insomnia', 'pain']",,mixed
+Sronyx,Birth Control,4,"['mood swings', 'emotional instability', 'lethargy', 'increased appetite', 'bloating']",,negative
+Fluoxetine,Anxiety and Stress,8,"['emotional numbness', 'stimulation']",True,positive
+Etonogestrel,Birth Control,6,"['prolonged bleeding', 'mood swings', 'acne', 'migraines', 'lower abdominal bulging']",True,mixed
+Prozac,Anxiety and Stress,9,"['dyspnea', 'fatigue', 'depression', 'malaise']",True,positive
+Acetaminophen / butalbital / caffeine,Headache,10,[],True,positive
+Ethinyl estradiol / levonorgestrel,Abnormal Uterine Bleeding,2,"['spotting', 'abnormal bleeding', 'heavy menstrual bleeding', 'syncope/fainting', 'breakthrough bleeding']",False,negative
+Amitiza,Irritable Bowel Syndrome,4,"['diarrhea', 'gas', 'abdominal pain', 'heartburn', 'nausea']",False,negative
+Alprazolam,Anxiety,10,[],True,positive
+Baclofen,Chronic Spasticity,9,[],True,positive
+Sertraline,Anxiety and Stress,10,[],True,positive
+Propofol,Anesthesia,10,"['sneezing', 'runny nose']",True,positive
+Methylprednisolone,Rheumatoid Arthritis,10,[],True,positive
+Nexplanon,Birth Control,9,"['amenorrhea', 'spotting', 'weight gain']",True,positive
+Atorvastatin,High Cholesterol,1,"['fatigue', 'weakness', 'dizziness', 'muscle aches', 'dry mouth', 'headache', 'chest pain/discomfort', 'nausea', 'severe dizziness']",False,negative
+Diclofenac,Back Pain,9,[],True,positive
+Azithromycin,Sinusitis,7,"['runny nose', 'stuffy ear', 'tinnitus', 'nausea']",True,mixed
+Seroquel,Schizophrenia,7,['drunkenness'],True,positive
+Depo-Provera,Abnormal Uterine Bleeding,1,"['irregular menstruation', 'acne', 'weight gain', 'fatigue', 'cramping']",False,negative
+Acetaminophen / dextromethorphan / doxylamine / pseudoephedrine,Cold Symptoms,9,['bad taste'],True,positive
+Magnesium citrate,Constipation,10,[],True,positive
+Medroxyprogesterone,Birth Control,10,['amenorrhea'],True,positive
+Pantoprazole,Stomach Ulce,10,[],True,positive
+Lifitegrast,Dry Eye Disease,9,"['dry eyes', 'burning', 'aftertaste']",True,positive
+Skyla,Birth Control,9,"['cramps', 'heavy bleeding', 'brown discharge', 'bleeding during sex']",True,positive
+Buprenorphine / naloxone,Opiate Dependence,1,"['night sweats', 'short duration of action', 'inadequate symptom coverage']",False,negative
+Ethinyl estradiol / norgestimate,Birth Control,3,"['emotional lability', 'crying', 'irritability']",True,mixed
+Canagliflozin,"Diabetes, Type 2",1,"['frequent urination', 'dehydration', 'glucosuria (sugar in urine)', 'recurrent urinary tract infections']",False,negative
+Gabapentin,Postherpetic Neuralgia,10,[],True,positive
+Bisacodyl / polyethylene glycol 3350 / potassium chloride / sodium bicarbonate / sodium chloride,Bowel Preparation,1,"['vomiting', 'nausea']",False,negative
+Nitrofurantoin,Bladder Infection,1,"['severe chest pain', 'shortness of breath', 'extreme allergic reaction']",False,negative
+Ethinyl estradiol / norethindrone,Polycystic Ovary Syndrome,9,['breast tenderness'],True,positive
+Viagra,Erectile Dysfunction,8,"['reduced ejaculate volume', 'premature ejaculation sensation']",True,mixed
+Drospirenone / ethinyl estradiol,Birth Control,10,[],True,positive
+Amitriptyline,Migraine Prevention,10,"['dry mouth', 'constipation', 'difficulty waking up in the morning']",True,positive
+Atorvastatin,High Cholesterol,10,"['anger', 'aggressive mood', 'irritability']",True,mixed
+Phentermine,Weight Loss,10,['dehydration'],True,positive
+Cefdinir,Sinusitis,8,[],True,positive
+Doxycycline,Rosacea,10,[],True,positive
+Rapaflo,Benign Prostatic Hyperplasia,6,"['decreased ejaculation intensity', 'retrograde ejaculation', 'dry ejaculation']",True,mixed
+Aluminum chloride hexahydrate,Hyperhidrosis,10,[],True,positive
+Oxybutynin,Overactive Bladde,9,"['extreme sleepiness', 'difficulty driving', 'loss of appetite', 'fatigue']",False,negative
+Klonopin,Anxiety,10,[],True,positive
+Abilify,Obsessive Compulsive Disorde,3,"['suicidal ideation', 'leg weakness', 'orthostatic hypotension/dizziness on standing', 'cognitive impairment/brain fog', 'stuttering', 'clumsiness', 'muscle stiffness', 'myalgia']",False,negative
+Abilify,Schizophrenia,6,['restless leg syndrome'],True,mixed
+Lipitor,High Cholesterol,5,"['leg numbness', 'leg heaviness', 'leg weakness', 'unsteady gait', 'cardiac arrhythmias', 'anxiety', 'stress']",False,negative
+Alprazolam,Anxiety,10,"['mental fog', 'anxiety']",True,positive
+Vivitrol,Opiate Dependence,8,"['lightheadedness', 'vomiting', 'stomach cramps', 'migraines']",True,mixed
+Oxytrol,Overactive Bladde,10,['skin irritation'],True,positive
+Vistaril,Anxiety,1,"['anxiety', 'rage']",False,negative
+Prednisone,Rheumatoid Arthritis,9,"['severe hand deformity', 'disability']",True,positive
+Contrave,Obesity,10,[],True,positive
+Nexplanon,3</span> users found this comment helpful.,1,"['continuous menstrual bleeding', 'low self-esteem', 'feeling unattractive', 'feeling disgusting', 'emotional distress']",False,negative
+Bupropion / naltrexone,Weight Loss,9,['nausea'],True,positive
+Flagyl,Helicobacter Pylori Infection,7,"['nausea', 'bloating', 'foggy memory', 'white film on tongue', 'fatigue', 'metallic taste']",,negative
+Lisinopril,High Blood Pressure,1,[],,negative
+Etonogestrel,Birth Control,8,"['itching at insertion site', 'bleeding', 'spotting', 'heavy menstrual bleeding', 'mood swings', 'emotional lability', 'unexplained crying']",True,mixed
+Etanercept,Psoriatic Arthritis,2,"['pain', 'stiffness', 'skin redness', 'joint pain', 'scalp itching', 'chills', 'flu-like symptoms']",False,negative
+Ethinyl estradiol / norethindrone,Birth Control,8,['decreased libido'],,negative
+Miconazole,Vaginal Yeast Infection,1,"['burning', 'itching', 'swelling', 'pain', 'severe irritation']",False,negative
+Sertraline,Panic Disorde,9,['increased anxiety with dose increases'],True,positive
+Alamast,"Conjunctivitis, Allergic",1,[],False,negative
+Acetaminophen / dichloralphenazone / isometheptene mucate,Headache,10,['sleepiness'],True,positive
+Bupropion,Bipolar Disorde,1,"['brain zaps', 'brain shivers', 'sexual dysfunction', 'vivid dreams', 'withdrawal symptoms']",False,negative
+Suvorexant,Insomnia,1,"['headache', 'insomnia', 'sleep disturbance']",False,negative
+Baclofen,Chronic Spasticity,9,[],True,positive
+Contrave,Obesity,10,"['nausea', 'queasiness']",True,positive
+Depo-Provera,Abnormal Uterine Bleeding,1,"['continuous bleeding', 'vaginal dryness', 'hair loss', 'stress', 'low mood', 'severe acne', 'skin scarring']",False,negative
+Estradiol,Postmenopausal Symptoms,10,[],True,positive
+Liraglutide,Obesity,9,[],True,positive
+Belviq,Weight Loss,10,[],True,positive
+Lyrica,Neuralgia,7,"['fatigue', 'dizziness']",True,mixed
+Ciprofloxacin,Urinary Tract Infection,1,[],False,negative
+Hypercare,Hyperhidrosis,10,"['excessive sweating', 'heat intolerance', 'social anxiety', 'agoraphobia', 'isolation', 'chronic lower back pain']",False,negative
+Fioricet,Headache,1,[],False,negative
+Clindamycin,Bacterial Infection,7,"['heartburn', 'chest tightness', 'severe throat burning', 'indigestion']",True,mixed
+Monistat 1-Day or Night Combination Pack,Vaginal Yeast Infection,3,"['itching', 'burning', 'blistering']",True,positive
+Methadone,Pain,10,[],True,positive
+Levothyroxine,Hashimoto's disease,3,[],False,negative
+Interferon beta-1a,Multiple Sclerosis,10,"['body aches', 'increased urination frequency']",True,positive
+Acetaminophen / hydrocodone,Pain,10,[],True,positive
+Venlafaxine,Bipolar Disorde,1,"['sedation', 'excessive sleepiness']",False,negative
+Etonogestrel,Birth Control,8,"['acne/breakouts', 'spotting', 'heavy menstrual bleeding']",True,positive
+Drysol,Hyperhidrosis,5,['pain'],False,negative
+Tri-Previfem,Birth Control,6,"['weight gain', 'severe cramps', 'reduced sex drive during water pill week']",True,mixed
+Ortho Evra,Birth Control,6,"['mood swings', 'irritability', 'breast swelling', 'breast tenderness']",True,mixed
+Adalimumab,Ankylosing Spondylitis,10,[],True,positive
+Topiramate,Migraine Prevention,1,"['fatigue', 'speech difficulties', 'word-finding difficulties']",False,negative
+Gabapentin,Pain,9,['disorientation'],True,positive
+Dymista,Allergic Rhinitis,9,[],True,positive
+Amphetamine / dextroamphetamine,ADHD,10,[],True,positive
+Lyrica,Pain,6,"['extreme fatigue', 'shortness of breath']",False,negative
+Gefitinib,Non-Small Cell Lung Cance,10,['dry skin'],True,positive
+Tretinoin,Acne,9,['skin peeling'],True,positive
+Methadone,Opiate Withdrawal,8,"['addiction', 'tolerance/escalating doses']",True,positive
+Sprintec,Birth Control,9,"['nausea', 'decreased libido', 'dyspareunia', 'prolonged menstruation']",True,mixed
+Lamictal,Bipolar Disorde,8,"['insomnia', 'morning fatigue', 'evening fatigue', 'difficulty relaxing']",True,positive
+Casodex,Prostate Cance,9,['hot flashes'],True,positive
+Abilify,Depression,3,"['weight gain', 'twitching', 'shallow attitude', 'mania']",True,mixed
+Mirena,Birth Control,10,[],True,positive
+Gildess Fe 1 / 20,Birth Control,4,"['mood swings', 'depression', 'rage', 'acne', 'breast tenderness', 'lactation']",,negative
+Ethinyl estradiol / etonogestrel,Birth Control,1,"['lethargy', 'mood swings', 'yeast infections', 'irritability', 'depression', 'migraines', 'abdominal pain', 'loss of libido']",False,negative
+Drospirenone / ethinyl estradiol,Acne,3,"['acne/breakouts', 'depression', 'exhaustion', 'negative mood', 'rumination/over-analysis', 'emotional reactivity', 'feeling overwhelmed']",False,negative
+Levonorgestrel,Birth Control,8,"['pain during insertion', 'cervical dilation pain', 'cramping']",,mixed
+Dronedarone,Atrial Fibrillation,8,[],True,positive
+Bupropion / naltrexone,Obesity,8,"['decreased appetite', 'nausea', 'vomiting']",True,positive
+Jolessa,Birth Control,9,['weight gain'],True,positive
+Vortioxetine,Depression,7,"['nausea', 'vomiting']",True,mixed
+Belsomra,Insomnia,9,[],True,positive
+Nitrofurantoin,Urinary Tract Infection,3,[],False,negative
+Pristiq,Anxiety,7,"['nighttime hot flashes', 'decreased ability to have orgasms']",True,mixed
+Nefazodone,Depression,10,"['feeling out of it', 'delayed ejaculation', 'painful ejaculation', 'dry mouth']",True,positive
+Amitriptyline,Insomnia,10,"['weight gain', 'depression', 'feeling out of it']",True,positive
+Quetiapine,Bipolar Disorde,9,[],True,positive
+Claritin-D,Nasal Congestion,9,[],,negative
+Tramadol,Pain,10,[],True,positive
+Lo Loestrin Fe,Birth Control,8,"['emotional instability', 'mood swings', 'crying episodes', 'decreased libido', 'sexual dysfunction']",True,mixed
+Amitriptyline,Burning Mouth Syndrome,9,"['dizziness', 'lethargy']",True,positive
+Tramadol,Pain,10,[],True,positive
+Duloxetine,Depression,5,"['night sweats', 'tremors', 'nausea', 'paranoia', 'anxiety']",True,mixed
+Betaseron,Multiple Sclerosis,8,"['blue black discoloration', 'headache', 'hypertension', 'speaking problems', 'vomiting', 'decreased sexual ability']",True,positive
+Paxil,Anxiety,7,"['decreased libido', 'decreased orgasm', 'constipation', 'decreased energy', 'cognitive delay', 'irritability upon discontinuation', 'hyperactivity upon discontinuation', 'scattered thoughts upon discontinuation']",True,mixed
+Commit,Smoking Cessation,10,[],True,positive
+Levonorgestrel,Emergency Contraception,10,"['headaches', 'nausea']",True,positive
+Eucrisa,Atopic Dermatitis,7,"['itching', 'continued pruritus despite rash clearance']",False,negative
+Suprep Bowel Prep Kit,Bowel Preparation,1,"['nausea', 'headache', 'dizziness', 'presyncope', 'dehydration']",False,negative
+Cryselle,Birth Control,2,"['prolonged bleeding', 'heavy bleeding']",False,negative
+Celebrex,Osteoarthritis,10,[],True,positive
+Provera,Abnormal Uterine Bleeding,6,"['shortness of breath', 'weight gain']",False,negative
+Nexplanon,Birth Control,8,"['mood swings', 'depression', 'sadness', 'spotting']",True,positive
+Risperidone,Schizophrenia,10,[],True,positive
+Vardenafil,Erectile Dysfunction,9,['facial flushing'],True,positive
+Temazepam,Insomnia,1,"['insomnia', 'frustration']",False,negative
+Mirena,Abnormal Uterine Bleeding,1,"['severe cramps', 'bloating', 'acne', 'discomfort']",False,negative
+Dramamine,Nausea/Vomiting,8,"['nausea', 'vomiting']",True,positive
+Methylprednisolone,Allergic Rhinitis,3,"['malaise', 'hot flashes', 'facial flushing', 'lightheadedness', 'dizziness', 'imbalance', 'fatigue', 'increased appetite', 'anxiety', 'irritability']",False,negative
+Daliresp,"COPD, Maintenance",2,"['insomnia', 'diarrhea', 'digestive disturbances']",True,mixed
+Ethinyl estradiol / norgestimate,Birth Control,2,"['mood issues', 'extreme nausea', 'irregular bleeding', 'cramps', 'vomiting', 'weight loss', 'loss of appetite', 'nausea']",False,negative
+Bupropion,Depression,6,"['suicidal ideation', 'tremors', 'psychomotor agitation', 'death anxiety']",True,positive
+Enbrel,Rheumatoid Arthritis,10,[],True,positive
+Duloxetine,Anxiety,10,"['jitteriness', 'nausea', 'stomach upset']",True,positive
+Etanercept,Psoriatic Arthritis,10,[],True,positive
+Jolessa,0</span> users found this comment helpful.,6,"['numbness in head', 'fear/anxiety about symptoms']",True,positive
+Venlafaxine,Depression,6,"['insomnia', 'hyperhidrosis', 'incomplete symptom relief']",True,mixed
+Paroxetine,Anxiety,9,"['decreased libido', 'dizziness', 'dry mouth']",True,positive
+Apriso,Ulcerative Colitis,9,"['muscle numbness', 'night sweats', 'loose bowel movements']",True,positive
+Levitra,Erectile Dysfunction,8,[],True,positive
+Metformin,Insulin Resistance Syndrome,3,"['loose stools', 'fecal incontinence', 'social anxiety', 'agoraphobia']",False,negative
+Citalopram,Generalized Anxiety Disorde,8,"['insomnia', 'increased hunger', 'weight gain']",True,positive
+NP Thyroid,Underactive Thyroid,9,"['weight gain', 'hair loss', 'hypothyroid symptoms']",True,positive
+Mefenamic acid,Period Pain,10,[],True,positive
+Vicodin,Pain,9,[],True,positive
+Estradiol,Atrophic Vaginitis,10,['headache'],True,positive
+Dabigatran,Deep Vein Thrombosis,6,"['bone pain', 'hip pain', 'thumb pain', 'teeth pain', 'jaw pain', 'abdominal swelling', 'reflux']",True,mixed
+Lo Loestrin Fe,Birth Control,9,"['amenorrhea', 'weight gain', 'decreased libido']",True,positive
+Viibryd,Major Depressive Disorde,1,"['insomnia', 'vomiting', 'diarrhea', 'severe headaches', 'severe agitation', 'visual hallucinations', 'formication', 'sweats', 'psychosis', 'loss of consciousness', 'violent behavior', 'withdrawal symptoms']",False,negative
+Lamotrigine,Anxiety,10,"['mild memory impairment', 'rash on face']",True,positive
+Aripiprazole,Schizophrenia,2,"['increased blood sugar', 'extreme hunger', 'weight gain', 'personality changes', 'feeling like a different person']",True,negative
+Tramadol,Pain,8,[],True,positive
+Milnacipran,ibromyalgia,9,"['muscle cramps', 'muscle spasms', 'constipation', 'headaches']",True,positive
+Viibryd,Depression,9,"['fatigue', 'digestive issues']",True,positive
+Viibryd,Depression,7,"['insomnia', 'diarrhea', 'low energy', 'depression']",True,positive
+Hydroxyzine,Nausea/Vomiting,9,[],True,positive
+Codeine / promethazine,Cough,10,"['tachycardia', 'abnormal heart beating', 'vomiting']",True,mixed
+OnabotulinumtoxinA,Cervical Dystonia,8,[],True,positive
+Clonidine,Hypertensive Emergency,8,"['dry mouth', 'drowsiness']",True,positive
+Miconazole,Vaginal Yeast Infection,1,"['burning', 'itching', 'pain']",False,negative
+Breo Ellipta,COPD,2,['short duration of action'],True,mixed
+Latuda,Schizophrenia,10,[],,positive
+Hydroxyzine,Anxiety,10,[],True,positive
+Miconazole,Vaginal Yeast Infection,9,"['burning pain', 'severe pain on insertion']",True,positive
+Tri-Previfem,Birth Control,3,"['nausea', 'vomiting', 'inability to keep food down', 'insomnia']",True,mixed
+Decadron,Inflammatory Conditions,1,"['burning sensation throughout body', 'difficulty breathing', 'severe migraine (unchanged)', 'vaginal tissue inflammation']",False,negative
+Desvenlafaxine,Depression,2,"['extreme agitation', 'severe headaches']",True,mixed
+Adderall,ADHD,10,[],True,positive
+Latuda,Bipolar Disorde,1,"['immobility', 'lack of motivation', 'weight gain', 'sedation']",False,negative
+Monistat 7-Day Combination Pack,Vaginal Yeast Infection,1,"['itching', 'insomnia', 'severe itching']",False,negative
+Malarone,Malaria,1,"['hot flashes', 'cold flashes', 'sweating', 'abdominal cramps', 'headaches', 'amenorrhea', 'menopausal symptoms']",,negative
+Bydureon,"Diabetes, Type 2",10,['injection site lumps'],True,positive
+Citalopram,Anxiety and Stress,8,"['zombie-like feeling', 'felt terrible', 'depression', 'anxiety']",True,positive
+Phendimetrazine,Obesity,9,['insomnia'],True,positive
+Aripiprazole,Depression,6,['weight gain'],True,mixed
+Nucynta ER,Pain,9,[],True,positive
+Harvoni,Hepatitis C,10,[],True,positive
+Benzonatate,Cough,8,[],True,positive
+Nexplanon,Birth Control,7,"['prolonged menstrual bleeding', 'spotting', 'low iron', 'mood changes']",True,mixed
+Sominex,Insomnia,10,['drowsiness'],True,positive
+Lortab,Pain,7,['dependency'],True,mixed
+Lamotrigine,Bipolar Disorde,9,['mania'],True,positive
+Tramadol,Pain,10,[],True,positive
+Benicar,High Blood Pressure,8,[],True,positive
+Etonogestrel,Birth Control,10,['water retention'],True,positive
+Lo Loestrin Fe,Birth Control,2,"['prolonged bleeding', 'acne/facial breakouts', 'mood swings', 'bloating']",False,negative
+Ethinyl estradiol / levonorgestrel,Birth Control,3,"['moodiness', 'depression', 'anxiety', 'decreased libido', 'vaginal dryness', 'increased appetite', 'weight gain']",False,negative
+Aldara,Basal Cell Carcinoma,5,"['severe pain', 'deep muscle tissue pain']",False,negative
+Ethinyl estradiol / norethindrone,Birth Control,5,"['mood swings', 'headaches', 'libido issues', 'stomach cramps', 'fatigue', 'depression', 'weight gain']",False,negative
+Tioconazole,Vaginal Yeast Infection,2,"['severe itching', 'hives', 'allergic reaction']",True,negative
+Zithromax,Otitis Media,1,[],False,negative
+Doxycycline,Pneumonia,10,[],True,positive
+Tiotropium,"COPD, Maintenance",9,[],True,positive
+Bactrim,Bacterial Infection,4,"['back pain', 'low grade fevers', 'chills', 'fatigue', 'eyeball pain']",False,negative
+Monistat 3-Day Combination Pack,Vaginal Yeast Infection,6,"['burning', 'redness', 'irritation']",True,mixed
+Stadol,Labor Pain,10,[],True,positive
+ParaGard,Birth Control,10,"['insertion pain', 'cramps', 'spotting']",True,positive
+Pimecrolimus,Eczema,5,"['severe itching/urge to scratch', 'facial burning', 'facial pain', 'heat sensation on face']",False,negative
+Provigil,Narcolepsy,10,[],True,positive
+Mirena,Birth Control,10,"['cervical discomfort', 'cramps']",True,positive
+TriNessa,Abnormal Uterine Bleeding,7,"['weight gain', 'stretch marks', 'spotting', 'heavy periods']",True,mixed
+Risperidone,Bipolar Disorde,10,[],True,positive
+Alli,99</span> users found this comment helpful.,9,[],True,positive
+BuSpar,Anxiety,8,[],True,positive
+Amlodipine / olmesartan,High Blood Pressure,9,[],True,positive
+Nexplanon,Birth Control,9,[],True,positive
+Memantine,Not Listed / Othe,4,[],,positive
+Lutera,Birth Control,9,['acne'],True,positive
+Ethinyl estradiol / norelgestromin,Birth Control,6,"['mood swings', 'irritability', 'breast swelling', 'breast tenderness']",True,mixed
+Acetazolamide,Pseudotumor Cerebri,8,"['Intracranial hypertension', 'vision loss', 'loss of appetite', 'weight loss', 'tingling in hands', 'tingling in elbows', 'tingling in toes', 'tingling in knees', 'intestinal problems', 'elevated brain pressure']",True,mixed
+Cipro,Bronchitis,5,[],True,positive
+Depo-Provera,Birth Control,10,"['menorrhagia', 'weight gain', 'depression', 'anxiety']",True,positive
+Bupropion,Depression,9,['anxiety exacerbation'],True,positive
+Elidel,Eczema,10,[],True,positive
+Etonogestrel,Birth Control,9,"['weight gain', 'precancerous cells']",True,positive
+Wellbutrin XL,Depression,9,"['flushing of chest and neck', 'decreased appetite']",True,positive
+Atomoxetine,ADHD,1,"['daytime somnolence', 'insomnia', 'emotional blunting', 'depersonalization']",False,negative
+Lamotrigine,Bipolar Disorde,1,"['eye irritation', 'oral ulcers', 'Stevens-Johnson syndrome', 'toxic epidermal necrolysis', 'blindness', 'life-threatening rash']",False,negative
+Yaz,Birth Control,9,['headache'],True,positive
+Tramadol,Depression,9,"['withdrawal symptoms', 'buzzing in head', 'vibration in head']",True,positive
+Eletriptan,Migraine,10,[],True,positive
+Xulane,Birth Control,9,"['nausea', 'mood swings', 'emotional instability', 'increased menstrual cramps']",True,positive
+Levonorgestrel,Birth Control,10,[],,positive
+Escitalopram,Depression,8,"['weight gain', 'worsening mood', 'withdrawal symptoms']",True,mixed
+Zolpidem,Insomnia,5,"['sleep eating', 'memory loss', 'complex sleep behaviors', 'impaired judgment', 'inappropriate decision-making']",True,mixed
+Ativan,Anxiety,10,"['drowsiness', 'difficulty concentrating']",True,positive
+Aspirin / caffeine / orphenadrine,Muscle Pain,10,[],True,positive
+Desvenlafaxine,Post Traumatic Stress Disorde,10,[],True,positive
+Montelukast,Asthma,10,[],True,positive
+Belviq,Weight Loss,10,[],True,positive
+Hydrochlorothiazide,High Blood Pressure,1,[],False,negative
+Acetaminophen,Pain,1,[],False,negative
+Mirena,Birth Control,2,"['hair loss', 'weight gain', 'abdominal weight gain', 'depression worsening', 'fatigue', 'pruritus', 'hives', 'eczema']",False,negative
+Lisinopril,High Blood Pressure,1,"['elevated blood pressure', 'migraines', 'lightheadedness', 'dizziness', 'vomiting']",False,negative
+Etonogestrel,Birth Control,9,"['late menstruation', 'spotting']",True,positive
+OxyContin,Chronic Pain,5,[],False,negative
+Tekturna,High Blood Pressure,1,"['blood pressure elevation', 'piercing headache', 'feeling unwell', 'sore throat']",False,negative
+Blisovi Fe 1 / 20,Birth Control,1,"['vaginal discomfort', 'insomnia', 'itching', 'emotional instability', 'unexplained crying']",False,negative
+Plan B,Emergency Contraception,10,"['cramps', 'menstrual irregularity']",True,positive
+Phenelzine,Depression,10,[],True,positive
+Vistaril,Anxiety,9,"['sedation', 'excessive sleepiness', 'prolonged drowsiness']",True,mixed
+Loestrin 24 Fe,Birth Control,10,"['mood swings', 'irritability', 'feeling strange', 'headaches']",True,positive
+Ethinyl estradiol / levonorgestrel,Birth Control,9,"['nausea', 'weight loss', 'decreased appetite', 'emotional lability']",True,positive
+Simponi,Psoriatic Arthritis,1,"['mobility impairment', 'swelling in toes', 'swelling in feet', 'swelling in ankles', 'swelling in left knee', 'swelling in elbows', 'swelling in wrists', 'swelling in hands', 'swelling in fingers', 'psoriasis on scalp', 'nausea']",False,negative
+Perampanel,Epilepsy,9,"['grogginess', 'mood swings', 'behavior changes']",True,positive
+Acetaminophen / oxycodone,Pain,8,[],True,positive
+Simvastatin,High Cholesterol,1,"['insomnia', 'chest pain', 'numbness in legs', 'numbness in hands', 'left arm pain', 'neck pain']",False,negative
+Tirosint,"Hypothyroidism, After Thyroid Removal",2,"['severe stomach upset', 'gastrointestinal distress']",False,negative
+Mirena,Birth Control,1,"['cystic acne', 'hair loss', 'weight gain', 'constant headaches', 'shooting pain in lower back', 'shooting pain down legs', 'severe fatigue', 'mood swings', 'constant bleeding', 'excruciating abdominal pain']",False,negative
+Ambien,Insomnia,5,"['tolerance buildup', 'insomnia', 'nocturnal awakening']",True,mixed
+Abreva,Herpes Simplex,9,[],True,positive
+Varenicline,Smoking Cessation,10,"['vivid dreams', 'stomach upset']",True,positive
+Sulfasalazine,Rheumatoid Arthritis,9,"['throat tightness', 'hoarseness', 'voice problems', 'finger peeling', 'finger soreness']",True,mixed
+Belviq,Weight Loss,1,[],False,negative
+Zoloft,Panic Disorde,10,"['nausea/sickness', 'decreased appetite', 'insomnia', 'depression', 'paranoia']",True,positive
+Fluconazole,"Onychomycosis, Toenail",10,[],True,positive
+Norethindrone,Birth Control,1,"['depression', 'irregular periods', 'loss of appetite', 'numbness', 'emotional distress']",False,negative
+Depo-Provera,Abnormal Uterine Bleeding,1,"['prolonged bleeding', 'abnormal menstrual bleeding']",False,negative
+Crestor,High Cholesterol,9,"['leg pain', 'joint swelling']",True,positive
+Victoza,Weight Loss,8,['nausea'],True,positive
+Mirena,Birth Control,4,"['insertion pain', 'cysts', 'bleeding', 'cramping', 'headaches', 'fatigue', 'decreased libido']",True,negative
+Varenicline,Smoking Cessation,10,[],True,positive
+Monistat 3-Day Combination Pack,Vaginal Yeast Infection,1,"['severe burning', 'severe itching', 'agitation', 'inability to sleep']",False,negative
+Quetiapine,Borderline Personality Disorde,9,"['sedation', 'carbohydrate cravings', 'weight gain']",True,positive
+Ciclopirox,"Onychomycosis, Toenail",10,[],True,positive
+Armodafinil,Obstructive Sleep Apnea/Hypopnea Syndrome,4,"['mood changes', 'hyperactivity', 'irritability', 'agitation']",True,mixed
+Etonogestrel,Birth Control,2,"['amenorrhea', 'increased appetite', 'weight gain', 'emotional lability', 'stress']",,negative
+Clonazepam,Burning Mouth Syndrome,1,[],False,negative
+Aviane,Birth Control,1,"['severe acne/breakout', 'acne scarring', 'depression', 'emotional changes', 'mood changes', 'prolonged menstrual period', 'severe menstrual cramping', 'blood clots during menstruation']",False,negative
+Amlodipine / olmesartan,High Blood Pressure,10,[],True,positive
+Clonidine,Opiate Withdrawal,10,[],True,positive
+Triumeq,HIV Infection,5,"['stomach pain', 'nausea']",,mixed
+Bupropion / naltrexone,Obesity,3,"['polyuria (frequent urination at night)', 'constipation', 'anxiety', 'nausea when overheated', 'anorexia (loss of appetite)', 'nausea from not eating']",True,mixed
+Miconazole,Vaginal Yeast Infection,1,['burning sensation'],False,negative
+BuSpar,Panic Disorde,9,[],True,positive
+Cymbalta,Diabetic Peripheral Neuropathy,8,"['swelling', 'weight gain', 'crazy dreams', 'difficulty sleeping', 'headache']",True,positive
+Jolivette,Birth Control,5,"['irregular period', 'weight gain', 'food cravings', 'oily scalp', 'hair loss', 'anger', 'stress', 'depression', 'chest pain', 'stomach pain']",False,negative
+Desvenlafaxine,Depression,2,"['irritability', 'mood swings', 'emotional instability']",True,mixed
+Bupropion / naltrexone,Weight Loss,3,"['nausea', 'sweating', 'dry mouth', 'insomnia', 'weight loss', 'loss of appetite']",False,negative
+Chantix,Smoking Cessation,8,[],True,positive
+Desogestrel / ethinyl estradiol,Polycystic Ovary Syndrome,10,['increased appetite'],True,positive
+Flagyl,Diverticulitis,6,"['bad taste in mouth', 'nausea', 'dizziness', 'brain fog', 'dysgeusia (altered taste)']",True,mixed
+Medroxyprogesterone,Abnormal Uterine Bleeding,1,"['breakthrough bleeding', 'prolonged menstrual bleeding', 'continuous light bleeding', 'fatigue', 'reduced sexual confidence', 'emotional distress']",False,negative
+Buspirone,Anxiety,8,['dizziness'],True,positive
+Tramadol,Back Pain,10,[],True,positive
+Oxcarbazepine,Anxiety,6,"['fatigue', 'weakness', 'decreased appetite']",,mixed
+Topiramate,Seizure Prevention,8,[],True,positive
+Latuda,Bipolar Disorde,8,['nausea'],True,positive
+Topamax,Migraine Prevention,5,"['tremors', 'migraines']",False,negative
+Ciprofloxacin,Prostatitis,4,[],True,positive
+Belsomra,Insomnia,1,"['insomnia', 'dry mouth', 'decreased saliva']",False,negative
+Buprenorphine / naloxone,Opiate Dependence,3,"['headaches', 'down and out feeling', 'dysphoria']",True,negative
+Clonazepam,Panic Disorde,10,"['tiredness', 'excessive sleeping']",False,mixed
+Hylan g-f 20,Osteoarthritis,8,[],True,positive
+Xenical,Obesity,10,"['frequent urination', 'oily stools', 'gastrointestinal distress']",,mixed
+Metronidazole,Dental Abscess,10,[],True,positive
+Etonogestrel,Birth Control,10,[],True,positive
+Ethinyl estradiol / levonorgestrel,Birth Control,9,[],True,positive
+Azithromycin,Chlamydia Infection,7,"['nausea', 'stomach cramps', 'sexual dysfunction']",False,negative
+Varenicline,Smoking Cessation,10,[],True,positive
+Naloxegol,"Constipation, Drug Induced",1,"['constipation', 'hard stools', 'abdominal pain', 'severe diarrhea', 'dehydration', 'anorexia', 'fear of kidney damage']",False,negative
+Depo-Provera,Abnormal Uterine Bleeding,8,"['irregular periods', 'heavy menstrual bleeding', 'prolonged menstrual bleeding', 'depression', 'emotional instability', 'mood changes', 'attitude changes', 'increased arguing']",False,negative
+Clindamycin,Skin or Soft Tissue Infection,8,['diarrhea'],True,positive
+Plecanatide,Chronic Idiopathic Constipation,10,[],True,positive
+Desogestrel / ethinyl estradiol,Birth Control,1,"['severe cramping', 'migraine', 'loose bowels', 'tiredness', 'confusion', 'nausea']",False,negative
+Valtrex,Cold Sores,10,[],True,positive
+Testosterone,"Hypogonadism, Male",10,['low testosterone levels'],True,positive
+Tamsulosin,Urinary Tract Stones,9,['mild dizziness'],True,positive
+Ethinyl estradiol / norgestimate,Birth Control,8,"['breast tenderness', 'altered cycle length', 'prolonged menstrual bleeding', 'spotting']",True,mixed
+Lupron Depot-PED,Precocious Puberty,8,['mood swings'],True,positive
+Ceftriaxone,Pneumonia,1,"['severe allergic reaction', 'anaphylaxis']",,negative
+Lidocaine,Neuropathic Pain,6,"['patch does not adhere to skin', 'skin pinching from non-stretchable backing', 'patch rolling']",False,negative
+Varenicline,Smoking Cessation,9,"['nausea', 'confusion']",True,positive
+Menest,Postmenopausal Symptoms,10,[],True,positive
+Bupropion / naltrexone,Obesity,7,"['lethargy', 'nausea']",True,mixed
+Lisdexamfetamine,ADHD,9,"['elevated blood pressure', 'weight loss']",True,mixed
+Singulair,Allergic Rhinitis,9,"['irritability', 'insomnia']",True,mixed
+Norethindrone,Birth Control,4,"['irregular menstruation', 'unpredictable periods']",True,positive
+Ethinyl estradiol / norgestimate,Birth Control,1,"['low hemoglobin', 'abnormal menstrual bleeding', 'continuous bleeding', 'severe menorrhagia', 'weakness', 'severe menstrual cramps', 'inability to perform daily activities']",False,negative
+Ethinyl estradiol / norethindrone,Birth Control,10,[],True,positive
+Vortioxetine,Major Depressive Disorde,9,"['nausea', 'severe nausea (initial weeks)']",True,positive
+Chantix,Smoking Cessation,10,[],True,positive
+Bupropion / naltrexone,Obesity,2,"['stomach upset', 'stomach pain', 'mood problems (with previous medication qsymia)']",False,negative
+Symbicort,"Asthma, Maintenance",3,"['back pain', 'hoarse throat', 'worsening breathing']",False,negative
+Indomethacin,Rheumatoid Arthritis,10,[],True,positive
+Benzoyl peroxide / clindamycin,Acne,10,['dry skin'],True,positive
+Lo Loestrin Fe,Birth Control,3,"['irregular periods', 'weight gain', 'abnormal dreams', 'stress']",False,negative
+Terazosin,Hyperhidrosis,8,[],True,positive
+Diazepam,Anxiety,5,[],,mixed
+Cymbalta,ibromyalgia,10,[],True,positive
+Canagliflozin,"Diabetes, Type 2",1,"['malodorous body fluids', 'foul-smelling saliva', 'foul-smelling urine', 'abnormal taste in mouth', 'persistent symptoms after discontinuation']",False,negative
+Euflexxa,Osteoarthritis,1,"['anaphylactic response', 'life-threatening reaction']",False,negative
+ParaGard,Birth Control,9,"['spotting', 'heavier periods']",True,positive
+Phentermine,Weight Loss,10,[],True,positive
+Nortriptyline,Pain,8,"['dry mouth', 'bad dreams']",True,positive
+Bisacodyl,Constipation,8,"['constipation', 'grogginess', 'bloating', 'abdominal pain', 'cramping', 'diarrhea']",True,positive
+Medroxyprogesterone,Abnormal Uterine Bleeding,1,"['spotting', 'prolonged bleeding', 'migraines', 'iron deficiency']",False,negative
+Ethinyl estradiol / norethindrone,Birth Control,10,[],True,positive
+Amoxicillin,Bacterial Infection,10,['diarrhea'],True,positive
+Deplin,Depression,10,[],True,positive
+Levora,Birth Control,10,[],True,positive
+Amitiza,"Constipation, Chronic",9,"['diarrhea', 'nausea', 'gas']",True,positive
+Effexor XR,Depression,9,"['loss of appetite', 'weight loss', 'sexual dysfunction']",True,positive
+Clonidine,Opiate Withdrawal,8,[],True,positive
+Cholecalciferol,Vitamin D Deficiency,10,[],True,positive
+Diclofenac,Period Pain,9,[],True,positive
+Saxenda,Obesity,9,['nausea'],True,positive
+Ergocalciferol,Vitamin D Deficiency,1,['headache'],False,negative
+Zoloft,Social Anxiety Disorde,8,"['headaches', 'chest discomfort', 'nausea', 'decreased appetite', 'weight loss', 'head feels bound up', 'fatigue', 'insomnia']",True,mixed
+Belviq,Obesity,10,"['bowel movement urgency', 'increased bowel movements']",True,positive
+Medroxyprogesterone,Birth Control,8,['mood swings'],True,positive
+Ethinyl estradiol / norelgestromin,Birth Control,8,['itching at patch site'],True,positive
+Alprazolam,Panic Disorde,10,"['drowsiness', 'blurred vision']",True,positive
+Oxycodone,Pain,9,[],True,positive
+Etonogestrel,Birth Control,9,"['mood swings', 'severe headaches', 'weight gain', 'acne']",True,positive
+Dronedarone,Atrial Fibrillation,1,"['nausea', 'loose stools', 'headache']",,negative
+Loestrin 24 Fe,Birth Control,2,['weight gain'],True,mixed
+Disulfiram,Alcohol Dependence,6,[],True,mixed
+Etonogestrel,Birth Control,3,"['prolonged bleeding', 'spotting', 'heavy bleeding', 'irregular menstrual cycle']",False,negative
+Carbamazepine,Bipolar Disorde,1,"['suicidal thoughts', 'rash', 'flushing', 'irregular menstruation']",False,negative
+LoSeasonique,Birth Control,1,"['prolonged menstrual bleeding', 'heavy menstrual flow', 'spotting', 'sexual dysfunction']",False,negative
+Armodafinil,Obstructive Sleep Apnea/Hypopnea Syndrome,9,[],True,positive
+Belsomra,Insomnia,3,"['restlessness', 'agitation', 'nocturnal awakenings', 'shallow sleep', 'non-restorative sleep', 'excessive daytime somnolence']",False,negative
+Cymbalta,Depression,1,"['insomnia', 'depression', 'suicidal ideation', 'withdrawal symptoms']",False,negative
+Adipex-P,Weight Loss,10,"['dry mouth', 'insomnia', 'constipation', 'stomach cramps']",True,positive
+Clonazepam,Anxiety,9,[],True,positive
+Adalimumab,Crohn's Disease,10,['drug induced hepatitis'],True,positive
+Naratriptan,Migraine,10,[],True,positive
+Gabapentin,Pain,8,"['stomach upset', 'drowsiness']",True,positive
+Plan B,Emergency Contraception,10,"['headaches', 'light bleeding']",True,positive
+Emtricitabine / rilpivirine / tenofovir,HIV Infection,10,[],True,positive
+Nexplanon,Birth Control,7,"['headaches', 'mood swings', 'emotional instability']",True,positive
+Acetaminophen / hydrocodone,Pain,8,[],True,positive
+Cephalexin,Otitis Media,8,[],True,positive
+Adderall,ADHD,8,"['high blood pressure', 'low libido', 'binge eating', 'mood changes', 'irritability']",True,mixed
+Thorazine,Psychosis,1,"['confusion', 'sedation', 'zombie-like effect']",False,negative
+Nexplanon,Birth Control,10,[],True,positive
+Cefdinir,Otitis Media,1,['severe hives'],False,negative
+Escitalopram,Anxiety,9,"['night sweats', 'fatigue', 'increased anxiety']",True,positive
+Endocet,Pain,5,[],True,positive
+Lyrica,Neuropathic Pain,7,"['elbow pain', 'arm pain', 'arm inflammation', 'reduced arm mobility', 'confusion about time/disorientation']",True,mixed
+Vyvanse,ADHD,8,[],True,mixed
+Minocycline,Acne,6,['itching'],,negative
+Phentermine / topiramate,Weight Loss,9,"['tingling in hands', 'tingling in feet', 'altered taste (carbonated beverages taste flat)', 'taste changes']",True,positive
+Acetaminophen / hydrocodone,Pain,10,[],True,positive
+Nexplanon,Birth Control,6,"['weight gain', 'nausea', 'dehydration', 'feeling off']",True,mixed
+Uricalm,Dysuria,10,[],True,positive
+Oxymorphone,Pain,10,[],True,positive
+Diethylpropion,Obesity,10,['severe headaches'],True,positive
+Levonorgestrel,Birth Control,5,"['severe cramping during insertion', 'eye watering', 'shooting pains', 'left-sided pain', 'random spotting', 'random PMS symptoms', 'cramping', 'string-related discomfort']",True,mixed
+Tadalafil,Erectile Dysfunction,8,[],True,positive
+Ethinyl estradiol / levonorgestrel,Birth Control,7,"['weight gain', 'acne', 'heavy periods']",True,mixed
+Drospirenone / ethinyl estradiol,Premenstrual Dysphoric Disorde,10,[],True,positive
+Fluconazole,Vaginal Yeast Infection,1,[],False,negative
+Levonorgestrel,Birth Control,9,"['spotting', 'prolonged menstrual bleeding', 'breast tenderness', 'light cramping', 'nocturia', 'feeling wired']",True,positive
+Bupropion,Depression,1,"['irritability', 'aggression', 'anxiety', 'mood disturbance']",False,negative
+Adalimumab,Psoriasis,10,[],True,positive
+Tramadol,Back Pain,1,"['cold-like symptoms', 'sweating', 'insomnia', 'restless leg syndrome', 'depressed mood', 'leg pain']",True,negative
+Nexplanon,Birth Control,9,"['bruising', 'amenorrhea']",True,positive
+Anoro Ellipta,COPD,10,[],True,positive
+Paroxetine,Panic Disorde,4,"['mood swings', 'nervousness']",,mixed
+Tamsulosin,Benign Prostatic Hyperplasia,8,"['persistent cough', 'decreased ejaculate volume']",,negative
+Viagra,Erectile Dysfunction,10,[],True,positive
+Doxycycline,Pneumonia,1,"['nausea', 'vomiting']",False,negative
+Sertraline,Depression,2,"['acne', 'depression', 'social withdrawal']",False,negative
+Duac,Acne,10,[],True,positive
+Mirena,Birth Control,4,"['uterine perforation', 'device displacement']",,negative
+Lo Loestrin Fe,Birth Control,9,['black vaginal discharge'],True,positive
+Amphetamine / dextroamphetamine,ADHD,10,[],True,positive
+Aripiprazole,Depression,2,"['anxiety', 'restlessness', 'inability to sit still']",False,negative
+Ethinyl estradiol / levonorgestrel,Abnormal Uterine Bleeding,8,['nausea'],True,positive
+Dulcolax,Constipation,6,"['cramping', 'diarrhea', 'nausea', 'vomiting', 'gastric reflux', 'dry heaving', 'gas', 'bloating']",True,negative
+Metronidazole,Dental Abscess,4,"['awful taste', 'excessive thirst', 'taste aversion to liquids']",,negative
+Cyclosporine,Keratoconjunctivitis Sicca,1,[],False,negative
+Ciprofloxacin,Diverticulitis,8,['dysgeusia'],True,mixed
+Pristiq,Major Depressive Disorde,7,"['nausea', 'loss of balance', 'fatigue', 'sexual dysfunction', 'weight gain', 'poor short-term memory']",True,positive
+Ocular lubricant,Eye Redness,9,['stinging'],True,positive
+Tri-Sprintec,Birth Control,1,"['acne worsened', 'weight gain', 'increased menstrual cramps', 'emotional instability', 'breast pain', 'decreased libido', 'abnormal spotting', 'irregular menstrual cycle']",False,negative
+Oxymorphone,Pain,10,"['cognitive impairment (forgetfulness)', 'respiratory depression']",True,positive
+Toradol,Pain,10,[],True,positive
+Intuniv,ADHD,2,"['sleepiness', 'nausea', 'nocturnal awakening with crying']",False,negative
+Sarna Sensitive,Pruritus,10,[],True,positive
+Mirena,Birth Control,9,"['insertion pain', 'spotting', 'hormonal acne', 'cystic acne', 'weight gain']",True,positive
+Minoxidil,Alopecia,10,[],True,positive
+Etonogestrel,Birth Control,3,"['constant bleeding', 'weight gain', 'mood changes', 'laziness', 'bloating']",False,negative
+Tacrolimus,"Organ Transplant, Rejection Prophylaxis",10,[],True,positive
+Exenatide,"Diabetes, Type 2",2,"['hyperglycemia (spiking sugars around 300)', 'elevated fasting blood glucose (180-200)', 'increased appetite', 'hypoglycemic symptoms (hunger, tremors, diaphoresis, vision disturbances)', 'weight gain', 'social withdrawal', 'reduced exercise tolerance', 'anxiety about driving']",False,negative
+Relistor,"Constipation, Drug Induced",10,['slight cramping'],True,positive
+Phentermine,Weight Loss,10,"['dry mouth', 'paresthesia (tingly head)']",True,positive
+Mirena,Birth Control,7,"['spotting', 'PMS symptoms', 'ovarian cysts', 'pain from ovarian cysts']",True,positive
+Reclipsen,Birth Control,9,"['mood changes', 'heavy menstrual bleeding', 'urinary tract infections']",True,positive
+Ethinyl estradiol / levonorgestrel,Birth Control,4,"['weight gain', 'abdominal pain', 'menstruation pain']",True,mixed
+Promethazine,Nausea/Vomiting,10,[],True,positive
+Suprep Bowel Prep Kit,Bowel Preparation,7,"['bloating', 'nausea']",True,positive
+Brisdelle,Hot Flashes,8,[],True,positive
+Norco,Pain,9,[],,neutral
+Nexplanon,Birth Control,3,"['amenorrhea', 'depression', 'anxiety', 'emotional instability', 'weight gain']",False,negative
